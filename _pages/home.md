@@ -1,7 +1,7 @@
 ---
-title: "NDS Lab - Home"
+title: "KIND Lab - Home"
 layout: homelay
-excerpt: "Network and Data Science Lab at Vanderbilt University."
+excerpt: "Knowledge Intelligence and Discovery Lab at University of Oregon."
 sitemap: false
 permalink: /
 ---
@@ -52,10 +52,10 @@ permalink: /
 
 <h1>Welcome!</h1>
 
-We are the <strong>Network and Data Science (NDS) lab</strong> at Vanderbilt University, led by <a href="https://www.TylerDerr.com">Tyler Derr</a>. Our research lies in data mining and machine learning, especially deep learning on graphs, social network analysis, and data science for social good with applications such as drug discovery, education, political science, autism research, etc.
+We are the <strong>Knowledge Intelligence and Discovery (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in data mining, machine learning for knowledge intelligence and discovery, especially graph machine learning, network analysis, Agentic-AI, spatial-temporal learning, and information retrieval for social good applications in drug discovery, infrastructure analysis, document intelligence, recommender systems, etc.
 
 
-We are recruiting PhD students to work with us in the NDS Lab on topics in our general interests (see NDS Lab research interests below). Master's and undergraduate students within Vanderbilt University and visiting scholars are also welcome. Please see <a href="https://tylersnetwork.github.io/openings.html">here</a> for position details.
+We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests (see KIND Lab research interests below). Master's and undergraduate students within the University of Oregon and visiting scholars are also welcome. Please see <a href="https://https://yuwang0103.github.io/recruiting/">here</a> for position details.
 
  <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="100%" style="float: center" />
 
