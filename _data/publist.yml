@@ -1,0 +1,17 @@
+#- title: "Title and image for highlight 1/0"
+#  image: TiNHigh.png
+#  description: Description for highlight
+#  authors: authors
+#  link:
+#    url: url
+#    display: url text eg conf (year)
+#  highlight: 1
+
+#- title: "Title and image for highlight 1/0"
+#  image: TiNHigh.png
+#  description: Description for highlight
+#  authors: authors
+#  link:
+#    url: url
+#    display: url text eg conf (year)
+#  highlight: 0
