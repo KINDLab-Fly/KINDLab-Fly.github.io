@@ -1,7 +1,7 @@
 ---
-title: "NDS Lab - Publications"
+title: "KIND Lab - Publications"
 layout: gridlay
-excerpt: "NDS Lab -- Publications."
+excerpt: "KIND Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
