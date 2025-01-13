@@ -51,22 +51,24 @@ We are the <strong>Knowledge Intelligence and Discovery (KIND) Lab</strong> at t
 
 We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests (see KIND Lab research interests below). Master, undergraduate students, and visiting scholars are also welcome. Please see <a href="https://https://yuwang0103.github.io/recruiting/">here</a> for position details.
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="100%" style="float: center" />
+<!--  <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="100%" style="float: center" />
+-->
 
-<br>
+<!-- <br>
  We are grateful to the following for supporting our research:
 <br>
-<div class="center">
+-->
+<!-- <div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/uo.png" style="width: 100px">
-<!--   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/afrl.jpg" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/thd.jpg" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/nvidia.png" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.png" style="width: 100px"> -->
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.png" style="width: 100px">
 </figure>
 </div>
-
+ -->
 <!-- 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_1.jpg" style="width: 210px">
