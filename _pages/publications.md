@@ -131,29 +131,13 @@ The Twelfth International Conference on Learning Representations (ICLR), Vienna,
 Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal, Tyler Derr.\
 non-archival version accepted at Mining and Learning on Graphs (MLG) Workshop at KDD 2023. 
 
-An In-depth Analysis of the Broken Ties on Twitter\
-Kiana Kheiri, Muhammad Fawad Akbar Khan, Tyler Derr, and Hamid Karimi.\
-In Proceedings of the IEEE International Conference on Big Data (Big Data), Sorrento, Italy, December 15-18, 2023.
-
-[NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics](https://arxiv.org/abs/2306.06202)\
-Anwar Said, Roza G. Bayrak, Tyler Derr, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos.\
-Advances in Neural Information Processing (NeurIPS), New Orleans, LA, USA, December 10 - 16, 2023.
-
-[Enhanced Graph Neural Networks with Ego-Centric Spectral Subgraph Embeddings Augmentation](https://arxiv.org/abs/2310.12169)\
-Anwar Said, Mudassir Shabbir, Tyler Derr, Waseem Abbas, and Xenofon Koutsoukos. 
-In Proceedings of the 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, December 15-17, 2023.
-
-Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles\
-Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang.\
-IEEE Transactions on Knowledge and Data Engineering, 2023. 
-
-ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering\
-Yunfei Hu\*, Yuying Zhao\*, Curtis T. Schunk, Yingxiang Ma, Tyler Derr, and Xin Maizie Zhou.\
-iScience, 2023. (also accepted and presented at RECOMB-Seq, Istanbul, Turkey, April 14-15, 2023)
+[A Bayesian Approach for Inferring the Topology of Interdependent Infrastructure Networks](https://par.nsf.gov/servlets/purl/10534278)\
+Yu Wang, Jinzhu Yu, Hiba Baroud.\
+In Proceedings of the ACM Web Conference 2023 (TheWebConf), Austin, TX, USA, April 30 - May 4, 2023.
 
 [Collaboration-Aware Graph Convolutional Network for Recommender Systems](https://arxiv.org/abs/2207.06221)\
 Yu Wang, Yuying Zhao, Yi Zhang, Tyler Derr.\
-In Proceedings of the ACM Web Conference 2023 (TheWebConf), Austin, TX, USA, April 30 - May 4, 2023.
+14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP 14, Dublin, Ireland, July 9-13, 2023.
 
 [Fairness and Explainability: Briding the Gap Towards Fair Model Explanations](https://arxiv.org/abs/2212.03840)\
 Yuying Zhao, Yu Wang, Tyler Derr.\
@@ -169,25 +153,9 @@ In Proceedings of the 37th AAAI Conference on Artificial Intelligence (AAAI), Wa
 Yu Wang and Tyler Derr.\
 In Proceedings of the 22nd International Conference on Data Mining Workshop (ICDMW) Machine Learning on Graphs (MLoG), Orlando, FL, USA, November 28 - December 1, 2022.
 
-[THINK: Temporal Hypergraph Hyperbolic Network](https://tylersnetwork.github.io/papers/icdm22-think.pdf)\
-Shivam Agarwal, Ramit Sawhney, Megh Thakkar, Preslav Nakov, Jiawei Han, and Tyler Derr.\
-In Proceedings of the 22nd International Conference on Data Mining (ICDM), Orlando, FL, USA, November 28 - December 1, 2022.
-
-[Decision Boundaries of Deep Neural Networks](https://arxiv.org/abs/1912.11460)\
-Hamid Karimi and Tyler Derr.\
-In Proceedings of the 21th IEEE International Conference on Machine Learning and Applications (ICMLA), Nassau, The Bahamas, December 12-15, 2022. 
-
-[Enhancing Individual Fairness through Propensity Score Matching](https://nds-vu.github.io/publications/)\
-Hamid Karimi, Muhammad Fawad Akbar Khan, Haochen Liu, Tyler Derr, and Hui Liu.\
-In Proceedings of the 9th IEEE International Conference on Data Science and Advanced Analytics (DSAA), Virtual, October 13-16, 2022.
-
 [Imbalanced Graph Classification via Graph-of-Graph Neural Networks](https://arxiv.org/pdf/2112.00238.pdf)\
 Yu Wang, Yuying Zhao, Neil Shah, and Tyler Derr.\
 In Proceedings of the 31th ACM International Conference on Information and Knowledge Management (CIKM), Atlanta, GA, USA, October 17-21, 2022.
-
-[Inferring EHR Utilization Workflows through Audit Logs](https://nds-vu.github.io/publications/)\
-Xinmeng Zhang\*, Yuying Zhao\*, Chao Yan, Tyler Derr, and You Chen.\
-AMIA Annual Symposium Proceedings. Vol. 2022. American Medical Informatics Association, Washington D.C., USA, November 5-9, 2022.
 
 [Improving Fairness in Graph Neural Networks via Mitigating Sensitive Attribute
 Leakage](https://arxiv.org/pdf/2206.03426.pdf)\
@@ -210,111 +178,35 @@ Proceedings of the 15th ACM International Conference on Web Search and Data Mini
 Yu Wang, Wei Jin, and Tyler Derr\
 Graph Neural Networks: Foundations, Frontiers, and Applications (Lingfei Wu, Peng Cui, Jian Pei, and Liang Zhao (Eds.)), Springer, Chapter 18. 2022
 
+[Comparing Topology-based and Flow-based Resilience Assessment of Interdependent Infrastructure Networks](https://par.nsf.gov/biblio/10418129)\
+Jinzhu Yu, Yu Wang, and Hiba Baroud\
+13th International Conference on Structural Safety and Reliability, ICOSSAR 2021-2022, Tongji University, Shanghai, China
+
 ### Publications in 2021
 
 [Tree Decomposed Graph Neural Network](https://tylersnetwork.github.io/papers/cikm21-tree_decomposed_gnn.pdf)\
 Yu Wang and Tyler Derr\
 In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conf., November 1-5, 2021
 
-[Deep Adversarial Network Alignment](https://tylersnetwork.github.io/papers/deep_adversarial_network_alignment.pdf)\
-Tyler Derr, Hamid Karimi, Xiaorui Liu, Jiejun Xu, and Jiliang Tang\
-In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conf., November 1-5, 2021
-
-[Graph Feature Gating Network](https://nds-vu.github.io/publications/)\
-Wei Jin, Xiaorui Liu, Yao Ma, Tyler Derr, Charu Aggarwal and Jiliang Tang\
-In Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Virtual Conf., November 1-5, 2021
-
-[Road to the White House: Analyzing the Relations Between Mainstream and Social Media During the U.S. Presidential Primaries](https://arxiv.org/pdf/2009.09307.pdf)\
-Aaron Brookhouse\*, Tyler Derr\* , Hamid Karimi\*, H. Russell Bernard, and Jiliang Tang\
-In Proceedings of the 32nd ACM Conference on Hypertext and Social Media, Virtual Conf., August 30 - September 2, 2021
-
-[Interpretable Visual Understanding with Cognitive Attention Network](https://tylersnetwork.github.io/papers/icann21-visual_understanding_cognitive_attention_ntework.pdf)\
-Xuejiao Tang, Wenbin Zhang, Yi Yu, Kea Turner, Tyler Derr, Mengyu Wang, Eirini Ntoutsi\
-In Proceedings of the 30th International Conference on Artificial Neural Networks (ICANN), Virtual Conf., September 14-17, 2021
-<!-- \[Code [https://github.com/tanjatang/CAN repo]\] -->
-
-[Graph Adversarial Attack via Rewiring](https://arxiv.org/pdf/1906.03750.pdf)\
-Yao Ma, Suhang Wang, Tyler Derr, Lingfei Wu, and Jiliang Tang\
-In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), Singapore (Virtual Conf.), August 14-18, 2021
-
-[Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach](https://tylersnetwork.github.io/papers/aaai21-hypergraph_attention_stock_selection.pdf)\
-Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, Tyler Derr, Rajiv Shah\
-In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI), Virtual Conf., February 2-9, 2021
-
-[Node Similarity Preserving Graph Convolutional Networks](https://tylersnetwork.github.io/papers/wsdm21-node_similarity_preserving_gcn.pdf)\
-Wei Jin, Tyler Derr, Yiqi Wang, Yao Ma, Zitao Liu, Jiliang Tang\
-In Proceedings of the 14th ACM International Conference on Web Search and Data Mining (WSDM), Jerusalem, Israel, March 8-12, 2021
-<!-- \[Code [https://github.com/ChandlerBang/SimP-GCN repo]\] -->
-
-[CopyAttack: Attacking Black-box Recommendations via Copying Cross-domain User Profiles](https://tylersnetwork.github.io/papers/icde21-recsys_crossdomain_user_copy_attack.pdf)\
-Wenqi Fan, Tyler Derr, Xiangyu Zhao,Yao Ma,Hui Liu, Jianping Wang, Jiliang Tang, Qing Li\
-In Proceedings of the IEEE 37th International Conference on Data Engineering (ICDE), Chania, Greece, April 19-22, 2021
+[Generating Synthetic Systems of Interdependent Critical Infrastructure Systems](https://ieeexplore.ieee.org/abstract/document/9662448)\
+Yu Wang, Jin-Zhu Yu, and Hiba Baroud\
+IEEE Systems Journal, 2021
 
 
 ### Publications in 2020
 
-[Understanding and Promoting Teacher Connections in Online Social Media: A Case Study on Pinterest](https://tylersnetwork.github.io/papers/tale20-promoting_teacher_connections_online.pdf)\
-Hamid Karimi, Kaitlin T. Torphy, Tyler Derr, Kenneth A. Frank, and Jiliang Tang\
-In Proceedings of the IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE), Takamatsu, Japan, December 8-11, 2020
+[Quantifying the Interdependency Strength Across Critical Infrastructure Systems Using A Dynamic Network Flow Redistribution Model.](https://par.nsf.gov/biblio/10233935)\
+Yu Wang, Jin-Zhu Yu, and Hiba Baroud\
+Proceedings of the 30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference
 
-[Deep Graph Learning: Foundations, Advances and Applications](https://ai.tencent.com/ailab/ml/KDD-Deep-Graph-Learning.html)\
-Yu Rong, Tingyang Xu, Junzhou Huang, Wenbing Huang, Hong Cheng, Yao Ma, Yiqi Wang, Tyler Derr, Lingfei Wu, Tengfei Ma\
-Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), San Diego, USA, August 22-27, 2020
+[A data-integration analysis on road emissions and traffic patterns.](https://link.springer.com/chapter/10.1007/978-3-030-63393-6_34)\
+Ao Qu, Yu Wang, Yue Hu, Yanbing Wang, and Hiba Baroud\
+17th Smoky Mountains Computational Sciences and Engineering Conference, 2020
 
-[Learning from Incomplete Labeled Data via Adversarial Data Generation](https://tylersnetwork.github.io/papers/icdm20-incomplete_labeled_data_learning.pdf)\
-Wentao Wang, Tyler Derr, Yao Ma, Suhang Wang, Hui Liu, Zitao Liu, and Jiliang Tang\
-In Proceedings of the 18th International Conference on Data Mining (ICDM), Sorrento, Italy, November 17-20, 2020
+[An enhanced percolation method for automatic detection of cracks in concrete bridges](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/8896176)\
+Qingfei Gao, Yu Wang, Jun Li, Kejian Sheng, Chenguang Liu\
+Advances in Civil Engineering, 2020
 
-[Online Academic Course Performance Prediction using Relational Graph Convolutional Neural Network](https://tylersnetwork.github.io/papers/edm20-online_course_prediction_gnn.pdf)\
-Tyler Derr\*, Hamid Karimi\*, Jiangtao Huang, and Jiliang Tang\
-In Proceedings of 13th International Conference on Educational Data Mining (EDM), Ifrane, Morocco, July 10-13, 2020
-
-[Characterizing Teacher Connections in Online Social Media: A Case Study on Pinterest](https://tylersnetwork.github.io/papers/lats20-teacher_connections_on_pinterest.pdf)\
-Hamid Karimi, Kaitlin T. Torphy, Tyler Derr, Kenneth A. Frank, and Jiliang Tang\
-(Work-in-Progress) In Proceedings of the 7th Learning@ Scale (L@S), Atlanta, USA, August 12-14, 2020
-
-[Towards Improving Sample Representativeness of Teachers on Online Social Media: A Case Study on Pinterest](https://tylersnetwork.github.io/papers/aied20-improving_teacher_representativeness_online.pdf)\
-Hamid Karimi, Tyler Derr, Kaitlin T. Torphy, Kenneth A. Frank, and Jiliang Tang\
-In Proceedings of the 21st International Conference on Artificial Intelligence in Education (AIED), Ifran, Morocco, July 6-10, 2020
-
-[Link and Interaction Polarity Predictions in Signed Networks](https://tylersnetwork.github.io/papers/snam20-link_interaction_polarity_prediction.pdf)\
-Tyler Derr, Zhiwei Wang, Jamell Dacon, and Jiliang Tang\
-Social Network Analysis and Mining. 10(18). 2020
-
-[ROSE: Role-based Signed Network Embedding](https://tylersnetwork.github.io/papers/www20-rolebased_signed_embedding.pdf)\
-Amin Javari, Tyler Derr, Pouya Esmalian, Jiliang Tang, and Kevin Chen-Chuan Chang\
-In Proceedings of the 29th International Conference on The World Wide Web (WWW), Taipei, Taiwan, April 20-24, 2020
-
-[A Deep Model for Predicting Online Course Performance](https://tylersnetwork.github.io/papers/aaai-ai4edu2020-predicting_online_course_performance.pdf)\
-Hamid Karimi\*, Jiangtao Huang\*, Tyler Derr\
-Workshop on Artificial Intelligence for Education (AI4EDU) at the 34th AAAI Conference on Artificial Intelligence (AAAI), New York, USA, February 7-12, 2020
-
-[Epidemic Graph Convolutional Network](https://tylersnetwork.github.io/papers/wsdm20-epidemic_gcn.pdf)\
-Tyler Derr, Yao Ma, Wenqi Fan, Xiarui Liu, Charu Aggarwal, and Jiliang Tang\
-In Proceedings of the 13th ACM International Conference on Web Search and Data Mining (WSDM), Houston, USA, February 3-7, 2020
-
-[Network Analysis with Negative Links](https://tylersnetwork.github.io/papers/wsdm20-network_analysis_with_negative_links.pdf)\
-Tyler Derr\
-In Proceedings of the 13th ACM International Conference on Web Search and Data Mining (WSDM), Houston, USA, February 3-7, 2020
-
-### Publications in 2019
-
-[Balance in Signed Bipartite Networks](https://tylersnetwork.github.io/papers/cikm2019-signed_bipartite_networks.pdf)\
-Tyler Derr, Cassidy Johnson, Yi Chang, and Jiliang Tang\
-In Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM), Beijing, China, November 3-7, 2019
-<!-- \[Code [https://github.com/tylersnetwork/signed_bipartite_networks repo]\] -->
-
-[Multi-Factor Congressional Vote Prediction](https://tylersnetwork.github.io/papers/asonam19-congressional_vote_prediction.pdf)\
-Tyler Derr\*, Hamid Karimi\*, Aaron Brookhouse, and Jiliang Tang\
-In Proceedings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Vancouver, Canada, August 27-30, 2019
-
-[Deep Adversarial Social Recommendation](https://tylersnetwork.github.io/papers/ijcai19-adversarial_social_recommendation.pdf)\
-Wenqi Fan, Tyler Derr, Yao Ma, Qing Li, Jiliang Tang, and Jianping Wang\
-In Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI), Macao, China, August 10-16, 2019
-
-[A Roadmap for Incorporating Online Social Media in Educational Research](https://tylersnetwork.github.io/papers/tcr2019_social_media_in_education_research.pdf)\
-Hamid Karimi, Tyler Derr, Kaitlin T. Torphy, Kenneth A. Frank, and Jiliang Tang\
-In Teachers College Record Volume 121 Number 14, 2019
 
 {% for publi in site.data.publist %}
 
