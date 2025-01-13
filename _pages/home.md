@@ -55,7 +55,7 @@ permalink: /
 We are the <strong>Knowledge Intelligence and Discovery (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in data mining, machine learning for knowledge intelligence and discovery, especially graph machine learning, network analysis, Agentic-AI, spatial-temporal learning, and information retrieval for social good applications in drug discovery, infrastructure analysis, document intelligence, recommender systems, etc.
 
 
-We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests (see KIND Lab research interests below). Master's and undergraduate students within the University of Oregon and visiting scholars are also welcome. Please see <a href="https://https://yuwang0103.github.io/recruiting/">here</a> for position details.
+We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests (see KIND Lab research interests below). Master, undergraduate students, and visiting scholars are also welcome. Please see <a href="https://https://yuwang0103.github.io/recruiting/">here</a> for position details.
 
  <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="100%" style="float: center" />
 
