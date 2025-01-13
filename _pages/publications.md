@@ -316,34 +316,6 @@ In Proceedings of the 28th International Joint Conference on Artificial Intellig
 Hamid Karimi, Tyler Derr, Kaitlin T. Torphy, Kenneth A. Frank, and Jiliang Tang\
 In Teachers College Record Volume 121 Number 14, 2019
 
-### Publications 2018 and before
-
-[Signed Graph Convolutional Networks](https://tylersnetwork.github.io/papers/icdm18-signed_graph_convolutional.pdf)\
-Tyler Derr, Yao Ma, and Jiliang Tang\
-In Proceedings of the 18th International Conference on Data Mining (ICDM), Singapore, November 17-20, 2018
-<!-- \[[https://github.com/tylersnetwork/SGCN]\] -->
-
-[Congresional Vote Analysis Using Signed Networks](https://tylersnetwork.github.io/papers/icdmw218-congressional_analysis_signed_networks.pdf)\
-Tyler Derr and Jiliang Tang\
-In Proceedings of the 18th International Conference on Data Mining Workshops (ICDMW), Singapore, November 17-20, 2018
-
-[Signed Network Modeling Based on Structural Balance Theory](https://arxiv.org/pdf/1710.09485.pdf)\
-Tyler Derr, Charu Aggarwal, and Jiliang Tang\
-In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM), Turin, Italy, October 22-26, 2018
-
-[Opinions Power Opinions: Joint Link and Interaction Polarity Predictions in Signed Networks](https://ieeexplore.ieee.org/abstract/document/8508263)\
-Tyler Derr, Zhiwei Wang, and Jiliang Tang\
-In Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), Barcelona, Spain, August 28-31, 2018
-
-[Relevance Measurements in Online Signed Social Networks](https://tylersnetwork.github.io/papers/mlg18-signed_relevance_measurements.pdf)\
-Tyler Derr, Chenxing Wang, Suhang Wang, and Jiliang Tang\
-KDD 14th International Workshop on Mining and Learning with Graphs (MLG), London, United Kingdom, August 20, 2018 
-
-[Understanding and Predicting Weight Loss with Mobile Social Networking Data](https://tylersnetwork.github.io/papers/cikm17-weightloss.pdf)\
-Zhiwei Wang, Tyler Derr, Dawei Yin, and Jiliang Tang\
-In Proceedings of the 26th ACM International Conference on Information and Knowledge Management (CIKM), 2017
-
-
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
