@@ -1,52 +1,22 @@
-- name: Xin (Allen) Wang
-  photo: XinWang.png
+- name: Utkarsh Sahu
+  photo: Utkarsh.png
   info: Computer Science MS
-  email: xin.wang.1@vanderbilt.edu
-  number_educ: 1
-  education1: Vanderbilt Engineering Graduate Fellowship Award
-  education2: 
-  education3: 
-  education4: 
-  education5: 
-  website: https://github.com/xwang38438
-  linkedin: 0
-  twitter: 0
-  github: 0
-
-- name: Qinwen Ge
-  photo: QinwenGe.jpg
-  info: Computer Science MS
-  email: qinwen.ge@vanderbilt.edu
-  number_educ: 1
-  education1: Vanderbilt Engineering Graduate Fellowship Award
-  education2: 
-  education3: 
-  education4: 
-  education5: 
-  website: 0
-  linkedin: https://www.linkedin.com/in/qinwen-ge/
-  twitter: 0
-  github: 0
-
-- name: Xuhui (Daniel) Zhan
-  photo: XuhuiZhan.png
-  info: Data Science MS
-  email: xuhui.zhan@vanderbilt.edu
+  email: utkarsh@uoregon.edu
   number_educ: 0
   education1: 
   education2: 
   education3: 
   education4: 
   education5: 
-  website: https://xuhuizhan5.github.io/
-  linkedin: https://www.linkedin.com/in/danielzhandatascience/
+  website: 
+  linkedin: https://www.linkedin.com/in/utkarsh-sahu-457622159/
   twitter: 0
   github: 0
 
-- name: Fanhao Zhou
-  photo: fanghao.JPG
+- name: Ruimin Zhang
+  photo: RuiminZhang.png
   info: Computer Science MS
-  email: fanhao.zhou@vanderbilt.edu
+  email: ruiminz@uoregon.edu
   number_educ: 0
   education1: 
   education2: 
@@ -54,7 +24,37 @@
   education4: 
   education5: 
   website: 0
-  linkedin: https://www.linkedin.com/in/%E5%87%A1%E7%9A%93-%E5%91%A8-569ba7291/
+  linkedin: https://www.linkedin.com/in/ruiminz/
+  twitter: 0
+  github: 0
+
+- name: Najmul Hassan
+  photo: Najmul.png
+  info: Computer Science MS
+  email: najmulhassan1628@gmail.com
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: https://najhassan.github.io/
+  linkedin: https://www.linkedin.com/in/najhassan/
+  twitter: 0
+  github: 0
+
+- name: Eric Zander
+  photo: EricZander.JPG
+  info: Computer Science MS
+  email: ezander@uoregon.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/eric-zander/
   twitter: 0
   github: 0
 
