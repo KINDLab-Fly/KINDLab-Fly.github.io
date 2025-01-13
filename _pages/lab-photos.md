@@ -1,11 +1,11 @@
 ---
-title: "NDS Lab - Pictures"
+title: "KIND Lab - Pictures"
 layout: piclay
-excerpt: "NDS Lab -- Pictures"
+excerpt: "KIND Lab -- Pictures"
 permalink: /lab-photos/
 ---
 
-# NDS Lab Photos
+# KIND Lab Photos
 
 <!-- 
 #### Example youtube video:
