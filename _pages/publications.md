@@ -11,7 +11,7 @@ permalink: /publications/
 
 <!-- 
 ## Highlights
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=et6IhFcAAAAJ))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en))
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 {% assign even_odd = number_printed | modulo: 2 %}
