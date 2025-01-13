@@ -24,9 +24,6 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/logo.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Lab_Event_S24_games.png" alt="Slide 2" />
-        </div>
-        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eugene.jpg" alt="Slide 3" />
         </div>
          <div class="item">
