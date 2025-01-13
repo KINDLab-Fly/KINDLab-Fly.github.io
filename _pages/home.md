@@ -18,7 +18,7 @@ We are the <strong>Knowledge Intelligence and Discovery (KIND) Lab</strong> at t
         <li data-target="#carousel" data-slide-to="1"></li>
         <!-- <li data-target="#carousel" data-slide-to="2"></li> -->
     </ol>
-  <div class="carousel-inner" markdown="0">
+<!--   <div class="carousel-inner" markdown="0">
 
     <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/KIND_logo.png" alt="Slide 1" />
@@ -32,7 +32,7 @@ We are the <strong>Knowledge Intelligence and Discovery (KIND) Lab</strong> at t
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo2.png" alt="Slide 4" />
     </div>
-  </div>
+  </div> -->
     
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
