@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Network and Data Science Lab at Vanderbilt University."
+excerpt: "Knowledge Intelligence and Discovery Lab at University of Oregon."
 sitemap: false
 permalink: /news.html
 ---
