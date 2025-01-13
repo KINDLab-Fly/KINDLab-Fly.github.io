@@ -1,7 +1,7 @@
 ---
-title: "NDS Lab - Members"
+title: "KIND Lab - Members"
 layout: gridlay
-excerpt: "NDS Lab: Members"
+excerpt: "KIND Lab: Members"
 sitemap: false
 permalink: /people/
 ---
