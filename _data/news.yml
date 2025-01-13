@@ -1,456 +1,196 @@
+# - date: 3/2024
+#   headline: "Tyler and Yu are invited to serve as Student Travel Award Chair at CIKM'24!"
+
+# - date: 11/2023
+#   headline: "Tyler receives Vanderbilt's Provost Immersion Grant for Faculty!"
+
+# - date: 12/2023
+#   headline: "Yu's paper <a href=\"https://arxiv.org/abs/2308.11730\" target=\"_blank\" rel=\"noopener noreferrer\">''Knowledge Graph Prompting for Multi-Document Question Answering''</a> received the Best Paper Award in the New Frontiers of Graph ML workshop at NeurIPS’24!"
+
+# - date: 11/2023
+#   headline: "Lance is selected as a Finalist in Vanderbilt's 3MT Competition!"
+
+# - date: 11/2023
+#   headline: "Tyler gave an invited talk ''Data-Centric AI for Real-World Graph Applications'' at the ORNL Core Universities AI Workshop at Georgia Tech!"
+
+# - date: 9/2023
+#   headline: "Our preprint <a href=\"https://arxiv.org/abs/2310.02164\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey of Graph Unlearning</a>  is now online!"
+
+# - date: 9/2023
+#   headline: "Yu's internship work with Adobe has been transformed into a medium article <a href=\"https://blog.gopenai.com/knowledge-graph-prompting-a-new-approach-for-multi-document-question-answering-ab5c4006a429/\" target=\"_blank\" rel=\"noopener noreferrer\">''Knowledge Graph Prompting: A New Approach for Multi-Document Question Answering''</a>  
+#   and it's now online!"
+
+# - date: 8/2023
+#   headline: "Our preprint <a href=\"https://arxiv.org/abs/2308.16375\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is now online!"
+
+# - date: 8/2023
+#   headline: "Tyler invited to serve as Student Travel Award Chair at WSDM'24!"
+
+# - date: 8/2023
+#   headline: "Anne receives the Provost's Graduate Fellowship and will join the VeriVITAL and NDS Labs as a new PhD in Fall 2023!"
+
+# - date: 8/2023
+#   headline: "Yuying's KDD'23 Blog article <a href=\"https://kdd.org/kdd2023/blog-changes-women-in-stem/\" target=\"_blank\" rel=\"noopener noreferrer\">''Progress and Promise for The Shifting Landscape of Gender in STEM''</a> is now online!"
+
+# - date: 7/2023
+#   headline: "Our preprint <a href=\"https://arxiv.org/abs/2307.04644\" target=\"_blank\" rel=\"noopener noreferrer\">Fairness and Diversity in Recommender Systems: A Survey</a> is now online!"
+
+# - date: 6/2023
+#   headline: "Tyler is awarded the <a href=\"https://engineering.vanderbilt.edu/news/2023/vanderbilt-researcher-wins-nsf-career-award-to-close-a-gap-in-network-analysis-by-better-modeling-negative-online-interactions-like-unfollowing-and-blocking/\" target=\"_blank\" rel=\"noopener noreferrer\">NSF CAREER Award</a>!"
+
+# - date: 6/2023
+#   headline: "Tyler gave an invited talk ''Towards Data-Centric Graph Learning for Real-World Applications'' at Max Planck Institute for Mathematics in the Sciences (MPI MiS)!"
+
+# - date: 6/2023
+#   headline: "Catherine's paper ''The Friendship Paradox: An Analysis on Signed Social Networks with Positive and Negative Links'' was accepted to KDD'23 Undergraduate Consortium!"
+
+# - date: 4/2023
+#   headline: "Yu is awarded Vanderbilt's 2023 Graduate Leadership Anchor Award for Research!"
+
+# - date: 4/2023
+#   headline: "Tyler gave an invited talk ''Creating and Leveraging Knowledge Graphs in Real-World Applications'' at ACM Web Conference during Knowledge Graph Day!"
+
+# - date: 3/2023
+#   headline: "Tyler was selected for the Visiting Faculty Research Program (VFRP) of The Air Force Research Laboratory's Information Directorate (AFRL/RI) and its Information Institute (II)!"
+    
+# - date: 1/2023
+#   headline: "Yu is awarded The American Bureau of Shipping Scholarship!"
+
+# - date: 12/2022
+#   headline: "Yuying accepts her offer to join Visa Research as a PhD research intern for Summer'23!"
+
+# - date: 12/2022
+#   headline: "Yu accepts his offer to join Adobe as a PhD research intern for Summer'23!"
+
+# - date: 11/2022
+#   headline: "Tyler gave a keynote at the ICDM'22 International Workshop on Knowledge Graphs on ''Overcoming Data Quality Issues in Graph Learning''!"
+
+# - date: 11/2022
+#   headline: "Tyler gave invited talks on ''Overcoming Data Quality Issues in Graph Learning'' at ORNL Core Universities AI Workshop (at Virginia Tech), Shandong University, North Carolina State University!"
+
+# - date: 10/2022
+#   headline: Yu's paper ''Demystify Degree-related Bias in Link Prediction'' is accepted to ICDM'22 Machine Learning on Graphs (MLoG) Workshop and received their NSF Student Travel Award!"
+
+# - date: 8/2022
+#   headline: "Tyler invited to serve as Publicity Chair at KDD'23!" 
+
+# - date: 8/2022
+#   headline: "Tyler gave an invited talk ''Machine Learning on Graphs'' at Oak Ridge National Laboratory!"
+
+# - date: 6/2022
+#   headline: "Tyler invited to serve as Associate Editor for Elsevier Big Data Research!"
+
+# - date: 5/2022
+#   headline: "Our research was highlighted in VU Provost C. Cybele Raver's keynote at The Vanderbilt Summit on Modern Conflict!"
+  
+# - date: 5/2022
+#   headline: "Yu awarded Vanderbilt's C. F. Chen Best Paper Award in Computer Science for his paper <a href=\"https://dl.acm.org/doi/abs/10.1145/3459637.3482487\" target=\"_blank\" rel=\"noopener noreferrer\">Tree Decomposed Graph Neural Network</a>!"
+
+# - date: 4/2022
+#   headline: "CFP: Our workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to IEEE ICDM'22!"
+
+# - date: 1/2022
+#   headline: "Yuying and Yu receive Student Travel Awards to present at SDM'22!"
+
+# - date: 3/2022
+#   headline: "Lance receives Nvidia Academic Hardware Grant for his project on Interpretable 3D Graph Neural Networks for Drug Discovery!"
+
+# - date: 3/2022
+#   headline: "Yu accepts his offer to join The Home Depot's Data Science group as a research intern for Summer'22!"
+
+# - date: 3/2022
+#   headline: "Tyler receives Outstanding PC Member Award at WSDM'22! (Credit to NDS subreviewers Yu, Yuying, Lance, Zhaoqing)"
+
+# - date: 3/2022
+#   headline: "Our book chapter <a href=\"https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Self-supervised Learning</a> is published in the new edited Springer book <a href=\"https://graph-neural-networks.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Foundations, Frontiers, and Applications</a>!"
+
+# - date: 2/2022
+#   headline: "Our open-source library <a href=\"https://github.com/astrazeneca/chemicalx\" target=\"_blank\" rel=\"noopener noreferrer\">ChemicalX: A Deep Learning Library for Drug Pair Scoring</a> is released in collaboration with AstraZeneca and Harvard Medical School (and accepted at KDD'22)!"
+
+# - date: 1/2022
+#   headline: "Yu is accepted to present his work on <a href=\"https://dl.acm.org/doi/pdf/10.1145/3488560.3502218\" target=\"_blank\" rel=\"noopener noreferrer\">Fair Graph Representation Learning with Imbalanced and Biased Data</a> at WSDM'22 Doctoral Consortium!"
+
+# - date: 1/2022
+#   headline: "Yu passes his Preliminary Exam!"
+  
+  
+# - date: 12/2021
+#   headline: "CFP: <a href=\"https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Complex Graphs</a> with Tyler as Topic Editor for Frontiers in Big Data"
+
+# - date: 12/2021
+#   headline: "Our preprint <a href=\"https://arxiv.org/pdf/2112.00238.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Imbalanced Graph Classification via Graph-of-Graph Neural Networks</a> is now online!"
+
+# - date: 11/2021
+#   headline: "CFP: Our workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to ACM WSDM'22!"
+
+# - date: 10/2021
+#   headline: "Our preprint <a href=\"https://yuwvandy.github.io/paper/dpgnn.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification</a> is now online!"
+
+# - date: 9/2021
+#   headline: "Our survey preprint <a href=\"https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Self-supervised Learning</a> is now online!"
+
+# - date: 7/2021
+#   headline: "Yu's first paper <a href=\"https://arxiv.org/pdf/2108.11022.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Tree Decomposed Graph Neural Network</a> in NDS Lab is accepted to ACM CIKM'21!"
+  
+# - date: 6/2021
+#   headline: "Tyler receives Best Reviewer Award at ICWSM'21!"
+
+# - date: 5/2021
+#   headline: "Kayla and Yuying receive ICWSM Scholarships to participate in ICWSM'21!"
+
+# - date: 4/2021
+#   headline: "Yuying receives the IBM Fellowship Award and will join NDS Lab as a new PhD in Fall 2021!"
+
+# - date: 4/2021
+#   headline: "Yu receives a Student Travel Award and Tyler receives Early Career Travel Award to attend SDM'21 supported by NSF!"
+
+# - date: 4/2021
+#   headline: "Welcome new BS member! <br /> <span style=\"color: #808080\">Sam joins NDS Lab</span>"
+
+# - date: 4/2021
+#   headline: "Chet and Ben receive DSI-SRP fellowship for summer 2021!"
+
+# - date: 3/2021
+#   headline: "Trevor receives VUSRP fellowship for summer 2021!"
+
+# - date: 3/2021
+#   headline: "Yu accepted to present his work at SDM'21 Doctoral Forum!"
+
+- date: 2024
+  headline: "YEAR"
+
+- date: 12/2024
+  headline: "Welcome new BS members! <br /> <span style=\"color: #808080\">Ethan join KIND Lab</span>"
+
+- date: 12/2024
+  headline: "Yu Wang received the outstanding reviewer award at ECML-PKDD'24!"
+
+- date: 12/2024
+  headline: "1 paper accepted at AAAI'25!"
+
+- date: 12/2024
+  headline: "Yu Wang gave a talk at LoG UW-Seattle Meetup!"
+
+- date: 11/2024
+  headline: "1 tutorial accepted to SDM'25!"
+
+- date: 10/2020
+  headline: "1 paper accepted at WSDM'24!"
+  
+- date: 10/2020
+  headline: "Tutorial on Data-centric Graph ML given at CIKM'24!"
+
+- date: 10/2024
+  headline: "Welcome new MS member! <br /> <span style=\"color: #808080\">Ruimin, Utkarsh join KIND Lab</span>"
+  
+- date: 10/2024
+  headline: "1 paper accepted at CIKM'24!"
+
+- date: 10/2024
+  headline: "Welcome new PhD member! <br /> <span style=\"color: #808080\">Yongjia join KIND Lab</span>"
+
 - date: 9/2024
   headline: "Our paper <a href=\"https://www.welqrate.org/\" target=\"_blank\" rel=\"noopener noreferrer\">WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking</a> is accepted at NeurIPS2024!"
-  
+
 - date: 9/2024
-  headline: "Anne’s first PhD paper ‘’FairNNV: The Neural Network Verification Tool For Certifying Fairness’’ is accepted at ACM Conference on AI in Finance (ICAIF2024)!"
-
-- date: 8/2024
-  headline: "Our paper <a href=\"https://arxiv.org/abs/2308.16375\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is accepted at IEEE TKDE!"
-  
-- date: 8/2024
-  headline: "Tyler was invited to serve as Associate Editor for ACM Transactions on Knowledge Discovery from Data (TKDD)!"
-  
-- date: 8/2024
-  headline: "Tyler gave an invited keynote ‘’Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability’’ at the <a href=\"https://ai-activities.github.io/EAI-workshop-24/keynote/\" target=\"_blank\" rel=\"noopener noreferrer\">Ethical Artificial Intelligence Methods and Applications (EAI-KDD) Workshop</a> at KDD2024!"
-  
-- date: 7/2024
-  headline: "Our paper <a href=\"https://arxiv.org/abs/2405.17602\" target=\"_blank\" rel=\"noopener noreferrer\">Augmenting Textual Generation via Topology Aware Retrieval</a>  is accepted at CIKM2024!"
-  
-- date: 7/2024
-  headline: "Bo was accepted into the CIKM 2024 PhD Symposium for his work “Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective”!"
-  
-- date: 7/2024
-  headline: "Our tutorial <a href=\"https://nds-vu.github.io/tutorials/cikm24/\" target=\"_blank\" rel=\"noopener noreferrer\">Data-Quality-Aware Graph Machine Learning</a> is accepted at CIKM2024!"
-  
-- date: 6/2024
-  headline: "Our preprint <a href=\"https://arxiv.org/abs/2406.11685\" target=\"_blank\" rel=\"noopener noreferrer\">Edge Classification on Graphs: New Directions in Topological Imbalance</a>  is now online!"
-
-- date: 6/2024
-  headline: "Tyler awarded NSF grant to support student travel for US-based students to attend KDD2024!"
-  
-- date: 6/2024
-  headline: "Our LGGM Text2Graph Generation <a href=\"https://lggm-lg.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">demo</a>  is now live, which is the first large graph generative model that supports generating graphs from textual descriptions!"
-  
-- date: 6/2024
-  headline: "Our preprint <a href=\"https://arxiv.org/abs/2406.05109\" target=\"_blank\" rel=\"noopener noreferrer\">Large Graph Generative Models</a>  is now online!"
-
-- date: 5/2024
-  headline: "Our preprint <a href=\"https://arxiv.org/abs/2405.17602\" target=\"_blank\" rel=\"noopener noreferrer\">Augmenting Textual Generation via Topology Aware Retrieval</a>  is now online!"
-
-- date: 5/2024
-  headline: "Yuying starts her Summer'24 research internship at Visa Research!"
-
-- date: 4/2024
-  headline: "Lance's team won 1st Place in VU's AI Showcase by the Data Science Institute!"
-
-- date: 4/2024
-  headline: "Our tutorial on ''Data Quality-Aware Graph Machine Learning'' is now <a href=\"https://nds-vu.github.io/tutorials/sdm24/\" target=\"_blank\" rel=\"noopener noreferrer\">online</a> and was presented at SDM'24!"
-
-- date: 4/2024
-  headline: "Yu receives the Best Doctoral Forum Poster Runner-Up Award at SDM'24!"
-
-- date: 4/2024
-  headline: "Anne is awarded the Department of Energy (DOE) Computational Science Graduate Fellowship!"
-
-- date: 4/2024
-  headline: "Yuying's paper <a href=\"https://arxiv.org/abs/2307.04644\" target=\"_blank\" rel=\"noopener noreferrer\">''Fairness and Diversity in Recommender Systems: A Survey''</a> is accepted at ACM TIST!"
-
-- date: 3/2024
-  headline: "Catherine successfully defended her MS thesis ''An Analysis of Local Neighborhood-based Paradoxes in Signed Social Networks!''"
-
-- date: 3/2024
-  headline: "Tyler and Yu are invited to serve as Student Travel Award Chair at CIKM'24!"
-
-- date: 3/2024
-  headline: "Yu is awarded Vanderbilt's Outstanding Doctoral Student Award! (one of three for the whole university)"
-
-- date: 3/2024
-  headline: "Yu will join University of Oregon as a Tenure-track Assistant Professor in Computer Science starting Fall'24!"
-
-- date: 2/2024
-  headline: "Laura is selected for the 2024 Vanderbilt Undergraduate Summer Research Program (VUSRP)!"
-
-- date: 2/2024
-  headline: "Yu's paper ''Knowledge Graph-based Session Recommendation with Session-Adaptive Propagation'' is accepted at WWW'24!"
-
-- date: 1/2024
-  headline: "Yuying's paper ''Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness'' is accepted at WWW'24!"
-  
-- date: 1/2024
-  headline: "Tyler is invited to give a talk  ''Network Science for Social Good'' in the Frist Center Salon Series!"
-  
-- date: 1/2024
-  headline: "Yu's paper <a href=\"https://arxiv.org/abs/2310.04612\" target=\"_blank\" rel=\"noopener noreferrer\">''A Topological Perspective on Demystifying GNN-Based Link Prediction Performance''</a> is accepted at ICLR'24!"
-
-- date: 2023
-  headline: "YEAR"
-
-- date: 11/2023
-  headline: "Tyler receives Vanderbilt's Provost Immersion Grant for Faculty!"
-
-- date: 12/2023
-  headline: "Yu's paper <a href=\"https://arxiv.org/abs/2308.11730\" target=\"_blank\" rel=\"noopener noreferrer\">''Knowledge Graph Prompting for Multi-Document Question Answering''</a> received the Best Paper Award in the New Frontiers of Graph ML workshop at NeurIPS’24!"
-
-- date: 12/2023
-  headline: "Yuying's paper ''Leveraging Opposite Gender Interaction Ratio as a Path Towards Fairness in Online Dating Recommendations Based on User Sexual Orientation'' is accepted at AAAI'24!"
-
-- date: 12/2023
-  headline: "Yu's paper <a href=\"https://arxiv.org/abs/2308.11730\" target=\"_blank\" rel=\"noopener noreferrer\">''Knowledge Graph Prompting for Multi-Document Question Answering''</a> is accepted at AAAI'24!"
-
-- date: 11/2023
-  headline: "Our tutorial ''Data Quality-Aware Graph Machine Learning'' led by Yu, is accepted at SDM'24!"
-
-- date: 11/2023
-  headline: "Tyler invited to serve as an Associate Editor of Tsinghua Science and Technology!"
-
-- date: 11/2023
-  headline: "Lance is selected as a Finalist in Vanderbilt's 3MT Competition!"
-
-- date: 11/2023
-  headline: "Tyler is invited to serve as Student Travel Award Chair at KDD'24!"
-
-- date: 11/2023
-  headline: "Our <a href=\"https://mlog-workshop.github.io/wsdm24\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG) Workshop</a> was accepted at WSDM'24 (currently on its 5th iteration)!"
-
-- date: 11/2023
-  headline: "Our paper ''An In-depth Analysis of the Broken Ties on Twitter'' is accepted at IEEE BigData'23!"
-
-- date: 11/2023
-  headline: "Tyler gave an invited talk ''Data-Centric AI for Real-World Graph Applications'' at the ORNL Core Universities AI Workshop at Georgia Tech!"
-
-- date: 10/2023
-  headline: "Our preprint <a href=\"https://arxiv.org/abs/2310.04612\" target=\"_blank\" rel=\"noopener noreferrer\">A Topological Perspective on Demystifying GNN-Based Link Prediction Performance</a>  is now online!"
-
-- date: 11/2023
-  headline: "Tyler is invited to serve as Publicity Chair for DSAA'24!"
-
-- date: 10/2023
-  headline: "Yu's intern paper <a href=\"https://arxiv.org/abs/2308.11730\" target=\"_blank\" rel=\"noopener noreferrer\">Knowledge Graph Prompting for Multi-Document Question Answering</a>  was accepted to NeurIPS 2023 GLFrontiers Workshop!"
-
-- date: 9/2023
-  headline: "Our preprint <a href=\"https://arxiv.org/abs/2310.02164\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey of Graph Unlearning</a>  is now online!"
-
-- date: 9/2023
-  headline: "Our paper <a href=\"https://arxiv.org/abs/2306.06202\" target=\"_blank\" rel=\"noopener noreferrer\">''NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics''</a> is accepted at NeurIPS'23 Benchmark and Dataset Track!"
-
-- date: 9/2023
-  headline: "Yuying accepts her return offer to join Visa Research as a PhD research intern for Summer'24!"
-
-- date: 9/2023
-  headline: "Yu's internship work with Adobe has been transformed into a medium article <a href=\"https://blog.gopenai.com/knowledge-graph-prompting-a-new-approach-for-multi-document-question-answering-ab5c4006a429/\" target=\"_blank\" rel=\"noopener noreferrer\">''Knowledge Graph Prompting: A New Approach for Multi-Document Question Answering''</a>  
-  and it's now online!"
-
-- date: 9/2023
-  headline: "Tyler gave an invited talk ''Enhancing Graph Neural Networks with Data Quality-Aware Learning'' at the Institute for Artificial Intelligence, Tsinghua University!"
-
-- date: 9/2023
-  headline: "Tyler invited to serve as an Associate Editor of IEEE Transactions on Big Data!"
-
-- date: 8/2023
-  headline: "Welcome new MS members! <br /> <span style=\"color: #808080\"> Qinwen and Xin (Allen) join NDS Lab</span>"
-
-- date: 8/2023
-  headline: "Welcome new BS members! <br /> <span style=\"color: #808080\"> Leyao join NDS Lab</span>"
-
-- date: 8/2023
-  headline: "Our preprint <a href=\"https://arxiv.org/abs/2308.16375\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is now online!"
-
-- date: 8/2023
-  headline: "Tyler invited to serve as Student Travel Award Chair at WSDM'24!"
-
-- date: 8/2023
-  headline: "Bo will join the NDS Lab as a new PhD in Spring 2024!"
-
-- date: 8/2023
-  headline: "Anne receives the Provost's Graduate Fellowship and will join the VeriVITAL and NDS Labs as a new PhD in Fall 2023!"
-
-- date: 8/2023
-  headline: "Xueqi will join the NDS Lab as a transfer PhD in Fall'23 and had received Vanderbilt's IBM Fellowship Award!"
-
-- date: 8/2023
-  headline: "Yuying's KDD'23 Blog article <a href=\"https://kdd.org/kdd2023/blog-changes-women-in-stem/\" target=\"_blank\" rel=\"noopener noreferrer\">''Progress and Promise for The Shifting Landscape of Gender in STEM''</a> is now online!"
-
-- date: 7/2023
-  headline: "Our preprint <a href=\"https://arxiv.org/abs/2307.04644\" target=\"_blank\" rel=\"noopener noreferrer\">Fairness and Diversity in Recommender Systems: A Survey</a> is now online!"
-
-- date: 6/2023
-  headline: "Tyler is awarded the <a href=\"https://engineering.vanderbilt.edu/news/2023/vanderbilt-researcher-wins-nsf-career-award-to-close-a-gap-in-network-analysis-by-better-modeling-negative-online-interactions-like-unfollowing-and-blocking/\" target=\"_blank\" rel=\"noopener noreferrer\">NSF CAREER Award</a>!"
-
-- date: 6/2023
-  headline: "Tyler gave an invited talk ''Towards Data-Centric Graph Learning for Real-World Applications'' at Max Planck Institute for Mathematics in the Sciences (MPI MiS)!"
-
-- date: 6/2023
-  headline: "Yuying and Catherine receive Student Travel Awards to participate at KDD'23!"
-
-- date: 6/2023
-  headline: "Catherine's paper ''The Friendship Paradox: An Analysis on Signed Social Networks with Positive and Negative Links'' was accepted to KDD'23 Undergraduate Consortium!"
-
-- date: 6/2023
-  headline: "Yuying's paper ''Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio'' was accepted to MLG Workshop at KDD'23!"
-
-- date: 6/2023
-  headline: "Our preprint <a href=\"https://arxiv.org/abs/2306.06202\" target=\"_blank\" rel=\"noopener noreferrer\">NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics</a> was accepted to the Workshop on Graph Learning Benchmarks at KDD'23 and is now online with new datasets, code, and documentation!"
-
-- date: 6/2023
-  headline: "Tyler gave an invited talk ''Advanced Graph Analytics for Real-World Applications'' in the Griffiss Institute's Tech Talks at Air Force Research Lab Information Directorate!"
-
-- date: 5/2023
-  headline: "Yuying is awarded Vanderbilt's C. F. Chen Best Paper Runner-Up Award in Computer Science for her paper <a href=\"https://ojs.aaai.org/index.php/AAAI/article/view/26344\" target=\"_blank\" rel=\"noopener noreferrer\">Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations</a>!"
-
-- date: 4/2023
-  headline: "Yu is awarded Vanderbilt's 2023 Graduate Leadership Anchor Award for Research!"
-
-- date: 4/2023
-  headline: "Tyler gave an invited talk ''Creating and Leveraging Knowledge Graphs in Real-World Applications'' at ACM Web Conference during Knowledge Graph Day!"
-
-- date: 3/2023
-  headline: "Tyler was selected for the Visiting Faculty Research Program (VFRP) of The Air Force Research Laboratory's Information Directorate (AFRL/RI) and its Information Institute (II)!"
-  
-- date: 3/2022
-  headline: "Yuying is accepted to present her work ''Learning Beyond Utility for Social Good: Fairness, Explainability, and Diversity'' at SDM'23 Doctoral Forum and received a student travel award!"
-
-- date: 3/2023
-  headline: "Lance gave an <a href=\"https://www.youtube.com/watch?v=P73oEikxI3Y&list=PLoVkjhDgBOt11Q3wu8lr6fwWHn5Vh3cHJ&index=4\" target=\"_blank\" rel=\"noopener noreferrer\">invited talk</a> at <a href=\"https://m2d2.io/talks/m2d2/about/\" target=\"_blank\" rel=\"noopener noreferrer\">Molecular Modeling and Drug Discovery (M2D2)</a> organized by Mila and Valance Discovery presenting his work MolKGNN!"
-
-- date: 3/2023
-  headline: "CFP: Our workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to IEEE ICDM'23!"
-
-- date: 3/2023
-  headline: "Yuying's paper <a href=\"https://www.cell.com/iscience/fulltext/S2589-0042(23)00869-6\" target=\"_blank\" rel=\"noopener noreferrer\">ADEPT: Autoencoder with Differentially Expressed Genes and Imputation for a Robust Spatial Transcriptomics Clustering</a> is accepted for presentation at RECOMB-Seq 2023 and publication in iScience!"
-
-- date: 1/2023
-  headline: "Welcome new BS members! <br /> <span style=\"color: #808080\"> Macharia join NDS Lab</span>"
-
-- date: 1/2023
-  headline: "Yu's paper <a href=\"https://arxiv.org/abs/2207.06221\" target=\"_blank\" rel=\"noopener noreferrer\">Collaboration-Aware Graph Convolutional Network for Recommender Systems</a> is accepted at TheWebConf'23!"
-
-- date: 1/2023
-  headline: "Yuying passes her Preliminary Exam!"
-  
-- date: 1/2023
-  headline: "Yu is awarded The American Bureau of Shipping Scholarship!"
-
-- date: 2022
-  headline: "YEAR"
-
-- date: 12/2022
-  headline: "Yuying accepts her offer to join Visa Research as a PhD research intern for Summer'23!"
-
-- date: 12/2022
-  headline: "Yu accepts his offer to join Adobe as a PhD research intern for Summer'23!"
-
-- date: 12/2022
-  headline: "Yuying and Lance are awarded AAAI-23 Student Scholarships and selected as volunteers!"
-
-- date: 11/2022
-  headline: "Tyler gave a keynote at the ICDM'22 International Workshop on Knowledge Graphs on ''Overcoming Data Quality Issues in Graph Learning''!"
-
-- date: 11/2022
-  headline: "Lance's first paper in NDS lab <a href=\"https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1.full.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery</a> is accepted at AAAI'23!"
-  
-- date: 11/2022
-  headline: "Yuying's paper <a href=\"https://arxiv.org/pdf/2212.03840.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Fairness and Explainability: Bridging the Gap Towards Fair Model Explanations</a> is accepted at AAAI'23!"
-
-- date: 11/2022
-  headline: "Tyler gave invited talks on ''Overcoming Data Quality Issues in Graph Learning'' at ORNL Core Universities AI Workshop (at Virginia Tech), Shandong University, North Carolina State University!"
-
-- date: 10/2022
-  headline: Yu's paper ''Demystify Degree-related Bias in Link Prediction'' is accepted to ICDM'22 Machine Learning on Graphs (MLoG) Workshop and received their NSF Student Travel Award!"
-
-- date: 9/2022
-  headline: "Shivam's paper <a href=\"https://tylersnetwork.github.io/papers/icdm22-think.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">THINK: Temporal Hypergraph Hyperbolic Network</a> is accepted at IEEE ICDM'22!"
-
-- date: 8/2022
-  headline: "Tyler invited to serve as Publicity Chair at KDD'23!" 
-
-- date: 8/2022
-  headline: "Lance's preprint <a href=\"https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1.full.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure Relationship Modeling in Drug Discovery</a> is now online!"
-
-- date: 8/2022
-  headline: "Tyler gave an invited talk ''Machine Learning on Graphs'' at Oak Ridge National Laboratory!"
-
-- date: 8/2022
-  headline: "Yu's paper <a href=\"https://arxiv.org/pdf/2112.00238.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Imbalanced Graph Classification via Graph-of-Graph Neural Networks</a> is accepted at ACM CIKM'22!"
-
-- date: 7/2022
-  headline: "Yu's preprint <a href=\"https://arxiv.org/pdf/2207.06221.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Collaboration-Aware Graph Convolutional Networks for Recommendation Systems</a> is now online!"
-
-- date: 6/2022
-  headline: "Tyler invited to serve as Associate Editor for Elsevier Big Data Research!"
-
-- date: 6/2022
-  headline: "Yu's paper Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification is accepted to MLG Workshop at KDD'22"
-
-- date: 6/2022
-  headline: "Yuying's first paper in NDS Lab ''Inferring EHR Utilization Workflows through Audit Logs'' is accepted to AMIA'22!"
-
-- date: 5/2022
-  headline: "Yu's first-author paper Fair View Graph Neural Network for Fair Node Representation Learning is accepted to KDD'22!"
-
-- date: 5/2022
-  headline: "3 papers accepted to KDD'22!"
-  
-- date: 5/2022
-  headline: "Our research was highlighted in VU Provost C. Cybele Raver's keynote at The Vanderbilt Summit on Modern Conflict!"
-  
-- date: 4/2022
-  headline: "CFP: Our workshop <a href=\"https://gta3.hrl.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Techniques for Adversarial Activity Analytics (GTA3)</a> is accepted to IEEE BigData'22!"
-  
-- date: 5/2022
-  headline: "Yu awarded Vanderbilt's C. F. Chen Best Paper Award in Computer Science for his paper <a href=\"https://dl.acm.org/doi/abs/10.1145/3459637.3482487\" target=\"_blank\" rel=\"noopener noreferrer\">Tree Decomposed Graph Neural Network</a>!"
-
-- date: 4/2022
-  headline: "CFP: Our workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to IEEE ICDM'22!"
-
-- date: 3/2022
-  headline: "Yi receives the Dean's Graduate Fellowship Award and will join NDS Lab as a new PhD in Fall 2022!"
-
-- date: 1/2022
-  headline: "Yuying and Yu receive Student Travel Awards to present at SDM'22!"
-
-- date: 3/2022
-  headline: "Lance receives Nvidia Academic Hardware Grant for his project on Interpretable 3D Graph Neural Networks for Drug Discovery!"
-
-- date: 3/2022
-  headline: "Yu accepts his offer to join The Home Depot's Data Science group as a research intern for Summer'22!"
-
-- date: 3/2022
-  headline: "Tyler receives Outstanding PC Member Award at WSDM'22! (Credit to NDS subreviewers Yu, Yuying, Lance, Zhaoqing)"
-
-- date: 3/2022
-  headline: "Yuying is accepted to present her work Bridging the Gap between Fairness and Explainability at SDM'22 Doctoral Forum!"
-
-- date: 3/2022
-  headline: "Yu is accepted to present his work on Overcoming Data Quality Issues for Graph Neural Networks at SDM'22 Doctoral Forum!"
-
-- date: 3/2022
-  headline: "Our book chapter <a href=\"https://link.springer.com/chapter/10.1007/978-981-16-6054-2_18\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Self-supervised Learning</a> is published in the new edited Springer book <a href=\"https://graph-neural-networks.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Foundations, Frontiers, and Applications</a>!"
-
-- date: 2/2022
-  headline: "Our open-source library <a href=\"https://github.com/astrazeneca/chemicalx\" target=\"_blank\" rel=\"noopener noreferrer\">ChemicalX: A Deep Learning Library for Drug Pair Scoring</a> is released in collaboration with AstraZeneca and Harvard Medical School (and accepted at KDD'22)!"
-
-- date: 1/2022
-  headline: "Yu is accepted to present his work on <a href=\"https://dl.acm.org/doi/pdf/10.1145/3488560.3502218\" target=\"_blank\" rel=\"noopener noreferrer\">Fair Graph Representation Learning with Imbalanced and Biased Data</a> at WSDM'22 Doctoral Consortium!"
-
-- date: 1/2022
-  headline: "Yu receives NSF Student Travel Award to present at WSDM'22!"
-
-- date: 1/2022
-  headline: "Yu passes his Preliminary Exam!"
-  
-- date: 2021
-  headline: "YEAR"
-  
-- date: 12/2021
-  headline: "Lance passes his Qualifying Exam!"
-
-- date: 12/2021
-  headline: "CFP: <a href=\"https://www.frontiersin.org/research-topics/30288/machine-learning-on-complex-graphs\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Complex Graphs</a> with Tyler as Topic Editor for Frontiers in Big Data"
-
-- date: 12/2021
-  headline: "Our preprint <a href=\"https://arxiv.org/pdf/2112.00238.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Imbalanced Graph Classification via Graph-of-Graph Neural Networks</a> is now online!"
-
-- date: 11/2021
-  headline: "CFP: Our workshop <a href=\"http://MLoG-Workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG)</a> is accepted to ACM WSDM'22!"
-
-- date: 10/2021
-  headline: "Our preprint <a href=\"https://yuwvandy.github.io/paper/dpgnn.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification</a> is now online!"
-
-- date: 9/2021
-  headline: "Our survey preprint <a href=\"https://tylersnetwork.github.io/papers/ssl_for_gnns.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Graph Neural Networks: Self-supervised Learning</a> is now online!"
-
-- date: 8/2021
-  headline: "Welcome new BS members! <br /> <span style=\"color: #808080\">Ao and Emily join NDS Lab</span>"
-
-- date: 7/2021
-  headline: "Yu's first paper <a href=\"https://arxiv.org/pdf/2108.11022.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Tree Decomposed Graph Neural Network</a> in NDS Lab is accepted to ACM CIKM'21!"
-
-- date: 7/2021
-  headline: "3 papers accepted to ACM CIKM'21!"
-
-- date: 7/2021
-  headline: "1 paper accepted to ACM Hypertext'21!"
-
-- date: 7/2021
-  headline: "Kayla receives NISE Fellowship through the Frist Center!"
-
-- date: 6/2021
-  headline: "Tyler receives Best Reviewer Award at ICWSM'21!"
-
-- date: 5/2021
-  headline: "Kayla and Yuying receive ICWSM Scholarships to participate in ICWSM'21!"
-
-- date: 5/2021
-  headline: "1 paper accepted to KDD'21!"
-
-- date: 4/2021
-  headline: "Zhaoqing receives the Dean's Graduate Fellowship Award and will join NDS Lab as a new PhD in Spring 2022!"
-
-- date: 4/2021
-  headline: "Yuying receives the IBM Fellowship Award and will join NDS Lab as a new PhD in Fall 2021!"
-
-- date: 4/2021
-  headline: "Yu receives a Student Travel Award and Tyler receives Early Career Travel Award to attend SDM'21 supported by NSF!"
-
-- date: 4/2021
-  headline: "Welcome new BS member! <br /> <span style=\"color: #808080\">Sam joins NDS Lab</span>"
-
-- date: 4/2021
-  headline: "Chet and Ben receive DSI-SRP fellowship for summer 2021!"
-
-- date: 3/2021
-  headline: "Trevor receives VUSRP fellowship for summer 2021!"
-
-- date: 3/2021
-  headline: "Yu accepted to present his work at SDM'21 Doctoral Forum!"
-
-- date: 2/2021 
-  headline: "Tyler receives Teaching Innovation Award from the School of Engineering at VU!"
-
-- date: 2/2021 
-  headline: "Welcome new MS member! <br /> <span style=\"color: #808080\">Kayla joins NDS Lab</span>"
-
-- date: 2/2021 
-  headline: "Welcome new BS member! <br /> <span style=\"color: #808080\">Chet joins NDS Lab</span>"
-
-- date: 2/2021 
-  headline: "Tutorial on GNNs given at AAAI'21!"
-
-- date: 1/2021
-  headline: "Yu awarded free registration and volunteer position at IJCAI'20!"
-
-- date: 1/2021
-  headline: "Welcome new PhD member! <br /> <span style=\"color: #808080\">Yu join NDS Lab</span>"
-
-- date: 2020
-  headline: "YEAR"
-
-- date: 12/2020
-  headline: "1 paper accepted to AAAI'21!"
-
-- date: 12/2020
-  headline: "Welcome new BS members! <br /> <span style=\"color: #808080\">Ben, Jack, and Trevor join NDS Lab</span>"
-
-- date: 12/2020
-  headline: "Welcome new MS member! <br /> <span style=\"color: #808080\">Cole joins NDS Lab</span>"
-
-- date: 10/2020
-  headline: "1 paper accepted to WSDM'21!"
-
-- date: 10/2020
-  headline: "1 paper accepted to ICDE'21!"
-
-- date: 8/2020
-  headline: "Tyler gave an invited keynote at DLG-KDD'20 / MLG'20!"
-
-- date: 8/2020
-  headline: "Tutorial on GNNs given at KDD'20!"
-
-- date: 8/2020
-  headline: "1 paper accepted to IEEE TALE'20!"
-
-- date: 8/2020
-  headline: "1 paper accepted to ICDM'20!"
-
-- date: 8/2020
-  headline: "Tyler joins VU and establishes NDS Lab!"
+  headline: "Yu Wang joins UO and establishes KIND Lab!"
