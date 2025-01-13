@@ -1,18 +1,18 @@
 #education can be bullets such as prev positions or links
 
-- name: Tyler Derr
-  photo: TylerDerr.png
+- name: Yu Wang
+  photo: YuWang.png
   info: Assistant Professor of Computer Science
-  email: tyler.derr@vanderbilt.edu
+  email: yuwang@uoregon.edu
   number_educ: 2 
-  education1: Teaching and Affiliate Faculty Member, Data Science Institute
-  education2: Faculty Fellow, Frist Center for Autism and Innovation
+  education1: 
+  education2: 
   education3: 
   education4: 
   education5: 
-  website: http://www.TylerDerr.com
+  website: https://yuwang0103.github.io/
   scholar: 0
-  scholar2: https://scholar.google.com/citations?user=et6IhFcAAAAJ
-  linkedin: https://www.linkedin.com/in/tylersnetwork
-  twitter: https://twitter.com/TylersNetwork
-  github: 0
+  scholar2: https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en
+  linkedin: https://www.linkedin.com/in/yuwanggraphml/
+  twitter:
+  github: https://github.com/yuwvandy
