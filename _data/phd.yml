@@ -1,76 +1,46 @@
 #education can be bullets such as prev positions or links
 
-- name: Yuying Zhao
-  photo: YuyingZhao.png
+- name: Yongjia Lei
+  photo: YongjiaLei.png
   info: Computer Science PhD
-  email: yuying.zhao@vanderbilt.edu
-  number_educ: 2
-  education1: Vanderbilt IBM Fellowship Award
-  education2: 2023 - VU C.F. Chen Best Paper Runner-up Award in CS
-  education3: 
-  education4: 
-  education5:
-  website: https://yuyingzhao.github.io/
-  linkedin: https://www.linkedin.com/in/yy-zhao/
-  twitter: 0
-  github: https://github.com/YuyingZhao
-  
-- name: Yunchao (Lance) Liu
-  photo: YunchaoLiu.png
-  info: Computer Science PhD
-  email: yunchao.liu@vanderbilt.edu
-  number_educ: 4
-  education1: Co-advised with Meiler Lab @ VU
-  education2: 2024 - 1st Place VU's AI Showcase
-  education3: 2023 - Vanderbilt's 3MT Finalist
-  education4: 2022 - Awarded Nvidia Academic Hardware Grant
-  education5:
-  website: https://yunchaoliu.github.io/
-  linkedin: https://www.linkedin.com/in/yunchaoliu/
-  twitter: https://twitter.com/YunchaoLanceLiu
-  github: https://github.com/YunchaoLiu
-
-- name: Xueqi Cheng
-  photo: XueqiCheng.png
-  info: Computer Science PhD
-  email: xueqi.cheng@vanderbilt.edu
-  number_educ: 2
-  education1: Vanderbilt IBM Fellowship Award
-  education2: Vanderbilt Engineering Graduate Fellowship Award
-  education3: 
-  education4: 
-  education5:
-  website: https://xueqic.github.io/
-  linkedin: https://www.linkedin.com/in/xqc/
-  twitter: 0
-  github: https://github.com/XueqiC
-
-- name: Anne Tumlin
-  photo: Anne.jpg
-  info: Computer Science PhD
-  email: anne.m.tumlin@vanderbilt.edu
-  number_educ: 4
-  education1: Co-advised with VeriVITAL Lab @ VU
-  education2: DOE Computational Science Graduate Fellowship
-  education3: Vanderbilt Russell G. Hamilton Graduate Scholars Award
-  education4: Vanderbilt Provost Graduate Fellowship
-  education5:
-  website: https://atumlin.github.io/
-  linkedin: https://www.linkedin.com/in/anne-tumlin-176a551ab/
-  twitter: 0
-  github: https://github.com/atumlin
-
-- name: Bo Ni
-  photo: BoNi.png
-  info: Computer Science PhD
-  email: bo.ni@vanderbilt.edu
-  number_educ: 0
+  email: yongjia@uoregon.edu
+  number_educ:
   education1: 
   education2: 
   education3: 
   education4: 
   education5:
-  website: https://arstanley.github.io/
-  linkedin: https://www.linkedin.com/in/bo-n-a54213123/
+  website: 
+  linkedin: https://www.linkedin.com/in/yongjia-lei-2057ba342/
   twitter: 0
-  github: https://github.com/arstanley
+  github: https://github.com/Yoega
+
+# - name: Zhisheng Qi
+#   photo: Zhisheng.png
+#   info: InComputer Science PhD
+#   email: yongjia@uoregon.edu
+#   number_educ:
+#   education1: 
+#   education2: 
+#   education3: 
+#   education4: 
+#   education5:
+#   website: 
+#   linkedin: https://www.linkedin.com/in/yongjia-lei-2057ba342/
+#   twitter: 0
+#   github: https://github.com/Yoega
+  
+- name: Riya Ponraj
+  photo: Riya.png
+  info: Computer Science PhD
+  email: yunchao.liu@vanderbilt.edu
+  number_educ: 1
+  education1: Co-advised with ONRG Lab @ UO
+  education2: 
+  education3: 
+  education4: 
+  education5:
+  website: 
+  linkedin: https://www.linkedin.com/in/riyaponraj/
+  twitter: 
+  github: 
