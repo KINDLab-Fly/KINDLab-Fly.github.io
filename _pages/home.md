@@ -16,22 +16,6 @@ permalink: /
         <!-- <li data-target="#carousel" data-slide-to="2"></li> -->
     </ol>
 
-    <div class="carousel-inner" markdown="0">
-
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/KIND_logo.png" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eugene.png" alt="Slide 2" />
-        </div>
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo.png" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo2.png" alt="Slide 4" />
-        </div>
-    </div>
-
     
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -48,6 +32,21 @@ permalink: /
 
 We are the <strong>Knowledge Intelligence and Discovery (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in data mining, machine learning for knowledge intelligence and discovery, especially graph machine learning, network analysis, Agentic-AI, spatial-temporal learning, and information retrieval for social good applications in drug discovery, infrastructure analysis, document intelligence, recommender systems, etc.
 
+<div class="carousel-inner" markdown="0">
+
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/KIND_logo.png" alt="Slide 1" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eugene.png" alt="Slide 2" />
+    </div>
+     <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo.png" alt="Slide 3" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo2.png" alt="Slide 4" />
+    </div>
+</div>
 
 We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests (see KIND Lab research interests below). Master, undergraduate students, and visiting scholars are also welcome. Please see <a href="https://https://yuwang0103.github.io/recruiting/">here</a> for position details.
 
