@@ -59,12 +59,12 @@ We are recruiting PhD students to work with us in the KIND Lab on topics in our 
 <br>
 <div class="center">
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/vu.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/uo.png" style="width: 100px">
+<!--   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/afrl.jpg" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/thd.jpg" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/nvidia.png" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.png" style="width: 100px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.png" style="width: 100px"> -->
 </figure>
 </div>
 
