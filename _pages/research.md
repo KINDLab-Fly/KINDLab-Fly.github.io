@@ -1,7 +1,7 @@
 ---
-title: "NDS Lab - Research"
+title: "KIND Lab - Research"
 layout: textlay
-excerpt: "NDS Lab -- Research"
+excerpt: "KIND Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -10,4 +10,4 @@ permalink: /research/
 
 Please see our member's personal sites for more information regarding our research.
 
- <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="100%" style="float: center" />
+ <img src="{{ site.url }}{{ site.baseurl }}/images/KIND_research.png" class="img-responsive" width="100%" style="float: center" />
