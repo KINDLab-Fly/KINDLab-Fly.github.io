@@ -159,8 +159,8 @@
 # - date: 2024
 #   headline: "YEAR"
 
-- date: 12/2024
-  headline: "Welcome new BS members! <br /> <span style=\"color: #808080\">Ethan join KIND Lab</span>"
+# - date: 12/2024
+#   headline: "Welcome new BS members! <br /> <span style=\"color: #808080\">Ethan join KIND Lab</span>"
 
 - date: 12/2024
   headline: "Yu Wang received the outstanding reviewer award at ECML-PKDD'24!"
