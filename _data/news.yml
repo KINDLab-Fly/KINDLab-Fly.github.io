@@ -162,6 +162,9 @@
 # - date: 12/2024
 #   headline: "Welcome new BS members! <br /> <span style=\"color: #808080\">Ethan join KIND Lab</span>"
 
+- date: 01/2025
+  headline: "Our survey on <a href=\"https://arxiv.org/abs/2501.00309\" target=\"_blank\" rel=\"noopener noreferrer\">GraphRAG</a> is online!"
+
 - date: 12/2024
   headline: "Yu Wang received the outstanding reviewer award at ECML-PKDD'24!"
 
@@ -174,10 +177,10 @@
 - date: 11/2024
   headline: "1 tutorial accepted to SDM'25!"
 
-- date: 10/2020
+- date: 10/2024
   headline: "1 paper accepted at WSDM'24!"
   
-- date: 10/2020
+- date: 10/2024
   headline: "Tutorial on Data-centric Graph ML given at CIKM'24!"
 
 - date: 10/2024
