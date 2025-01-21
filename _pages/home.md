@@ -45,7 +45,7 @@ We are the <strong>Knowledge Intelligence for Discovery and Decision-Making Lab 
   </a>
 </div>
 
-We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests (see KIND Lab research interests below). Master, undergraduate students, and visiting scholars are also welcome. Please see <a href="https://https://yuwang0103.github.io/recruiting/">here</a> for position details.
+We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests (see KIND Lab research interests below). Master, undergraduate students, and visiting scholars are also welcome. Please see <a href="https://yuwang0103.github.io/recruiting/">here</a> for position details.
 
 <!--  <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="100%" style="float: center" />
 -->
