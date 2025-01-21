@@ -9,7 +9,7 @@ permalink: /
 <!-- For now, you can see our memebers [here](people). -->
 <h1>Welcome!</h1>
 
-We are the <strong>Knowledge Intelligence and Discovery (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in data mining, machine learning for knowledge intelligence and discovery, especially graph machine learning, network analysis, Agentic-AI, spatial-temporal learning, and information retrieval for social good applications in drug discovery, infrastructure analysis, document intelligence, recommender systems, etc.
+We are the <strong>Knowledge Intelligence for Discovery and Decision-Making Lab (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in exploring knowledge intelligence solutions through data mining and machine learning techniques for discovery and decision-making, especially network analysis, graph machine learning, Agentic-AI, spatial-temporal learning, and information retrieval for social good applications in drug discovery, infrastructure analysis, document intelligence, recommender systems, etc.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
