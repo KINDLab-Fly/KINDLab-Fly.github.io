@@ -1,1 +1,1 @@
-# Knowledge Intelligence and Discovery Lab Website
+# Knowledge Intelligence for Discovery and Decision-making Lab Website
