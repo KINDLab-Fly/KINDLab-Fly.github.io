@@ -16,9 +16,7 @@ permalink: /
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
-  <div class="carousel-inner" markdown="0">
-
-We are the <strong>Knowledge Intelligence for Discovery and Decision-Making Lab (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in exploring knowledge intelligence solutions through data mining and machine learning techniques for discovery and decision-making, especially network analysis, graph machine learning, Agentic-AI, spatial-temporal learning, and information retrieval for social good applications in information retrieval, document intelligence, infrastructure analysis, drug discovery, etc.
+    <div class="carousel-inner" markdown="0">
     <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/KIND_logo.png" alt="Slide 1" />
     </div>
@@ -42,6 +40,9 @@ We are the <strong>Knowledge Intelligence for Discovery and Decision-Making Lab 
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+We are the <strong>Knowledge Intelligence for Discovery and Decision-Making Lab (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in exploring knowledge intelligence solutions through data mining and machine learning techniques for discovery and decision-making, especially network analysis, graph machine learning, Agentic-AI, spatial-temporal learning, and information retrieval for social good applications in information retrieval, document intelligence, infrastructure analysis, drug discovery, etc.
+    
 
 We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests (see KIND Lab research interests below). Master, undergraduate students, and visiting scholars are also welcome. Please see <a href="https://yuwang0103.github.io/recruiting/">here</a> for position details.
 
