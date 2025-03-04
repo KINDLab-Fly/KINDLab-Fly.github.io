@@ -41,7 +41,7 @@ permalink: /
   </a>
 </div>
 
-We are the <strong>Knowledge Intelligence for Discovery and Decision-Making Lab (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in exploring knowledge intelligence solutions in discovery and decision-making through data mining and machine learning techniques for advancing social-good applications.
+We are the <strong>Knowledge Intelligence for Discovery and Decision-Making (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in exploring knowledge intelligence solutions in discovery and decision-making through data mining and machine learning techniques for advancing social-good applications.
 <!--, especially network analysis, graph machine learning, Agentic-AI, spatial-temporal learning, and information retrieval for social good applications in information retrieval, document intelligence, infrastructure analysis, drug discovery, etc.-->
     
 
