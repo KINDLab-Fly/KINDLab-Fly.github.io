@@ -5,7 +5,7 @@
   info: Computer Science PhD
   email: yongjia@uoregon.edu
   number_educ:
-  education1: 
+  education1: Research: Reasoning and Planning, Retrieval-augmented Generation
   education2: 
   education3: 
   education4: 
@@ -14,29 +14,14 @@
   linkedin: https://www.linkedin.com/in/yongjia-lei-2057ba342/
   twitter: 0
   github: https://github.com/Yoega
-
-# - name: Zhisheng Qi
-#   photo: Zhisheng.png
-#   info: InComputer Science PhD
-#   email: yongjia@uoregon.edu
-#   number_educ:
-#   education1: 
-#   education2: 
-#   education3: 
-#   education4: 
-#   education5:
-#   website: 
-#   linkedin: https://www.linkedin.com/in/yongjia-lei-2057ba342/
-#   twitter: 0
-#   github: https://github.com/Yoega
   
 - name: Riya Ponraj
   photo: Riya.png
   info: Computer Science PhD
   email: ripo@uoregon.edu
   number_educ: 1
-  education1: Co-advised with Professor Ram Durairajan from ONRG Lab@UO
-  education2: 
+  education1: Research: Graph Machine Learning for Networking System
+  education2: Co-advised with Professor Ram Durairajan from ONRG Lab@UO
   education3: 
   education4: 
   education5:
@@ -50,7 +35,7 @@
   info: Upcoming Computer Science PhD
   email: charlieqi02@gmail.com
   number_educ: 
-  education1: 
+  education1: Research: Graph-enhanced Agentic Learning
   education2: 
   education3: 
   education4: 
@@ -65,7 +50,7 @@
   info: Upcoming Computer Science PhD
   email: zhangdy1013@gmail.com
   number_educ: 
-  education1: 
+  education1: Research: Dynamic Mining and Learning on Spatial-Temporal Networks
   education2: 
   education3: 
   education4: 
