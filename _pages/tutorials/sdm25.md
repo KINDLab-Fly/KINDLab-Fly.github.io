@@ -3,7 +3,7 @@ title: "SDM25"
 layout: textlay
 excerpt: "SDM25"
 sitemap: false
-permalink: /tutorials/SDM25/
+permalink: /tutorials/sdm25/
 ---
 
 # Retrieval-augmented Generation on Graph-structured Data
