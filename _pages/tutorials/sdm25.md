@@ -17,11 +17,9 @@ Graph-structured knowledge, like many other data modalities, is ubiquitous acros
 in addition to the conventional methods. Moreover, graphs are fundamentally different across different domains, making the ``one-size-fits-all" RAGs nearly impossible and the domain expertise indispensable.
 
 Recognizing the significant efforts in developing RAGs and their potential when coupled with LLMs, yet noting that the current landscape in GraphRAGs remains fragmented with varying concepts, techniques, and datasets, our tutorial aims to make a timely contribution by emphasizing the need to equip RAGs with graph-structured knowledge and develop GraphRAG systems (GraphRAGs). Specifically, our objectives are to 
-- **Introduce the foundations of RAGs and graph-structured knowledge**
-- **Present representative graph-structured knowledge, tasks, and GraphRAGs across four domains**
+- **Introduce the Background of RAG and Graph-structured Data and the unique challenges of GraphRAG**
+- **Present GraphRAG methods across four graph domains**
 - **Discuss crucial challenges for future work**
-
-
 
 
 ### Time and Location
