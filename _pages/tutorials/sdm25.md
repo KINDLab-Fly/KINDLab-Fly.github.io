@@ -6,10 +6,10 @@ sitemap: false
 permalink: /tutorials/sdm25/
 ---
 
-# Retrieval-augmented Generation on Graph-structured Data
-# Tutorial at SIAM International Conference on Data Mining (SDM25)
+## Retrieval-augmented Generation on Graph-structured Data
+## Tutorial at SIAM International Conference on Data Mining (SDM25)
 
-## Abstract
+### Abstract
 
 Retrieval-augmented Generation (RAG), as a powerful technique to enhance downstream task execution by incorporating knowledge from external data sources, has achieved notable success in real-world applications, especially those high-stake social good scenarios, such as healthcare, law, finance, and education. This success has become further unprecedented given the advent of large language models (LLMs) as equipping LLMs with RAG systems (RAGs) significantly enhances the social responsibility and safety of LLMs, including mitigating hallucination, enhancing transparency, enabling dynamic adaptability, reducing privacy risks, and ensuring robustness. However, traditional RAGs are mainly designed for unstructured data, such as text and images, and face significant challenges when facing graph-structured knowledge.
 
@@ -24,11 +24,11 @@ Recognizing the significant efforts in developing RAGs and their potential when 
 
 
 
-## Time and Location
+### Time and Location
 Time:  <br>
 Location: Edison A, The Westin Alexandria Old Town, Alexandria, Virginia, USA
 
-## Tutorial Outline
+### Tutorial Outline
 
 <ul>
   <li>
@@ -91,10 +91,10 @@ Location: Edison A, The Westin Alexandria Old Town, Alexandria, Virginia, USA
 
 
 
-## Slides
+### Slides
 Incoming Soon!
 
-## Speakers Bio's
+### Speakers Bio's
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/Yu.png" class="img-responsive" width="10%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
 <b><a href="https://yuwvandy.github.io/">Yu Wang</a></b> is an incoming Assistant Professor in the Department of Computer Sciences at the University of Oregon. Before joining University of Oregon, he obtained his Ph.D. degree in Computer Science at Vanderbilt University in 2024 under the supervision of Prof. Tyler Derr. His research interests include Graph Data Mining and Data-centric Machine Learning. He received numerous honors including the Best Paper Award in the 2020 Smokey Mountain Data Challenge Competition by ORNL and GLFrontiers Workshop at Neurips'23, Best Doctoral Forum Poster Runner-ups at SDM'24. He actively contributed to the community, both in terms of publishing and serving as PC member/reviewer/organizer such as ICLR, NeurIPS, AAAI, KDD, WWW, CIKM, WSDM, TKDD, TIST. He has contributed to the organization of workshops in WSDM'22/24, and the student travel award chair in CIKM'24.
@@ -109,7 +109,7 @@ Incoming Soon!
 <b><a href="https://cse.msu.edu/~shomerha/">Harry Shomer</a></b> is a 5th year Ph.D. student in Computer Science at Michigan State University. His research interests include Machine Learning on Graphs, Trustworthy AI, and AI+Education. Prior to joining MSU, he received his B.S in Computer Science at CUNY -- Brooklyn College (2019). He work has been published at top conferences including NeurIPS, ICLR, KDD, EMNLP, TheWebConf, ACL, and CIKM. He is the recipient of the MSU Engineering Distinguished fellowship, the NRT-IMPACTS fellowship, and the  KDD’24 student travel award.
 <br>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Jian.png" class="img-responsive" width="10%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/Kai.png" class="img-responsive" width="10%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
 <b><a href="https://kaiguo20.github.io/">Kai Guo</a></b> is currently a postdoctoral researcher at Michigan State University. His research interests include Graph Learning and LLMs with Graphs. Before joining MSU, he received his Ph.D. degree from Jilin University in 2024 under the supervision of Prof. Yi Chang. He has published several works in top
 conferences including ICML, KDD, and AAAI.
 <br>
