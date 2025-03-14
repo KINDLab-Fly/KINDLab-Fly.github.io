@@ -30,65 +30,64 @@ Location: Edison A, The Westin Alexandria Old Town, Alexandria, Virginia, USA
 ## Tutorial Outline
 
 <ul>
+  <li>
+    <b>Introduction and Background</b> (10 min)
+    <ul>
+      <li> Retrieval-augmented Generation</li>
+      <li> Graph-structured Data</li>
+      <li> RAG on Graphs</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>GraphRAG on Document Graphs</b> (25 min) - Haoyu Han
+    <ul>
+      <li> TBD </li>
+      <li> TBD </li>
+      <li> TBD </li>
+      <li> Future Directions</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>GraphRAG on Knowledge Graphs</b> (25 min) - Harry Shomer
+    <ul>
+      <li> TBD </li>
+      <li> TBD </li>
+      <li> TBD </li>
+      <li> Future Directions</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>Short Break</b> (5 min)
+  </li>
+  
+  <li>
+    <b>GraphRAG on Scientific Graphs</b> (25 min) - Kai Guo
+    <ul>
+      <li> TBD </li>
+      <li> TBD </li>
+      <li> TBD </li>
+      <li> Future Directions</li>
+    </ul>
+  </li>
+  
+  <li>
+    <b>GraphRAG on Reasoning & Planning Graphs</b> (25 min) - Yongjia Lei
+    <ul>
+      <li> TBD </li>
+      <li> TBD </li>
+      <li> TBD </li>
+      <li> Future Directions</li>
+    </ul>
+  </li>
 
   <li>
-    Introduction and Background
-    <ul>
-      <li> Graph-structured data, Graph Machine Learning and GNNs</li>
-      <li> Summary of Graph Data Quality Issues</li>
-    </ul>
+    <b>Conclusion</b> (5 min)
   </li>
-  
-  <li>
-    Topology Issues
-    <ul>
-      <li> Global Positional Issues</li>
-      <li> Local Topology Issues</li>
-      <li> Missing Graph Issues</li>
-      <li> Future Directions</li>
-    </ul>
-  </li>
-  
-  <li>
-    Imbalance Issues
-    <ul>
-      <li> Node-level Imbalance</li>
-      <li> Edge-level Imbalance</li>
-      <li> Graph-level Imbalance</li>
-      <li> Future Directions</li>
-    </ul>
-  </li>
-  
-  <li>
-    Bias Issues
-    <ul>
-      <li> Group Fairness on Graphs</li>
-      <li> Individual Fairness on Graphs</li>
-      <li> Degree Fairness on Graphs</li>
-      <li> Future Directions</li>
-    </ul>
-  </li>
-  
-  <li>
-    Limited Labeled Data Issues
-    <ul>
-      <li> Graph Data Augmentations</li>
-      <li> Self-supervised Learning on Graphs</li>
-      <li> Future Directions</li>
-    </ul>
-  </li>
-
-    
-  <li>
-    Abnormal Graph Data Issues
-    <ul>
-      <li> Missing and Noisy Features</li>
-      <li> Adversarially Attacked Data</li>
-      <li> Future Directions</li>
-    </ul>
-  </li>
-  
 </ul>
+
 
 
 ## Slides
