@@ -115,7 +115,7 @@ conferences including ICML, KDD, and AAAI.
 <br>
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Yongjia.png" class="img-responsive" width="10%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
-<b><a href="https://yoega.github.io/Yoega.html">Yongjia Lei</a></b> is a 1$^{\text{st}}$ year Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. Her research interests include Knowledge-intensive LLMs and Graph Machine Learning for Social Good Applications. She has several publications in EAAI and ASC. In addition, she has contributed to community services, such as being (sub)-reviewer in KDD, WSDM, AAAI, and LOG.
+<b><a href="https://yoega.github.io/Yoega.html">Yongjia Lei</a></b> is a 1st year Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. Her research interests include Knowledge-intensive LLMs and Graph Machine Learning for Social Good Applications. She has several publications in EAAI and ASC. In addition, she has contributed to community services, such as being (sub)-reviewer in KDD, WSDM, AAAI, and LOG.
 <br>
 <br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/Jiayuan.png" class="img-responsive" width="10%" style="float: left; margin-right: 15px; margin-bottom: 10px;" />
