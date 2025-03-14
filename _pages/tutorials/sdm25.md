@@ -6,7 +6,8 @@ sitemap: false
 permalink: /tutorials/SDM25/
 ---
 
-# Retrieval-augmented Generation on Graph-structured Data at SDM'25
+# Retrieval-augmented Generation on Graph-structured Data
+# Tutorial at SIAM International Conference on Data Mining (SDM25)
 
 ## Abstract
 
