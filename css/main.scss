@@ -116,3 +116,20 @@ firstp {
     background: #69acc7;
     border-color: #69acc7;
     color: white; }
+
+.speaker-bio {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.bio-img {
+  width: 80px; /* or whatever size you prefer */
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+
+.bio-text {
+  flex: 1;
+}
