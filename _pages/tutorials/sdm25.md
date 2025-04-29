@@ -11,10 +11,10 @@ permalink: /tutorials/sdm25/
 
 ### Abstract
 
-Retrieval-augmented Generation (RAG), as a powerful technique to enhance downstream task execution by incorporating knowledge from external data sources, has achieved notable success in real-world applications, especially those high-stake social good scenarios, such as healthcare, law, finance, and education. This success has become further unprecedented given the advent of large language models (LLMs) as equipping LLMs with RAG systems (RAGs) significantly enhances the social responsibility and safety of LLMs, including mitigating hallucination, enhancing transparency, enabling dynamic adaptability, reducing privacy risks, and ensuring robustness. However, traditional RAGs are mainly designed for unstructured data, such as text and images, and face significant challenges when facing graph-structured knowledge.
+Retrieval-augmented Generation (RAG), as a powerful technique to enhance downstream task execution by incorporating knowledge from external data sources, has achieved notable success in real-world applications, especially those high-stakes social good scenarios, such as healthcare, law, finance, and education. This success has become further unprecedented given the advent of large language models (LLMs), as equipping LLMs with RAG systems (RAGs) significantly enhances the social responsibility and safety of LLMs, including mitigating hallucination, enhancing transparency, enabling dynamic adaptability, reducing privacy risks, and ensuring robustness. However, traditional RAGs are mainly designed for unstructured data, such as text and images, and face significant challenges when facing graph-structured knowledge.
 
-Graph-structured knowledge, like many other data modalities, is ubiquitous across various domains. For example, social graphs reveal homophily among individuals and sequential decision-making steps in planning graphs sometimes adhere to causal logic, and atoms within the same functional groups could exhibit distinct structural properties. This inherent "nodes connected by edges" nature encodes heterogeneous relational knowledge and offers a valuable resource for RAGs. However, pairing RAGs with graph-structured knowledge is challenging. Unlike conventional RAGs where knowledge is stored as image patches or text corpora, graph-structured knowledge takes various forms, such as text in document graphs, triplets/paths in knowledge graphs, images in scene graphs and their combinations in semi-structured databases. Additionally, this knowledge may be distributed across different levels, such as node/edge/subgraph-level, which desires versatile RAG designs such as graph traversal 
-in addition to the conventional methods. Moreover, graphs are fundamentally different across different domains, making the ``one-size-fits-all" RAGs nearly impossible and the domain expertise indispensable.
+Graph-structured knowledge, like many other data modalities, is ubiquitous across various domains. For example, social graphs reveal homophily among individuals, and sequential decision-making steps in planning graphs sometimes adhere to causal logic, and atoms within the same functional groups could exhibit distinct structural properties. This inherent "nodes connected by edges" nature encodes heterogeneous relational knowledge and offers a valuable resource for RAGs. However, pairing RAGs with graph-structured knowledge is challenging. Unlike conventional RAGs, where knowledge is stored as image patches or text corpora, graph-structured knowledge takes various forms, such as text in document graphs, triplets/paths in knowledge graphs, images in scene graphs, and their combinations in semi-structured databases. Additionally, this knowledge may be distributed across different levels, such as node/edge/subgraph-level, which requires versatile RAG designs, such as graph traversal , 
+in addition to the conventional methods. Moreover, graphs are fundamentally different across different domains, making "one-size-fits-all" RAGs nearly impossible, and domain expertise is indispensable.
 
 Recognizing the significant efforts in developing RAGs and their potential when coupled with LLMs, yet noting that the current landscape in GraphRAGs remains fragmented with varying concepts, techniques, and datasets, our tutorial aims to make a timely contribution by emphasizing the need to equip RAGs with graph-structured knowledge and develop GraphRAG systems (GraphRAGs). Specifically, our objectives are to 
 - **Introduce the Background of RAG and Graph-structured Data and the unique challenges of GraphRAG**
@@ -23,74 +23,77 @@ Recognizing the significant efforts in developing RAGs and their potential when 
 
 
 ### Time and Location
-Time:  <br>
+Time:  8:00am - 10:00am<br>
 Location: Edison A, The Westin Alexandria Old Town, Alexandria, Virginia, USA
 
 ### Tutorial Outline
 
 <ul>
   <li>
-    <b>Introduction and Background</b> (10 min)
+    <b>Introduction and Background</b> (15 min)
     <ul>
-      <li> Retrieval-augmented Generation</li>
+      <li> Retrieval-augmented Generation (RAG)</li>
       <li> Graph-structured Data</li>
       <li> RAG on Graphs</li>
     </ul>
   </li>
   
   <li>
-    <b>GraphRAG on Document Graphs</b> (25 min) - Haoyu Han
+    <b>GraphRAG on Document Graphs</b> (24 min) - Haoyu Han
     <ul>
-      <li> TBD </li>
-      <li> TBD </li>
-      <li> TBD </li>
-      <li> Future Directions</li>
+      <li> Document Graph Definition, Construction, and Tasks </li>
+      <li> Why GraphRAG on Document Graph </li>
+      <li> Existing Works </li>
+      <li> Future Directions & QA </li>
     </ul>
   </li>
   
   <li>
-    <b>GraphRAG on Knowledge Graphs</b> (25 min) - Harry Shomer
+    <b>GraphRAG on Knowledge Graphs</b> (24 min) - Harry Shomer
     <ul>
-      <li> TBD </li>
-      <li> TBD </li>
-      <li> TBD </li>
-      <li> Future Directions</li>
+      <li> Knowledge Graph Definition, Construction, and Tasks </li>
+      <li> Why GraphRAG on Knowledge Graph </li>
+      <li> Existing Works </li>
+      <li> Future Directions & QA </li>
     </ul>
   </li>
   
   <li>
-    <b>Short Break</b> (5 min)
+    <b>Short Break</b> (4 min)
   </li>
   
   <li>
-    <b>GraphRAG on Scientific Graphs</b> (25 min) - Kai Guo
+    <b>GraphRAG on Reasoning & Planning Graphs</b> (24 min) - Yongjia Lei
     <ul>
-      <li> TBD </li>
-      <li> TBD </li>
-      <li> TBD </li>
-      <li> Future Directions</li>
+      <li> Reasoning & Planning Graph Definition, Construction, and Tasks </li>
+      <li> Why GraphRAG on Reasoning & Planning Graph </li>
+      <li> Existing Works </li>
+      <li> Future Directions & QA </li>
     </ul>
   </li>
   
   <li>
-    <b>GraphRAG on Reasoning & Planning Graphs</b> (25 min) - Yongjia Lei
+    <b>GraphRAG on Scientific Graphs</b> (24 min) - Kai Guo
     <ul>
-      <li> TBD </li>
-      <li> TBD </li>
-      <li> TBD </li>
+      <li> Scientific Graph Definition, Construction, and Tasks </li>
+      <li> Why GraphRAG on Scientific Graph </li>
+      <li> Existing Works </li>
       <li> Future Directions</li>
     </ul>
   </li>
 
   <li>
-    <b>Conclusion</b> (5 min)
+    <b>Future Directions and Conclusion</b> (5 min)
   </li>
 </ul>
 
 
 
 ### Slides
-Incoming Soon!
+You can download PDF version of our slides or see them embedded below.
+Download <a href="https://nds-vu.github.io/_pages/SDM25-GraphRAG-tutorial.pdf"> PDF Link </a>
+
+<embed src="{{ site.url }}{{ site.baseurl }}/_pages/SDM25-GraphRAG-tutorial.pdf" width="700px" height="500px" />
 
 ### Speakers Bio's
 
