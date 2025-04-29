@@ -93,7 +93,9 @@ Location: Edison A, The Westin Alexandria Old Town, Alexandria, Virginia, USA
 You can download PDF version of our slides or see them embedded below.
 Download <a href="https://nds-vu.github.io/_pages/SDM25-GraphRAG-tutorial.pdf"> PDF Link </a>
 
-<embed src="{{ site.url }}{{ site.baseurl }}/_pages/SDM25-GraphRAG-tutorial.pdf" width="700px" height="500px" />
+<div style="display: flex; justify-content: center;">
+  <embed src="{{ site.url }}{{ site.baseurl }}/_pages/SDM25-GraphRAG-tutorial.pdf" width="700px" height="500px" />
+</div>
 
 ### Speakers Bio's
 
