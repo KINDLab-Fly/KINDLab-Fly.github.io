@@ -130,7 +130,7 @@ Download <a href="https://KINDLab-Fly.github.io/_pages/SDM25-GraphRAG-tutorial.p
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Yongjia Lei.png" class="bio-img" />
   <div class="bio-text">
-<b><a href="https://yoega.github.io/Yoega.html">Yongjia Lei</a></b> is a 1st year Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. Her research interests include Knowledge-intensive LLMs and Graph Machine Learning for Social Good Applications. She has several publications in EAAI and ASC. In addition, she has contributed to community services, such as being (sub)-reviewer in KDD, WSDM, AAAI, and LOG.
+<b><a href="https://yoega.github.io/Yoega.html">Yongjia Lei</a></b> is a 1st year Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. Her research interests include Knowledge-intensive LLMs and Graph Machine Learning for Social Good Applications. She has several publications in EAAI and ASC. In addition, she has contributed to community services, such as being a reviewer in KDD, WSDM, AAAI, and LOG. She has received the SDM'25 student travel award.
   </div>
 </div>
 
@@ -138,5 +138,27 @@ Download <a href="https://KINDLab-Fly.github.io/_pages/SDM25-GraphRAG-tutorial.p
   <img src="{{ site.url }}{{ site.baseurl }}/images/Jiayuan Ding.png" class="bio-img" />
   <div class="bio-text">
 <b><a href="https://www.linkedin.com/in/jiayuand/">Jiayuan Ding</a></b> is a Staff Research Scientist responsible for Retrieval Augmented Generation at Hippocratic AI, where its RAG products are serving pharmacies, hospitals, and medical institutions. His research centers on Large Language Models, Retrieval Augmented Generation, Agents, and their applications in life science. His work has been published in top conferences and journals, including NeurIPS, ICLR, ACL, EMNLP, KDD, ICDE, CIKM, ACM TIST, and Genome Biology.
+  </div>
+</div>
+
+<div class="speaker-bio">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Xianfeng Tang.png" class="bio-img" />
+  <div class="bio-text">
+<b><a href="https://xta.ng/">Xianfeng Tang</a></b> is an Applied Scientist in the Amazon Search Query Understanding team at Amazon. His research is mainly about machine learning, data mining, knowledge graphs, and graph neural networks. He obtained his PhD degree from Pennsylvania State University and his Bachelor's degree from the University of Science and Technology of China. He has published innovative works in top-tier conferences such as ICLR, ICML, NeurIPS, KDD, etc.
+  </div>
+</div>
+
+<div class="speaker-bio">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Qi He.png" class="bio-img" />
+  <div class="bio-text">
+<b><a href="https://xta.ng/">Qi He</a></b> as Amazon's Director of Applied Science, is a technical leader in AI and its business applications, with a track record of 20 years of experience leading and executing large complex AI projects. He serves as a Steering Committee member of ACM CIKM and an advisory board member of Neurocomputing Journal. He held many editorial and conference chair positions, including Associate Editor of IEEE TKDE and Neurocomputing Journal, General Chair of CIKM 2013, PC Chair of CIKM 2019 and Industry Chair of Web 2024, while also served as a (senior) program committee member of SIGKDD, SIGIR, WWW, CIKM, and WSDM for over a decade. Qi has published over 70 papers and patents with over 7000 citations to date. He received the 2008 ACM SIGKDD Best Application Paper Award and the 2020 ACM WSDM 10-year Test of Time Award. Qi is an IEEE Fellow, ACM Distinguished Member and was featured as the People of ACM in February 2021.
+  </div>
+</div>
+
+
+<div class="speaker-bio">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Jiliang Tang.png" class="bio-img" />
+  <div class="bio-text">
+<b><a href="https://www.cse.msu.edu/~tangjili/">Jiliang Tang</a></b> is a University Foundation Professor in the computer science and engineering department at Michigan State University. His research interests include graph machine learning, trustworthy AI, and their applications in Education and Biology. He authored the first comprehensive book “Deep Learning on Graphs” with Cambridge University Press and developed various well-received open-sourced tools, including scikit-feature for feature selection, DeepRobust for trustworthy AI, and DANCE for single-cell analysis. He was the recipient of various career awards (2022 IAPR J. K. AGGARWAL, 2022 SIAM SDM, 2021 IEEE ICDM, 2021 IEEE Big Data Security, 2020 ACM SIGKDD, 2019 NSF), numerous industrial faculty awards, and eight best paper awards (or runner-ups) including WSDM2018 and KDD2016. He serves as conference organizer (e.g., KDD, SIGIR, WSDM, and SDM) and journal editor (e.g., TKDD, TOIS, and TKDE). He has organized 20+ workshops in top AI conferences such as AI for Education in AAAI20, AAAI21 Spring Symposium on Artificial Intelligence for K-12 Education, DLG-AAAI'21, and DLG-AAAI'23. He has published his research in highly ranked journals and top conference proceedings, which have 38,000 citations with an h-index of 95 and extensive media coverage.
   </div>
 </div>
