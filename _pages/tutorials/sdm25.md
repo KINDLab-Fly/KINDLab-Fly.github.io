@@ -98,44 +98,45 @@ Download <a href="https://KINDLab-Fly.github.io/_pages/SDM25-GraphRAG-tutorial.p
 </div>
 
 ### Speakers Bio
+
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Yu Wang.png" class="bio-img" />
   <div class="bio-text">
-    <b><a href="https://yuwvandy.github.io/">Yu Wang</a></b> is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. His research interests include Graph Machine Learning, LLMs, Information Retrieval, and Data-centric AI for social good. He received the Best Paper Award in the 2020 Smokey Mountain Data Challenge Competition by ORNL and GLFrontiers Workshop at Neurips'23, and Best Doctoral Forum Poster Runner-ups at SDM'24. He actively contributed to the community, both in publishing and serving as a PC member/reviewer/organizer, such as ICLR, NeurIPS, AAAI, KDD, WWW, CIKM, WSDM, TKDD, and TIST. He has contributed to organizing workshops in WSDM'22/24 and KDD'25 and served as the student travel award chair in CIKM'24.
+<b><a href="https://yuwvandy.github.io/">Yu Wang</a></b> is an Assistant Professor in the School of Computer and Data Sciences at the University of Oregon. His research interests include Graph Machine Learning, LLMs, Information Retrieval, and Data-centric AI for social good. He received the Best Paper Award in the 2020 Smokey Mountain Data Challenge Competition by ORNL and GLFrontiers Workshop at Neurips'23, and Best Doctoral Forum Poster Runner-ups at SDM'24. He actively contributed to the community, both in publishing and serving as a PC member/reviewer/organizer, such as ICLR, NeurIPS, AAAI, KDD, WWW, CIKM, WSDM, TKDD, and TIST. He has contributed to organizing workshops in WSDM'22/24 and KDD'25 and served as the student travel award chair in CIKM'24.
   </div>
 </div>
 
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Haoyu Han.png" class="bio-img" />
   <div class="bio-text">
-    <b><a href="https://cse.msu.edu/~hanhaoy1/">Haoyu Han</a></b> is a senior year Ph.D. student at Michigan State University. His research interests include Machine Learning on Graphs and LLMs with Graphs.  Before joining MSU, he completed his M.S. (2021) and B.S. (2018) at USTC. After joining MSU, he has published several works in top conferences (e.g., KDD, ICDM, NeurIPS, ICML, and ICLR). He was the recipient of the KDD’22 and NeurIPS’24 Student Travel Awards. He has contributed to organizing workshops for KDD'23, AAAI'24, and SDM'24.
+<b><a href="https://cse.msu.edu/~hanhaoy1/">Haoyu Han</a></b> is a senior year Ph.D. student at Michigan State University. His research interests include Machine Learning on Graphs and LLMs with Graphs.  Before joining MSU, he completed his M.S. (2021) and B.S. (2018) at USTC. After joining MSU, he has published several works in top conferences (e.g., KDD, ICDM, NeurIPS, ICML, and ICLR). He was the recipient of the KDD’22 and NeurIPS’24 Student Travel Awards. He has contributed to organizing workshops for KDD'23, AAAI'24, and SDM'24.
   </div>
 </div>
 
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Harry Shomer.png" class="bio-img" />
   <div class="bio-text">
-    <b><a href="https://cse.msu.edu/~shomerha/">Harry Shomer</a></b> is a 5th-year Ph.D. student in Computer Science at Michigan State University. His research interests include Machine Learning on Graphs, Trustworthy AI, and AI+Education. Prior to joining MSU, he received his B.S in Computer Science at CUNY -- Brooklyn College (2019). He work has been published at top conferences including NeurIPS, ICLR, KDD, EMNLP, TheWebConf, ACL, and CIKM. He is the recipient of the MSU Engineering Distinguished fellowship, the NRT-IMPACTS fellowship, and the KDD’24 student travel award.
+<b><a href="https://cse.msu.edu/~shomerha/">Harry Shomer</a></b> is a 5th-year Ph.D. student in Computer Science at Michigan State University. His research interests include Machine Learning on Graphs, Trustworthy AI, and AI+Education. Prior to joining MSU, he received his B.S in Computer Science at CUNY -- Brooklyn College (2019). He work has been published at top conferences including NeurIPS, ICLR, KDD, EMNLP, TheWebConf, ACL, and CIKM. He is the recipient of the MSU Engineering Distinguished fellowship, the NRT-IMPACTS fellowship, and the KDD’24 student travel award.
   </div>
 </div>
 
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Kai Guo.png" class="bio-img" />
   <div class="bio-text">
-    <b><a href="https://kaiguo20.github.io/">Kai Guo</a></b> is currently a postdoctoral researcher at Michigan State University. His research interests include Graph Learning and LLMs with Graphs. Before joining MSU, he received his Ph.D. degree from Jilin University in 2024 under the supervision of Prof. Yi Chang. He has published several works in top conferences including ICML, KDD, and AAAI.
+<b><a href="https://kaiguo20.github.io/">Kai Guo</a></b> is currently a postdoctoral researcher at Michigan State University. His research interests include Graph Learning and LLMs with Graphs. Before joining MSU, he received his Ph.D. degree from Jilin University in 2024 under the supervision of Prof. Yi Chang. He has published several works in top conferences including ICML, KDD, and AAAI.
   </div>
 </div>
 
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Yongjia Lei.png" class="bio-img" />
   <div class="bio-text">
-    <b><a href="https://yoega.github.io/Yoega.html">Yongjia Lei</a></b> is a 1st year Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. Her research interests include Knowledge-intensive LLMs and Graph Machine Learning for Social Good Applications. She has several publications in EAAI and ASC. In addition, she has contributed to community services, such as being (sub)-reviewer in KDD, WSDM, AAAI, and LOG.
+<b><a href="https://yoega.github.io/Yoega.html">Yongjia Lei</a></b> is a 1st year Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. Her research interests include Knowledge-intensive LLMs and Graph Machine Learning for Social Good Applications. She has several publications in EAAI and ASC. In addition, she has contributed to community services, such as being (sub)-reviewer in KDD, WSDM, AAAI, and LOG.
   </div>
 </div>
 
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Jiayuan Ding.png" class="bio-img" />
   <div class="bio-text">
-    <b><a href="https://www.linkedin.com/in/jiayuand/">Jiayuan Ding</a></b> is a Staff Research Scientist responsible for Retrieval Augmented Generation at Hippocratic AI, where its RAG products are serving pharmacies, hospitals, and medical institutions. His research centers on Large Language Models, Retrieval Augmented Generation, Agents, and their applications in life science. His work has been published in top conferences and journals, including NeurIPS, ICLR, ACL, EMNLP, KDD, ICDE, CIKM, ACM TIST, and Genome Biology.
+<b><a href="https://www.linkedin.com/in/jiayuand/">Jiayuan Ding</a></b> is a Staff Research Scientist responsible for Retrieval Augmented Generation at Hippocratic AI, where its RAG products are serving pharmacies, hospitals, and medical institutions. His research centers on Large Language Models, Retrieval Augmented Generation, Agents, and their applications in life science. His work has been published in top conferences and journals, including NeurIPS, ICLR, ACL, EMNLP, KDD, ICDE, CIKM, ACM TIST, and Genome Biology.
   </div>
 </div>
