@@ -3,7 +3,7 @@ title: "KIND Lab - Projects"
 layout: gridlay
 excerpt: "KIND Lab -- Projects."
 sitemap: false
-permalink: /projects/
+permalink: /project/
 ---
 
 
