@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<!-- For now, you can see our memebers [here](people). -->
+<!-- For now, you can see our members [here](people). -->
 <h1>Welcome!</h1>
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
@@ -42,7 +42,6 @@ permalink: /
 </div>
 
 We are the <strong>Knowledge Intelligence for Discovery and Decision-Making (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in exploring knowledge intelligence solutions in discovery and decision-making through data mining and machine learning techniques for advancing social-good applications.
-<!--, especially network analysis, graph machine learning, Agentic-AI, spatial-temporal learning, and information retrieval for social good applications in information retrieval, document intelligence, infrastructure analysis, drug discovery, etc.-->
     
 
 We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests. Master, undergraduate students, and visiting scholars are also welcome. Please see <a href="https://yuwang0103.github.io/recruiting/">here</a> for position details.
@@ -50,21 +49,17 @@ We are recruiting PhD students to work with us in the KIND Lab on topics in our 
 <!--  <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="100%" style="float: center" />
 -->
 
-<!-- <br>
+<br>
  We are grateful to the following for supporting our research:
 <br>
--->
-<!-- <div class="center">
+
+<div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/uo.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/afrl.jpg" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/thd.jpg" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/nvidia.png" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.png" style="width: 100px">
 </figure>
 </div>
- -->
+
 <!-- 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_1.jpg" style="width: 210px">
