@@ -16,12 +16,12 @@ permalink: /
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
+<!--         <li data-target="#carousel" data-slide-to="5"></li> -->
     </ol>
     <div class="carousel-inner" markdown="0">
-    <div class="item active">
+<!--     <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/KIND_logo.png" alt="Slide 1" />
-    </div>
+    </div> -->
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eugene.png" alt="Slide 2" />
     </div>
