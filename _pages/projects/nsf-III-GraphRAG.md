@@ -83,11 +83,11 @@ https://arxiv.org/abs/2502.06872 (2025).
 
 ### Tutorials
 [Retrieval-augmented Generation on Graph-structured Data](https://kindlab-fly.github.io/tutorials/sdm25/)\
-Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang. \
+Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang.
 
 ## Workshops
 [Machine Learning on Graphs in the Era of Generative Artificial Intelligence](https://mlgraphworkshop.github.io/)\
-Yu Wang, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang. \
+Yu Wang, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang.
 
 ## Acknowledgements
 We thank Dr. Erik Blasch, Dr. Xiquan Cui, Dr. Mahantesh Halappanavar, Dr. Krishnaram Kenthapadi, Dr. Jun Li, Dr. Ryan Rossi, and Dr. Yinglong Xia for supporting our collaboration. This work is supported by the National Science Foundation through III 2524379. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of NSF, AFRL, THD, PNNL, Oracle, Adobe, Meta
