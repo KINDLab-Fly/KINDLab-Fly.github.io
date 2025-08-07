@@ -13,35 +13,35 @@ Solutions to real-world problems, such as scientific document question-answering
 To meet these goals, this project pioneers a transformative roadmap to build well-rounded graph retrieval techniques for retrieval-augmented generation (RAG) systems that advance three dimensions: (1) Improving utility by harmonizing knowledge between structured knowledge in graphs and neural knowledge in large language models via structured knowledge checking, aligning retrieval emphasis with user interests by estimating continuously evolving trends, and incorporating agentic planning and reasoning capabilities for intelligent multi-round graph-structured traversal; (2) Safeguarding trustworthiness by reliably retrieving error-controlled graph-structured knowledge, disclosing vulnerability by designing structure-informed threat models and improving safety with data-centric textual subgraph anomaly detection and model-centric neighborhood trend filtering; (3) Promoting knowledge diversity through multi-agent collaborative exploration at both the conceptual subgraph and individual entity level. Together, these innovations will yield theoretical advances in graph algorithms, retrieval modeling, and graph-structured knowledge representations, ultimately transforming how graph-structured knowledge is discovered, integrated, and applied in RAG and Gen-AI systems across impactful domains, such as healthcare, scientific innovation, personalization, cyber defense, and targeting.
 
 ## Publications
-[Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/)[code](https://github.com/Yoega/MoR)
+[Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/)[code](https://github.com/Yoega/MoR) \
 Yongjia Lei, Haoyu Han, Ryan A Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M Halappanavar, Jiliang Tang, Yu Wang. \
 https://aclanthology.org/2025.findings-acl.941/ (2025).
 
-[A Graph Perspective to Probe Structural Patterns of Knowledge in Large Language Models](https://arxiv.org/abs/2505.19286)[code](https://github.com/utkarshxsahu/kgc)
+[A Graph Perspective to Probe Structural Patterns of Knowledge in Large Language Models](https://arxiv.org/abs/2505.19286)[code](https://github.com/utkarshxsahu/kgc) \
 Utkarsh Sahu, Zhisheng Qi, Yongjia Lei, Ryan A. Rossi, Franck Dernoncourt, Nesreen K. Ahmed, Mahantesh M Halappanavar, Yao Ma, Yu Wang. \
 https://arxiv.org/abs/2505.19286 (2025).
 
-[Empowering GraphRAG with Knowledge Filtering and Integration](https://arxiv.org/abs/2503.13804)
+[Empowering GraphRAG with Knowledge Filtering and Integration](https://arxiv.org/abs/2503.13804) \
 Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang. \
 https://arxiv.org/abs/2502.11371 (2025).
 
-[Rag vs. graphrag: A systematic evaluation and key insights](https://arxiv.org/abs/2502.11371)
+[Rag vs. graphrag: A systematic evaluation and key insights](https://arxiv.org/abs/2502.11371) \
 Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang. \
 https://arxiv.org/abs/2503.13804 (2025).
 
-[Empowering GraphRAG with Knowledge Filtering and Integration](https://arxiv.org/abs/2503.13804)
+[Empowering GraphRAG with Knowledge Filtering and Integration](https://arxiv.org/abs/2503.13804) \
 Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang. \
 https://arxiv.org/abs/2503.13804 (2025).
 
-[Personalized Graph-Based Retrieval for Large Language Models](https://arxiv.org/abs/2501.02157)
+[Personalized Graph-Based Retrieval for Large Language Models](https://arxiv.org/abs/2501.02157) \
 Steven Au, Cameron J. Dimacali, Ojasmitha Pedirappagari, Namyong Park, Franck Dernoncourt, Yu Wang, Nikos Kanakaris, Hanieh Deilamsalehy, Ryan A. Rossi, Nesreen K. Ahmed. \
 https://arxiv.org/abs/2501.02157 (2025).
 
-[DynaSaur: Large language agents beyond predefined actions](https://arxiv.org/abs/2411.01747)[code](https://github.com/adobe-research/dynasaur)
+[DynaSaur: Large language agents beyond predefined actions](https://arxiv.org/abs/2411.01747)[code](https://github.com/adobe-research/dynasaur) \
 Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao, Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt, Tianyi Zhou. \
 Second Conference on Language Modeling, Montreal, Canada, October 7-9, 2025.
 
-[Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective](https://arxiv.org/abs/2410.08985)
+[Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective](https://arxiv.org/abs/2410.08985) \
 Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, Tyler Derr. \
 In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI), Philadelphia, PA, February 25-March 4, 2025.
 
@@ -49,7 +49,7 @@ In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI), Ph
 Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, Tyler Derr. \
 In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM), Boise, ID, October 21-25, 2024.
 
-[GUI Agents: A Survey](https://arxiv.org/abs/2412.13501)
+[GUI Agents: A Survey](https://arxiv.org/abs/2412.13501) \
 Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt. \
 https://arxiv.org/abs/2412.13501 (2024).
 
@@ -71,11 +71,11 @@ Yu Wang, Yuying Zhao, Yi Zhang, Tyler Derr.\
 
 
 ## Resources
-[Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1)[paper list](https://github.com/Graph-RAG/GraphRAG/)
+[Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1)[paper list](https://github.com/Graph-RAG/GraphRAG/) \
 Haoyu Han, Yu Wang, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang. \
 https://arxiv.org/abs/2501.00309v1 (2025).
 
-[Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)[paper list](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
+[Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)[paper list](https://github.com/Arstanley/Awesome-Trustworthy-RAG) \
 Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr. \
 https://arxiv.org/abs/2502.06872 (2025).
 
@@ -83,4 +83,4 @@ https://arxiv.org/abs/2502.06872 (2025).
 
 
 ## Acknowledgements
-We thank Erik, Xiquan, Mahantesh, Krishnaram, Jun, Ryan, and Yinglong for supporting our collaboration. This work is supported by the National Science Foundation through III 2524379. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of NSF, Ripple, or Broadcom.
+We thank Erik Blasch, Xiquan Cui, Mahantesh Halappanavar, Krishnaram Kenthapadi, Jun Li, Ryan Rossi, and Yinglong Xia for supporting our collaboration. This work is supported by the National Science Foundation through III 2524379. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of NSF, Ripple, or Broadcom.
