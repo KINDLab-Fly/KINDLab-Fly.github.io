@@ -6,6 +6,7 @@ sitemap: false
 permalink: /people/
 ---
 
+
 ## Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
@@ -19,7 +20,7 @@ permalink: /people/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
+  <i>{{ member.info }} <br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -101,7 +102,7 @@ permalink: /people/
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
 
-  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
+  <i>{{ member.info }} <br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 0 %}
@@ -175,7 +176,7 @@ permalink: /people/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}  <br>email: <{{ member.email }}></i> 
+  <i>{{ member.info }}  <br>email: {{ member.email }}</i> 
   <ul style="overflow: hidden">
   {% if member.number_educ == 0 %}
   {% endif %}
