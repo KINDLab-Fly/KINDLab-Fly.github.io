@@ -26,13 +26,13 @@ permalink: /
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eugene.png" alt="Slide 2" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/SDM-2025-1.png" alt="Slide 3" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sdm-2025-1.png" alt="Slide 3" />
     </div>
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo1.png" alt="Slide 4" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/SDM-2025-1.png" alt="Slide 5" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sdm-2025-1.png" alt="Slide 5" />
     </div>
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo2.png" alt="Slide 6" />
@@ -63,7 +63,7 @@ We are recruiting PhD students to work with us in the KIND Lab on topics in our 
 
 <div class="center">
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/uo.png" style="width: 100px">
+<!--   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/uo.png" style="width: 100px"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
 </figure>
 </div>
