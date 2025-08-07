@@ -111,6 +111,21 @@ firstp {
   border-radius: 6px;
 }
 
+.project-row {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.project-image {
+  width: 200px;
+  height: auto;
+  object-fit: contain;
+}
+
+.project-description {
+  flex: 1;
+}
 .bio-text {
   flex: 1;
 }
