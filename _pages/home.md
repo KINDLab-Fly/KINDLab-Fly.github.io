@@ -15,8 +15,8 @@ permalink: /
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
+<!--         <li data-target="#carousel" data-slide-to="4"></li> -->
+<!--         <li data-target="#carousel" data-slide-to="5"></li> -->
     </ol>
     <div class="carousel-inner" markdown="0">
     <div class="item active">
@@ -25,15 +25,15 @@ permalink: /
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eugene.png" alt="Slide 2" />
     </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sdm-2025-1.png" alt="Slide 3" />
-    </div>
+<!--     <div class="item"> -->
+<!--         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sdm-2025-1.png" alt="Slide 3" /> -->
+<!--     </div> -->
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo1.png" alt="Slide 4" />
     </div>
-    <div class="item">
+<!--     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sdm-2025-2.png" alt="Slide 5" />
-    </div>
+    </div> -->
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo2.png" alt="Slide 6" />
     </div>
