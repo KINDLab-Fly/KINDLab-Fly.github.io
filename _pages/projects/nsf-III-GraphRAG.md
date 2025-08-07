@@ -1,7 +1,7 @@
 ---
-title: "NSF-III-GraphRAG"
+title: "nsf-III-GraphRAG"
 layout: textlay
-excerpt: "NSF-III-GraphRAG"
+excerpt: "nsf-III-GraphRAG"
 sitemap: false
-permalink: /projects/NSF-III-GraphRAG/
+permalink: /projects/nsf-III-GraphRAG/
 ---
