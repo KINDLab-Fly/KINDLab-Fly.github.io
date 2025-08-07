@@ -1,9 +1,9 @@
 ---
-title: "KIND Lab - Publications"
+title: "KIND Lab - Projects"
 layout: gridlay
-excerpt: "KIND Lab -- Publications."
+excerpt: "KIND Lab -- Projects."
 sitemap: false
-permalink: /publications/
+permalink: /projects/
 ---
 
 
