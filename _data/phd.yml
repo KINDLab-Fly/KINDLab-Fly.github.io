@@ -3,7 +3,7 @@
 - name: Yongjia Lei
   photo: Yongjia.png
   info: Computer Science PhD
-  email: yongjia_AT_uoregon_DOT_edu
+  # email: yongjia_AT_uoregon_DOT_edu
   number_educ: 1
   education1: Reasoning and Planning, Retrieval-augmented Generation
   education2: 
@@ -18,7 +18,7 @@
 - name: Riya Ponraj
   photo: Riya.png
   info: Computer Science PhD
-  email: ripo_AT_uoregon_DOT_edu
+  # email: ripo_AT_uoregon_DOT_edu
   number_educ: 2
   education1: Graph Machine Learning for Trustworthy Networking Management
   education2: Co-advised with Professor Ram Durairajan from ONRG Lab@UO
@@ -33,7 +33,7 @@
 - name: Zhisheng Qi
   photo: Zhisheng.png
   info: Upcoming Computer Science PhD
-  email: charlieqi02_AT_gmail_DOT_com
+  # email: charlieqi02_AT_gmail_DOT_com
   number_educ: 1
   education1: Graph-enhanced Agentic Learning
   education2: 
@@ -44,18 +44,3 @@
   linkedin: 
   twitter: 
   github: https://github.com/charlieqi02
-
-# - name: Dingyi Zhang
-#   photo: Dingyi.png
-#   info: Upcoming Computer Science PhD
-#   email: zhangdy1013_AT_gmail_DOT_com
-#   number_educ: 1
-#   education1: Spatial-Temporal Learning
-#   education2: 
-#   education3: 
-#   education4: 
-#   education5:
-#   website: 
-#   linkedin: 
-#   twitter: 
-#   github: https://github.com/ATHOSD
