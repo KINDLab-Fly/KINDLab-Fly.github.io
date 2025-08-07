@@ -12,7 +12,7 @@ Solutions to real-world problems, such as scientific document question-answering
 
 To meet these goals, this project pioneers a transformative roadmap to build well-rounded graph retrieval techniques for retrieval-augmented generation (RAG) systems that advance three dimensions: (1) Improving utility by harmonizing knowledge between structured knowledge in graphs and neural knowledge in large language models via structured knowledge checking, aligning retrieval emphasis with user interests by estimating continuously evolving trends, and incorporating agentic planning and reasoning capabilities for intelligent multi-round graph-structured traversal; (2) Safeguarding trustworthiness by reliably retrieving error-controlled graph-structured knowledge, disclosing vulnerability by designing structure-informed threat models and improving safety with data-centric textual subgraph anomaly detection and model-centric neighborhood trend filtering; (3) Promoting knowledge diversity through multi-agent collaborative exploration at both the conceptual subgraph and individual entity level. Together, these innovations will yield theoretical advances in graph algorithms, retrieval modeling, and graph-structured knowledge representations, ultimately transforming how graph-structured knowledge is discovered, integrated, and applied in RAG and Gen-AI systems across impactful domains, such as healthcare, scientific innovation, personalization, cyber defense, and targeting.
 
-## Publications
+### Publications
 [Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/)[code](https://github.com/Yoega/MoR) \
 Yongjia Lei, Haoyu Han, Ryan A Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M Halappanavar, Jiliang Tang, Yu Wang. \
 https://aclanthology.org/2025.findings-acl.941/ (2025).
@@ -70,23 +70,23 @@ Yu Wang, Yuying Zhao, Yi Zhang, Tyler Derr.\
 14th International Conference on Applications of Statistics and Probability in Civil Engineering, ICASP 14, Dublin, Ireland, July 9-13, 2023.
 
 
-## Resources
-[Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1) \
-[paper list](https://github.com/Graph-RAG/GraphRAG/) \
+### Resources
+[Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1)\
+[paper list](https://github.com/Graph-RAG/GraphRAG/)\
 Haoyu Han, Yu Wang, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang. \
 https://arxiv.org/abs/2501.00309v1 (2025).
 
-[Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872) \
-[paper list](https://github.com/Arstanley/Awesome-Trustworthy-RAG) \
+[Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)\
+[paper list](https://github.com/Arstanley/Awesome-Trustworthy-RAG)\
 Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr. \
 https://arxiv.org/abs/2502.06872 (2025).
 
-## Tutorials
-[Retrieval-augmented Generation on Graph-structured Data](https://kindlab-fly.github.io/tutorials/sdm25/)
+### Tutorials
+[Retrieval-augmented Generation on Graph-structured Data](https://kindlab-fly.github.io/tutorials/sdm25/)\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang. \
 
 ## Workshops
-[Machine Learning on Graphs in the Era of Generative Artificial Intelligence](https://mlgraphworkshop.github.io/)
+[Machine Learning on Graphs in the Era of Generative Artificial Intelligence](https://mlgraphworkshop.github.io/)\
 Yu Wang, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang. \
 
 ## Acknowledgements
