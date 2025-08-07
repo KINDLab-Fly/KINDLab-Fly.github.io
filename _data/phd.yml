@@ -5,43 +5,43 @@
   info: Computer Science PhD
   email: yongjia_AT_uoregon_DOT_edu
   number_educ: 1
-  education1: Reasoning and Planning, Retrieval-augmented Generation, Document Intelligence
+  education1: "Reasoning and Planning, Retrieval-augmented Generation, Document Intelligence"
   education2: 
   education3: 
   education4: 
   education5:
-  website: https://github.com/Yoega
-  linkedin: https://www.linkedin.com/in/yongjia-lei-2057ba342/
+  website: "https://github.com/Yoega"
+  linkedin: "https://www.linkedin.com/in/yongjia-lei-2057ba342/"
   twitter: 0
-  github: https://github.com/Yoega
+  github: "https://github.com/Yoega"
 
 - name: Zhisheng Qi
   photo: Zhisheng.png
   info: Computer Science PhD
   email: charlieqi02_AT_gmail_DOT_com
   number_educ: 1
-  education1: Agentic Social Network 
+  education1: "Agentic Social Network" 
   education2: 
   education3: 
   education4: 
   education5:
-  website: https://charlieqi02.github.io/
+  website: "https://charlieqi02.github.io/"
   linkedin: 
   twitter: 
-  github: https://github.com/charlieqi02
+  github: "https://github.com/charlieqi02"
   
 - name: Riya Ponraj
   photo: Riya.png
   info: Computer Science PhD
   email: ripo_AT_uoregon_DOT_edu
   number_educ: 2
-  education1: Graph Machine Learning for Trustworthy Networking Management
-  education2: Co-advised with Professor Ram Durairajan from ONRG Lab@UO
+  education1: "Graph Machine Learning for Trustworthy Networking Management"
+  education2: "Co-advised with Professor Ram Durairajan from ONRG Lab@UO"
   education3: 
   education4: 
   education5:
   website: 
-  linkedin: https://www.linkedin.com/in/riyaponraj/
+  linkedin: "https://www.linkedin.com/in/riyaponraj/"
   twitter: 
   github: 
 
