@@ -10,10 +10,10 @@
   education3: 
   education4: 
   education5:
-  website: "https://github.com/Yoega"
-  linkedin: "https://www.linkedin.com/in/yongjia-lei-2057ba342/"
+  website: https://github.com/Yoega
+  linkedin: https://www.linkedin.com/in/yongjia-lei-2057ba342/
   twitter: 0
-  github: "https://github.com/Yoega"
+  github: https://github.com/Yoega
 
 - name: Zhisheng Qi
   photo: Zhisheng.png
