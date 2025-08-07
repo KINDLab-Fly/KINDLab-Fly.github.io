@@ -1,8 +1,11 @@
 - date: 06/2025
-  headline: "Our paper, Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks, has been accepted at IEEE Transactions on Network Science and Engineering (TNSE)!"
+  headline: "Utkarsh first paper, <a href=\"https://arxiv.org/abs/2505.19286" target=\"_blank\" rel=\"noopener noreferrer\">A Graph Perspective to Probe Structural Patterns of Knowledge in Large Language Models</a>, is online!"
 
 - date: 06/2025
-  headline: "Our paper, Personalization of Large Language Models: A Survey, has been accepted at Transactions on Machine Learning Research (TMLR)!"
+  headline: "Our paper, <a href=\"https://ieeexplore.ieee.org/document/11029199" target=\"_blank\" rel=\"noopener noreferrer\">Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks</a>, has been accepted at IEEE Transactions on Network Science and Engineering (TNSE)!"
+
+- date: 06/2025
+  headline: "Our paper, <a href=\"https://arxiv.org/abs/2411.00027" target=\"_blank\" rel=\"noopener noreferrer\">Personalization of Large Language Models: A Survey</a>, has been accepted at Transactions on Machine Learning Research (TMLR)!"
 
 - date: 05/2025
   headline: "Yongjia first paper, Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases, has been accepted at ACL 2025 Findings!"
