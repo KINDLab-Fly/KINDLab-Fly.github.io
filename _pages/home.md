@@ -63,7 +63,7 @@ We are recruiting PhD students to work with us in the KIND Lab on topics in our 
 
 <div class="center">
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/uo.png" style="width: 100px">
+<!--   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/uo.png" style="width: 100px"> -->
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
 </figure>
 </div>
