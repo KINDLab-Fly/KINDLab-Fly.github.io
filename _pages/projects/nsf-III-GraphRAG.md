@@ -7,7 +7,7 @@ permalink: /projects/nsf-III-GraphRAG/
 ---
 
 
-## Towards Well-Rounded Graph Retrieval for Retrieval-augmented Generation
+## Towards Well-Rounded Graph Retrieval for RAG
 Solutions to real-world problems, such as scientific document question-answering, cybersecurity diagnosis, and e-commerce personalization, can often be improved by augmenting the underlying generative artificial intelligence-based (Gen-AI) systems with retrieved external knowledge. Much of this external knowledge is organized in graph-structured formats that encode unique relational signals. For example, citation links among scientific papers reveal their deep intellectual dependencies across different fields. Recurring co-occurrences among software components and vulnerability reports can reveal latent causal chains triggering security flaws. Online human interactions, such as liking, commenting, or reposting, reflect individual traits and preferences. This project pioneers retrieval techniques that locate the appropriate graph-structured knowledge and infuse it to assist Gen-AI systems with solving downstream problems, closing critical knowledge gaps, and enabling more useful, trustworthy, and diverse predictions, discovery, and decision-making. In personalization, the proposed retrieval techniques could give a social e-commerce platform a holistic view of each customer and support highly personalized recommendations. In cybersecurity, hidden dependencies among vulnerabilities and defenses could be exploited, allowing security operators to trace multi-step attack chains and harden critical systems against emerging threats. In scientific discovery and innovation, the relational knowledge in our proposed graph-level retrieval could facilitate exploration of multifaceted content and provide diverse insights that push existing knowledge boundaries.
 
 To meet these goals, this project pioneers a transformative roadmap to build well-rounded graph retrieval techniques for retrieval-augmented generation (RAG) systems that advance three dimensions: (1) Improving utility by harmonizing knowledge between structured knowledge in graphs and neural knowledge in large language models via structured knowledge checking, aligning retrieval emphasis with user interests by estimating continuously evolving trends, and incorporating agentic planning and reasoning capabilities for intelligent multi-round graph-structured traversal; (2) Safeguarding trustworthiness by reliably retrieving error-controlled graph-structured knowledge, disclosing vulnerability by designing structure-informed threat models and improving safety with data-centric textual subgraph anomaly detection and model-centric neighborhood trend filtering; (3) Promoting knowledge diversity through multi-agent collaborative exploration at both the conceptual subgraph and individual entity level. Together, these innovations will yield theoretical advances in graph algorithms, retrieval modeling, and graph-structured knowledge representations, ultimately transforming how graph-structured knowledge is discovered, integrated, and applied in RAG and Gen-AI systems across impactful domains, such as healthcare, scientific innovation, personalization, cyber defense, and targeting.
@@ -79,8 +79,13 @@ https://arxiv.org/abs/2501.00309v1 (2025).
 Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr. \
 https://arxiv.org/abs/2502.06872 (2025).
 
+## Tutorials
+[Retrieval-augmented Generation on Graph-structured Data](https://kindlab-fly.github.io/tutorials/sdm25/)
+Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang. \
 
-
+## Workshops
+[Machine Learning on Graphs in the Era of Generative Artificial Intelligence](https://mlgraphworkshop.github.io/)
+Yu Wang, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang. \
 
 ## Acknowledgements
 We thank Erik Blasch, Xiquan Cui, Mahantesh Halappanavar, Krishnaram Kenthapadi, Jun Li, Ryan Rossi, and Yinglong Xia for supporting our collaboration. This work is supported by the National Science Foundation through III 2524379. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of NSF, Ripple, or Broadcom.
