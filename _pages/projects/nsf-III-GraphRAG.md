@@ -21,11 +21,11 @@ In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), Va
 
 [Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/)[code](https://github.com/Yoega/MoR) \
 Yongjia Lei, Haoyu Han, Ryan A Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M Halappanavar, Jiliang Tang, Yu Wang. \
-https://aclanthology.org/2025.findings-acl.941/ (2025).
+The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), Vienna, Austria, 2025.
 
 [A Graph Perspective to Probe Structural Patterns of Knowledge in Large Language Models](https://arxiv.org/abs/2505.19286)[code](https://github.com/utkarshxsahu/kgc) \
 Utkarsh Sahu, Zhisheng Qi, Yongjia Lei, Ryan A. Rossi, Franck Dernoncourt, Nesreen K. Ahmed, Mahantesh M Halappanavar, Yao Ma, Yu Wang. \
-https://arxiv.org/abs/2505.19286 (2025).
+https://arxiv.org/abs/2505.19286, 2025.
 
 [Topology-aware Retrieval Augmentation for Text Generation](https://dl.acm.org/doi/abs/10.1145/3627673.3679746)\
 Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, Tyler Derr. \
@@ -41,19 +41,19 @@ Proceedings of the ACM Web Conference (WWW), Austin, TX, 2023.
 
 [Empowering GraphRAG with Knowledge Filtering and Integration](https://arxiv.org/abs/2503.13804) \
 Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang. \
-https://arxiv.org/abs/2502.11371 (2025).
+https://arxiv.org/abs/2502.11371, 2025.
 
 [Rag vs. graphrag: A systematic evaluation and key insights](https://arxiv.org/abs/2502.11371) \
 Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang. \
-https://arxiv.org/abs/2503.13804 (2025).
+https://arxiv.org/abs/2503.13804, 2025.
 
 [Empowering GraphRAG with Knowledge Filtering and Integration](https://arxiv.org/abs/2503.13804) \
 Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang. \
-https://arxiv.org/abs/2503.13804 (2025).
+https://arxiv.org/abs/2503.13804, 2025.
 
 [Personalized Graph-Based Retrieval for Large Language Models](https://arxiv.org/abs/2501.02157) \
 Steven Au, Cameron J. Dimacali, Ojasmitha Pedirappagari, Namyong Park, Franck Dernoncourt, Yu Wang, Nikos Kanakaris, Hanieh Deilamsalehy, Ryan A. Rossi, Nesreen K. Ahmed. \
-https://arxiv.org/abs/2501.02157 (2025).
+https://arxiv.org/abs/2501.02157, 2025.
 
 [DynaSaur: Large language agents beyond predefined actions](https://arxiv.org/abs/2411.01747)[code](https://github.com/adobe-research/dynasaur) \
 Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao, Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt, Tianyi Zhou. \
@@ -65,7 +65,7 @@ In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI), Ph
 
 [GUI Agents: A Survey](https://arxiv.org/abs/2412.13501) \
 Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt. \
-https://arxiv.org/abs/2412.13501 (2024).
+https://arxiv.org/abs/2412.13501, 2024.
 
 [Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness](https://dl.acm.org/doi/abs/10.1145/3589334.3645662)\
 Yuying Zhao, Minghua Xu, Huiyuan Chen, Yuzhong Chen, Yiwei Cai, Rashidul Islam, Yu Wang, Tyler Derr. \
@@ -76,20 +76,22 @@ Proceedings of the ACM Web Conference (WWW), Singapore, May 13-17, 2024.
 [Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1)\
 [paper list](https://github.com/Graph-RAG/GraphRAG/)\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang. \
-https://arxiv.org/abs/2501.00309v1 (2025).
+https://arxiv.org/abs/2501.00309v1, 2025.
 
 [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)\
 [paper list](https://github.com/Arstanley/Awesome-Trustworthy-RAG)\
 Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr. \
-https://arxiv.org/abs/2502.06872 (2025).
+https://arxiv.org/abs/2502.06872, 2025.
 
 ### Tutorials
 [Retrieval-augmented Generation on Graph-structured Data](https://kindlab-fly.github.io/tutorials/sdm25/)\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang.
+SIAM International Conference on Data Mining, SDM25
 
 ### Workshops
 [Machine Learning on Graphs in the Era of Generative Artificial Intelligence](https://mlgraphworkshop.github.io/)\
 Yu Wang, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang.
+Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025
 
 ## Acknowledgements
 We thank Dr. Erik Blasch, Dr. Xiquan Cui, Dr. Mahantesh Halappanavar, Dr. Krishnaram Kenthapadi, Dr. Jun Li, Dr. Ryan Rossi, and Dr. Yinglong Xia for supporting our collaboration. This work is supported by the National Science Foundation through III 2524379. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of NSF, AFRL, THD, PNNL, Oracle, Adobe, Meta.
