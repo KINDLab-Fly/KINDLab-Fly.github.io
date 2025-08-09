@@ -74,12 +74,12 @@ Proceedings of the ACM Web Conference (WWW), Singapore, May 13-17, 2024.
 
 ### Resources
 [Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1)\
-[paper list](https://github.com/Graph-RAG/GraphRAG/)\
+[(Paper List)](https://github.com/Graph-RAG/GraphRAG/)\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang. \
 https://arxiv.org/abs/2501.00309v1, 2025.
 
 [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)\
-[paper list](https://github.com/Arstanley/Awesome-Trustworthy-RAG)\
+[(Paper List)](https://github.com/Arstanley/Awesome-Trustworthy-RAG)\
 Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr. \
 https://arxiv.org/abs/2502.06872, 2025.
 
