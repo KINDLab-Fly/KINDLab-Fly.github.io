@@ -94,7 +94,7 @@ Yu Wang, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahm
 Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025
 
 ## Acknowledgements
-We thank Dr. Erik Blasch, Dr. Xiquan Cui, Dr. Mahantesh Halappanavar, Dr. Krishnaram Kenthapadi, Dr. Jun Li, Dr. Ryan Rossi, and Dr. Yinglong Xia for supporting our collaboration. This work is supported by the National Science Foundation through III 2524379. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of NSF, AFRL, THD, PNNL, Oracle, Adobe, Meta.
+We thank all our academic and industrial collaborators for their support. This work is supported by the National Science Foundation through III 2524379. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of NSF, academia, and industrial partners.
 
 ![]({{ site.baseurl }}/images/funding/NSF_logo_animation.gif)
 
