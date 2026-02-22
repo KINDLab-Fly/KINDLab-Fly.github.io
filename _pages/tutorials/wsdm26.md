@@ -91,13 +91,12 @@ Location: Boise Centre Room 110AB, Boise, Idaho, USA
 ### Slides
 Coming soon.
 
-<!-- Uncomment when slides are available:
-Download <a href="https://KINDLab-Fly.github.io/_pages/WSDM26-StructuredRAG-tutorial.pdf"> PDF Link </a>
+Download <a href="https://KINDLab-Fly.github.io/_pages/WSDM26-RAG-Structure.pdf"> PDF Link </a>
 
 <div style="display: flex; justify-content: center;">
-  <embed src="{{ site.url }}{{ site.baseurl }}/_pages/WSDM26-StructuredRAG-tutorial.pdf" width="700px" height="500px" />
+  <embed src="{{ site.url }}{{ site.baseurl }}/_pages/WSDM26-RAG-Structure.pdf" width="700px" height="500px" />
 </div>
--->
+
 
 ### Speakers Bio
 
