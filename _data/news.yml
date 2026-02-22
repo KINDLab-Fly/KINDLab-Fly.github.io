@@ -1,3 +1,42 @@
+- date: 02/2026
+  headline: "🎤 Invited to Attend NSF NAIRR Pilot Meeting, see you in DC!"
+
+- date: 02/2026
+  headline: "📚 Our preprint <a href=\"https://arxiv.org/abs/2602.09319\" target=\"_blank\" rel=\"noopener noreferrer\">Benchmarking Knowledge-Extraction Attack and Defense on RAG</a> is online!"
+
+- date: 01/2026
+  headline: "📚 Our paper <a href=\"http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Large Language Models for Conversational User Simulation</a> has been accepted at EACL 2026!"
+
+- date: 01/2026
+  headline: "📚 Our paper on RL Exploration on Graphs has been accepted at WWW'26!"
+
+- date: 12/2025
+  headline: "📚 Our paper on Rule Mining and Learning for Structured Knowledge Retrieval has been accepted at WSDM'26!"
+
+- date: 11/2025
+  headline: "📚 Utkarsh's first work, <a href=\"https://arxiv.org/abs/2509.23773\" target=\"_blank\" rel=\"noopener noreferrer\">Knowledge Homophily in Large Language Models</a>, has been accepted at WSDM'26!"
+
+- date: 11/2025
+  headline: "📚 Our paper on SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs has been accepted at KDD'26!"
+
+- date: 11/2025
+  headline: "📚 Our paper, <a href=\"https://arxiv.org/abs/2509.18007\" target=\"_blank\" rel=\"noopener noreferrer\">Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework</a>, has been accepted at KDD'26!"
+
+- date: 11/2025
+  headline: "🎤 Talk at <a href=\"https://media.oregonstate.edu/media/t/1_qor5vsmj/232665543\" target=\"_blank\" rel=\"noopener noreferrer\">AI Seminar at Oregon State University</a> on 'Rigorizing Neural Thinking with Structural Intelligence'!"
+
+- date: 10/2025
+  headline: "📚 Tutorial on Democratizing RAG with Structured Knowledge Intelligence has been accepted at WSDM'26!"
+
+- date: 09/2025
+  headline: "📚 Workshop <a href=\"https://surgellm.github.io/acl2026/\" target=\"_blank\" rel=\"noopener noreferrer\">SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs Era</a> has been accepted at ACL'26!"
+
+- date: 08/2025
+  headline: "📚 Our paper, <a href=\"https://arxiv.org/abs/2503.13804\" target=\"_blank\" rel=\"noopener noreferrer\">Knowledge Filtering and Integration for GraphRAG</a>, has been accepted at EMNLP'25!"
+
+- date: 08/2025
+  headline: "💰 <span style=\"color:red\"><b>Our NSF-NAIRR Pilot project on developing Foundational GraphRAG has been selected!</b></span>"
+
 - date: 08/2025
   headline: "Riya's Paper has been accepted at IMC 2025 Student Workshop (IMC-SW25)!"
 
