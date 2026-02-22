@@ -12,13 +12,13 @@ permalink: /tutorials/wsdm26/
 #### Abstract
 
 Retrieving external knowledge to Augment Generations of downstream task solutions (RAGs) has become a standard practice in powering knowledge-intensive applications. However, real-world knowledge often manifests in heterogeneous yet distinctive structures (e.g., tabular schemas, social networks, and document trees), the effective modeling of which demands specialized modeling, practical engineering, and domain expertise. Meanwhile, adopting RAGs in high-stakes scenarios underscores rigorous safety and privacy considerations. Despite the importance of this structural perspective, the current landscape remains fragmented across different knowledge structures. Moreover, few approaches adequately consider how structured knowledge shapes RAG's safety. Against this backdrop, our tutorial offers a structural perspective on RAGs. We begin by overviewing structured RAGs across their full lifecycle, highlighting their canonical designs. We then examine how design principles can be specialized for different knowledge structures, showcasing their unique applications and security attack/defense strategies. Specifically, our objectives are to:
-- **Introduce the motivation and application RAG and structured knowledge, and their safety/privacy-preserving concerns**
-- **Present a unified perspective on RAG architectures, which is then specialized for document, social network, table, and citation structures**
-- **Discuss key security risks in structured RAGs and present knowledge poisoning and extraction attacks, along with their threat models and defenses**
+- **Motivation and Application RAG, structured knowledge, and safety/privacy concerns.**
+- **Unified perspective on RAG and specialization in document, social network, table, and citation literature networks**
+- **Discuss key security risks in structured RAGs, including knowledge poisoning and extraction attacks**
 
 
 ### Time and Location
-Time: Feb 22<br>
+Time: Feburary 22<br>
 Location: Boise Centre Room 110AB, Boise, Idaho, USA
 
 ### Tutorial Outline
@@ -36,18 +36,18 @@ Location: Boise Centre Room 110AB, Boise, Idaho, USA
   <li>
     <b>Document/Table Structured RAGs</b> (9:30-10:00 am) - Haoyu Han
     <ul>
-      <li>Document/Table Tasks and Structured Knowledge (10 min)</li>
-      <li>Document Structured RAGs (15 min)</li>
-      <li>Future Directions and Q&A (5 min)</li>
+      <li>Document/Table Tasks and Structured Knowledge</li>
+      <li>Document Structured RAGs</li>
+      <li>Future Directions and Q&A</li>
     </ul>
   </li>
 
   <li>
     <b>Personalization & Social Structured RAGs</b> (10:00-10:30 am) - Utkarsh Sahu
     <ul>
-      <li>Personalization and Social Network Tasks and Structured Knowledge (10 min)</li>
-      <li>Personalization/Social Structured RAGs (15 min)</li>
-      <li>Future Directions and Q&A (5 min)</li>
+      <li>Personalization and Social Network Tasks and Structured Knowledge</li>
+      <li>Personalization/Social Structured RAGs</li>
+      <li>Future Directions and Q&A</li>
     </ul>
   </li>
 
@@ -58,18 +58,18 @@ Location: Boise Centre Room 110AB, Boise, Idaho, USA
   <li>
     <b>Scientific Literature RAGs</b> (11:00-11:30 am) - Yu Zhang
     <ul>
-      <li>Scientific Literature Tasks and Structured Knowledge (10 min)</li>
-      <li>Scientific Literature RAGs (15 min)</li>
-      <li>Future Directions and Q&A (5 min)</li>
+      <li>Scientific Literature Tasks and Structured Knowledge</li>
+      <li>Scientific Literature RAGs</li>
+      <li>Future Directions and Q&A</li>
     </ul>
   </li>
 
   <li>
     <b>Knowledge Graph RAGs</b> (11:30 am - 12:00 pm) - Harry Shomer
     <ul>
-      <li>Knowledge Graph Tasks and Structured Knowledge (10 min)</li>
-      <li>Knowledge Graph Structured RAGs (15 min)</li>
-      <li>Future Directions and Q&A (5 min)</li>
+      <li>Knowledge Graph Tasks and Structured Knowledge</li>
+      <li>Knowledge Graph Structured RAGs</li>
+      <li>Future Directions and Q&A</li>
     </ul>
   </li>
 
