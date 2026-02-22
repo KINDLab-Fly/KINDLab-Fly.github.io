@@ -111,28 +111,21 @@ Download <a href="https://KINDLab-Fly.github.io/_pages/WSDM26-StructuredRAG-tuto
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/Zhisheng.png" class="bio-img" />
   <div class="bio-text">
-<b><a href="https://zhishengqi.github.io/">Zhisheng Qi</a></b> is a Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. His research interests include Retrieval-augmented Generation, Structured Knowledge, and Security of AI systems. He has contributed to research published in top venues and is actively involved in community services.
-  </div>
-</div>
-
-<div class="speaker-bio">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Yongjia Lei.png" class="bio-img" />
-  <div class="bio-text">
-<b><a href="https://yoega.github.io/Yoega.html">Yongjia Lei</a></b> is a Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. Her research interests include Knowledge-intensive LLMs and Graph Machine Learning for Social Good Applications. She has several publications in top venues including EAAI and ASC. She has also contributed to community services, serving as a reviewer in KDD, WSDM, AAAI, and LOG. She was a recipient of the SDM'25 student travel award.
+<b><a href="https://zhishengqi.github.io/">Zhisheng Qi</a></b> is a Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. His research interests include Retrieval-augmented Generation, Agentic Reasoning and Planning, and Security of AI Agent.
   </div>
 </div>
 
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Haoyu Han.png" class="bio-img" />
   <div class="bio-text">
-<b><a href="https://cse.msu.edu/~hanhaoy1/">Haoyu Han</a></b> is a Ph.D. student at Michigan State University. His research interests include Machine Learning on Graphs and LLMs with Graphs. Before joining MSU, he completed his M.S. (2021) and B.S. (2018) at USTC. He has published several works in top conferences (e.g., KDD, ICDM, NeurIPS, ICML, and ICLR). He was the recipient of the KDD'22 and NeurIPS'24 Student Travel Awards. He has contributed to organizing workshops for KDD'23, AAAI'24, and SDM'24.
+<b><a href="https://cse.msu.edu/~hanhaoy1/">Haoyu Han</a></b> is a Ph.D. candidate at Michigan State University. His research interests include Machine Learning on Graphs and LLMs with Graphs. Before joining MSU, he completed his M.S. (2021) and B.S. (2018) at USTC. He has published several works in top conferences (e.g., KDD, ICDM, NeurIPS, ICML, and ICLR). He was the recipient of the KDD'22 and NeurIPS'24 Student Travel Awards. He has contributed to organizing workshops for KDD'23, AAAI'24, and SDM'24.
   </div>
 </div>
 
 <div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/Utkarsh.png" class="bio-img" />
   <div class="bio-text">
-<b>Utkarsh</b> is a Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. His research interests include Social Network Analysis and Retrieval-augmented Generation.
+<b>Utkarsh Sahu</b> is a Ph.D. student in the School of Computer and Data Sciences at the University of Oregon. His research interests include Multi-Modal Learning, Social Network, Personalization.
   </div>
 </div>
 
@@ -151,13 +144,6 @@ Download <a href="https://KINDLab-Fly.github.io/_pages/WSDM26-StructuredRAG-tuto
 </div>
 
 <div class="speaker-bio">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Ryan.png" class="bio-img" />
-  <div class="bio-text">
-<b><a href="http://ryanrossi.com/">Ryan Rossi</a></b> is a Senior Research Scientist at Adobe Research. His research includes machine learning and spans theory, algorithms, and applications of large complex graph data. He has authored over 100 papers published in top-tier conferences and journals such as NeurIPS, ICML, AAAI, KDD, IJCAI, ICLR, COLT, WWW, WSDM, and JMLR. Before joining Adobe Research, he worked at many industrial, government, and academic research labs including Palo Alto Research Center (Xerox PARC), Lawrence Livermore National Laboratory, and University of Massachusetts Amherst. He earned his Ph.D./M.S. in Computer Science at Purdue University. He brings substantial experience in leveraging social network-structured signals for personalization and applying knowledge graphs to automate document understanding.
-  </div>
-</div>
-
-<div class="speaker-bio">
   <img src="{{ site.url }}{{ site.baseurl }}/images/Yu Zhang.png" class="bio-img" />
   <div class="bio-text">
 <b><a href="https://yuzhangbit.github.io/">Yu Zhang</a></b> is an Assistant Professor at Texas A&M University. His research focuses on structure-enhanced text mining for science, including citation network analysis, scientific document understanding, and knowledge discovery. He received his Ph.D. from the University of Illinois at Urbana-Champaign. His work has been published in top-tier conferences and journals including KDD, WWW, and EMNLP.
@@ -165,8 +151,15 @@ Download <a href="https://KINDLab-Fly.github.io/_pages/WSDM26-StructuredRAG-tuto
 </div>
 
 <div class="speaker-bio">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Hui Liu.png" class="bio-img" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Ryan.png" class="bio-img" />
   <div class="bio-text">
-<b><a href="https://liuhui.cse.msu.edu/">Hui Liu</a></b> is an Assistant Professor at Michigan State University. His research interests include text mining, knowledge graphs, and information retrieval. He has contributed extensive expertise in knowledge intelligence and has a strong publication record in top-tier conferences and journals.
+<b><a href="http://ryanrossi.com/">Ryan Rossi</a></b> is a Senior Research Scientist at Adobe Research. His research includes machine learning and spans theory, algorithms, and applications of large complex graph data. He has authored over 100 papers published in top-tier conferences and journals such as NeurIPS, ICML, AAAI, KDD, IJCAI, ICLR, COLT, WWW, WSDM, and JMLR. Before joining Adobe Research, he worked at many industrial, government, and academic research labs including Palo Alto Research Center (Xerox PARC), Lawrence Livermore National Laboratory, and University of Massachusetts Amherst. He earned his Ph.D./M.S. in Computer Science at Purdue University. He brings substantial experience in leveraging social network-structured signals for personalization and applying knowledge graphs to automate document understanding.
+  </div>
+</div>
+
+<div class="speaker-bio">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/hui liu.png" class="bio-img" />
+  <div class="bio-text">
+<b><a href="https://liuhui.cse.msu.edu/">Hui Liu</a></b> is an Assistant Professor at Michigan State University. Her research interests include trustworthy AI, knowledge graph learning, and information retrieval. She has contributed extensive expertise in knowledge intelligence and has a strong publication record in top-tier conferences and journals.
   </div>
 </div>
