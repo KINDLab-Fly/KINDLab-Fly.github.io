@@ -89,8 +89,7 @@ Location: Boise Centre Room 110AB, Boise, Idaho, USA
 
 
 ### Slides
-Coming soon.
-
+You can download PDF version of our slides or see them embedded below.
 Download <a href="https://KINDLab-Fly.github.io/_pages/WSDM26-RAG-Structure.pdf"> PDF Link </a>
 
 <div style="display: flex; justify-content: center;">
