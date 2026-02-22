@@ -7,14 +7,14 @@ permalink: /tutorials/wsdm26/
 ---
 
 ### Rigorizing Retrieval-augmented Generation with Structured Knowledge
-### Tutorial at ACM International Conference on Web Search and Data Mining (WSDM'26)
+### Tutorial at ACM International Conference on Web Search and Data Mining
 
 #### Abstract
 
-Retrieving external knowledge to Augment Generations of downstream task solutions (RAGs) has become a standard practice in powering knowledge-intensive applications. However, real-world knowledge often manifests in heterogeneous yet distinctive structures (e.g., tabular schemas, social networks, and document trees), the effective modeling of which demands specialized modeling, practical engineering, and domain expertise. Meanwhile, adopting RAGs in high-stakes scenarios underscores rigorous safety considerations. Despite the importance of this structural perspective, the current landscape remains fragmented. Moreover, few approaches adequately consider how structured knowledge shapes RAG's safety. Against this backdrop, our tutorial offers a structural perspective on RAGs. We begin by overviewing structured RAGs across their full lifecycle, highlighting their canonical designs. We then examine how design principles can be specialized for different knowledge structures, showcasing their unique applications and security attack/defense strategies. Specifically, our objectives are to:
-- **Introduce the background of RAG and structured knowledge, including their safety concerns in real-world applications**
-- **Present a unified perspective on RAG architectures specialized for document, social network, table, and citation network structures**
-- **Discuss key security risks in structured RAGs, including knowledge poisoning ant extraction, inference, along with their threat models and defenses**
+Retrieving external knowledge to Augment Generations of downstream task solutions (RAGs) has become a standard practice in powering knowledge-intensive applications. However, real-world knowledge often manifests in heterogeneous yet distinctive structures (e.g., tabular schemas, social networks, and document trees), the effective modeling of which demands specialized modeling, practical engineering, and domain expertise. Meanwhile, adopting RAGs in high-stakes scenarios underscores rigorous safety and privacy considerations. Despite the importance of this structural perspective, the current landscape remains fragmented across different knowledge structures. Moreover, few approaches adequately consider how structured knowledge shapes RAG's safety. Against this backdrop, our tutorial offers a structural perspective on RAGs. We begin by overviewing structured RAGs across their full lifecycle, highlighting their canonical designs. We then examine how design principles can be specialized for different knowledge structures, showcasing their unique applications and security attack/defense strategies. Specifically, our objectives are to:
+- **Introduce the motivation and application RAG and structured knowledge, and their safety/privacy-preserving concerns**
+- **Present a unified perspective on RAG architectures, which is then specialized for document, social network, table, and citation structures**
+- **Discuss key security risks in structured RAGs and present knowledge poisoning and extraction attacks, along with their threat models and defenses**
 
 
 ### Time and Location
@@ -25,120 +25,64 @@ Location: Boise Centre Room 110AB, Boise, Idaho, USA
 
 <ul>
   <li>
-    <b>Background and Overview</b> (15 min) - Yu Wang
+    <b>Background and Overview</b> (9:00-9:30 am) - Yu Wang
     <ul>
       <li>Retrieval-augmented Generation</li>
-      <li>Structured Knowledge and Applications: Social Network, Table Schema, Documents, and Citation Network</li>
+      <li>Structured Knowledge and Applications: Document, Table, Personalization, Social Network, Scientific Literature, Knowledge Graph</li>
       <li>Security Issues of RAGs and their Structured Variants</li>
     </ul>
   </li>
 
   <li>
-    <b>Structured RAG Workflow</b> (25 min) - Yu Wang
+    <b>Document/Table Structured RAGs</b> (9:30-10:00 am) - Haoyu Han
     <ul>
-      <li>Standard Workflow</li>
-      <li>Structural Variants</li>
+      <li>Document/Table Tasks and Structured Knowledge (10 min)</li>
+      <li>Document Structured RAGs (15 min)</li>
+      <li>Future Directions and Q&A (5 min)</li>
     </ul>
   </li>
 
   <li>
-    <b>Short Break</b> (5 min)
-  </li>
-
-  <li>
-    <b>Document Structured RAGs</b> (40 min) - Yongjia Lei
+    <b>Personalization & Social Structured RAGs</b> (10:00-10:30 am) - Utkarsh Sahu
     <ul>
-      <li>Document Tasks and Structured Knowledge (10 min)</li>
-      <li>Document Structured RAGs (20 min)</li>
-      <li>Future Directions and Q&A (10 min)</li>
+      <li>Personalization and Social Network Tasks and Structured Knowledge (10 min)</li>
+      <li>Personalization/Social Structured RAGs (15 min)</li>
+      <li>Future Directions and Q&A (5 min)</li>
     </ul>
   </li>
 
   <li>
-    <b>Social Network Structured RAGs</b> (40 min) - Utkarsh
+    <b>Coffee Break</b> (10:30-11:00am)
+  </li>
+
+  <li>
+    <b>Scientific Literature RAGs</b> (11:00-11:30 am) - Yu Zhang
     <ul>
-      <li>Social Network Tasks and Structured Knowledge (10 min)</li>
-      <li>Social Network Structured RAGs (20 min)</li>
-      <li>Future Directions and Q&A (10 min)</li>
+      <li>Scientific Literature Tasks and Structured Knowledge (10 min)</li>
+      <li>Scientific Literature RAGs (15 min)</li>
+      <li>Future Directions and Q&A (5 min)</li>
     </ul>
   </li>
 
   <li>
-    <b>Short Break</b> (5 min)
-  </li>
-
-  <li>
-    <b>Table Structured RAGs</b> (40 min) - Haoyu Han
+    <b>Knowledge Graph RAGs</b> (11:30 am - 12:00 pm) - Harry Shomer
     <ul>
-      <li>Table Tasks and Structured Knowledge (10 min)</li>
-      <li>Table Structured RAGs (20 min)</li>
-      <li>Future Directions and Q&A (10 min)</li>
+      <li>Knowledge Graph Tasks and Structured Knowledge (10 min)</li>
+      <li>Knowledge Graph Structured RAGs (15 min)</li>
+      <li>Future Directions and Q&A (5 min)</li>
     </ul>
   </li>
 
   <li>
-    <b>Citation Network Structured RAGs</b> (40 min) - Yu Zhang
+    <b>Security and Privacy of Structured RAGs</b> (12:00 pm - 12:30 pm) - Zhisheng Qi
     <ul>
-      <li>Citation Network Tasks and Structured Knowledge (10 min)</li>
-      <li>Citation Network Structured RAGs (20 min)</li>
-      <li>Future Directions and Q&A (10 min)</li>
+      <li>Knowledge Poisoning Attacks</li>
+      <li>Knowledge Extraction Attacks</li>
     </ul>
   </li>
 
   <li>
-    <b>Conclusion of Part 1</b> (10 min) - Yu Wang
-  </li>
-
-  <li>
-    <b>Long Break</b> (15 min)
-  </li>
-
-  <li>
-    <b>Democratizing Structured RAGs</b> (15 min) - Zhisheng Qi
-    <ul>
-      <li>Background and Motivation</li>
-      <li>Risk Overview of RAG Workflow</li>
-    </ul>
-  </li>
-
-  <li>
-    <b>Knowledge Integrity Risk on RAGs</b> (25 min) - Zhisheng Qi
-    <ul>
-      <li>Background and Motivation</li>
-      <li>Attack and Defense Method</li>
-      <li>Evaluation Protocol</li>
-    </ul>
-  </li>
-
-  <li>
-    <b>Knowledge Inference Risk on RAGs</b> (25 min) - Zhisheng Qi
-    <ul>
-      <li>Background and Motivation</li>
-      <li>Attack and Defense Method</li>
-      <li>Evaluation Protocol</li>
-    </ul>
-  </li>
-
-  <li>
-    <b>Knowledge Extraction Risk on RAGs</b> (25 min) - Zhisheng Qi
-    <ul>
-      <li>Background and Motivation</li>
-      <li>Attack and Defense Method</li>
-      <li>Evaluation Protocol</li>
-    </ul>
-  </li>
-
-  <li>
-    <b>Knowledge Profiling Risk on RAGs</b> (25 min) - Zhisheng Qi
-    <ul>
-      <li>Background and Motivation</li>
-      <li>Attack and Defense Method</li>
-      <li>Evaluation Protocol</li>
-    </ul>
-  </li>
-
-  <li>
-    <b>Conclusion of Part 2</b> (10 min) - Zhisheng Qi
+    <b>Conclusion and Future Work</b> (12:30 - 12:40 pm) - Yu Wang
   </li>
 </ul>
 
