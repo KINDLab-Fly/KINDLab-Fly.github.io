@@ -13,6 +13,30 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ---
 
+## Preprints
+
+[Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319)\
+Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang.\
+arXiv, 2025.
+
+[Retrieval-augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309)\
+Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang.\
+arXiv, 2025.
+
+RAG vs. GraphRAG: A Systematic Evaluation and Key Insights\
+Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang.\
+arXiv, 2025.
+
+[Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153143/)\
+Yunchao Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, Tyler Derr, Jens Meiler.\
+bioRxiv, 2023.
+
+[A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures](https://arxiv.org/abs/2211.15590)\
+Yu Wang, Jin-Zhu Yu, Hiba Baroud.\
+arXiv, 2022.
+
+---
+
 ## Workshops
 
 **SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs era**\
@@ -279,30 +303,6 @@ SIAM International Conference on Data Mining Doctoral Forum (SDM-DF), 2022.
 [Distance-wise Prototypical Graph Neural Network in Node Imbalance Classification](https://arxiv.org/abs/2110.12035)\
 Yu Wang, Charu Aggarwal, Tyler Derr.\
 ACM SIGKDD Workshop on Mining and Learning with Graphs (KDD-MLoG), 2021.
-
----
-
-## Preprints
-
-[Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319)\
-Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang.\
-arXiv, 2025.
-
-[Retrieval-augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309)\
-Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang.\
-arXiv, 2025.
-
-RAG vs. GraphRAG: A Systematic Evaluation and Key Insights\
-Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang.\
-arXiv, 2025.
-
-[Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153143/)\
-Yunchao Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, Tyler Derr, Jens Meiler.\
-bioRxiv, 2023.
-
-[A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures](https://arxiv.org/abs/2211.15590)\
-Yu Wang, Jin-Zhu Yu, Hiba Baroud.\
-arXiv, 2022.
 
 
 {% for publi in site.data.publist %}
