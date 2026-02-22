@@ -6,10 +6,10 @@ sitemap: false
 permalink: /tutorials/wsdm26/
 ---
 
-## Rigorizing Retrieval-augmented Generation with Structured Knowledge
-## Tutorial at the ACM International Conference on Web Search and Data Mining (WSDM'26)
+### Rigorizing Retrieval-augmented Generation with Structured Knowledge
+### Tutorial at ACM International Conference on Web Search and Data Mining (WSDM'26)
 
-### Abstract
+#### Abstract
 
 Retrieving external knowledge to Augment Generations of downstream task solutions (RAGs) has become a standard practice in powering knowledge-intensive applications. However, real-world knowledge often manifests in heterogeneous yet distinctive structures (e.g., tabular schemas, social networks, and document trees), the effective modeling of which demands specialized modeling, practical engineering, and domain expertise. Meanwhile, adopting RAGs in high-stakes scenarios underscores rigorous safety considerations. Despite the importance of this structural perspective, the current landscape remains fragmented. Moreover, few approaches adequately consider how structured knowledge shapes RAG's safety. Against this backdrop, our tutorial offers a structural perspective on RAGs. We begin by overviewing structured RAGs across their full lifecycle, highlighting their canonical designs. We then examine how design principles can be specialized for different knowledge structures, showcasing their unique applications and security attack/defense strategies. Specifically, our objectives are to:
 - **Introduce the background of RAG and structured knowledge, including their safety concerns in real-world applications**
