@@ -20,7 +20,7 @@
   info: Computer Science PhD
   email: charlieqi02_AT_gmail_DOT_com
   number_educ: 1
-  education1: Agentic Social Network
+  education1: Agentic AI, Security, Privacy Preserving
   education2: 
   education3: 
   education4: 
@@ -30,6 +30,21 @@
   twitter: 0
   github: https://github.com/charlieqi02
   
+- name: Utkarsh Sahu
+  photo: Utkarsh.png
+  info: Computer Science PhD
+  email: utkarsh_AT_uoregon_DOT_edu
+  number_educ: 1
+  education1: Multi-Modal Learning, Personalization, Social Networks
+  education2:
+  education3:
+  education4:
+  education5:
+  website:
+  linkedin:
+  twitter: 0
+  github:
+
 - name: Riya Ponraj
   photo: Riya.png
   info: Computer Science PhD
