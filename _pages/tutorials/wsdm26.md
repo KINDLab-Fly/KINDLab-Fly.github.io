@@ -65,7 +65,7 @@ Location: Boise Centre Room 110AB, Boise, Idaho, USA
   </li>
 
   <li>
-    <b>Knowledge Graph RAGs</b> (11:30 am - 12:00 pm) - Harry Shomer
+    <b>Knowledge Graph RAGs</b> (11:30-12:00 pm) - Harry Shomer
     <ul>
       <li>Knowledge Graph Tasks and Structured Knowledge</li>
       <li>Knowledge Graph Structured RAGs</li>
@@ -74,7 +74,7 @@ Location: Boise Centre Room 110AB, Boise, Idaho, USA
   </li>
 
   <li>
-    <b>Security and Privacy of Structured RAGs</b> (12:00 pm - 12:30 pm) - Zhisheng Qi
+    <b>Security and Privacy of Structured RAGs</b> (12:00-12:30 pm) - Zhisheng Qi
     <ul>
       <li>Knowledge Poisoning Attacks</li>
       <li>Knowledge Extraction Attacks</li>
