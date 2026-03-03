@@ -6,9 +6,9 @@ sitemap: false
 permalink: /seminar/
 ---
 
-## KIND Lab Weekly Seminar
+## AI Seminar@KIND
 
-The KIND Lab hosts a weekly paper reading seminar every Friday, where lab members take turns presenting cutting-edge research in knowledge graphs, graph machine learning, social network analysis, and related areas. The seminar fosters collaborative learning, critical thinking, and keeps our team up-to-date with the latest advances in the field. All members are encouraged to participate and engage in open discussion.
+The AI Seminar@KIND is a weekly seminar held every Friday, open to everyone interested in cutting-edge AI and machine learning research. Presenters may cover trendy topics in AI/ML — including agentic AI, large language models, retrieval-augmented generation, reasoning, and more — as well as domain-specialized research such as social network analysis, personalization, and natural disaster informatics. We welcome participants not only from within the KIND Lab but from any group or background who share a passion for advancing AI research.
 
 ---
 
