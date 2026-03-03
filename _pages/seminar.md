@@ -18,6 +18,7 @@ The AI Seminar@KIND is a weekly seminar held every Friday, open to everyone inte
   <thead>
     <tr>
       <th>Date (Friday)</th>
+      <th>Time</th>
       <th>Presenter</th>
       <th>Paper</th>
     </tr>
@@ -27,6 +28,7 @@ The AI Seminar@KIND is a weekly seminar held every Friday, open to everyone inte
   {% unless entry.date == nil %}
     <tr>
       <td>{{ entry.date }}</td>
+      <td>{{ entry.time }}</td>
       <td>{{ entry.presenter }}</td>
       <td>
         {% if entry.link %}
