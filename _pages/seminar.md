@@ -14,7 +14,7 @@ The AI Seminar@KIND is a weekly seminar held every Friday, open to everyone inte
 
 ## Location
 
-**In-person:** Deschutes Hall 200<br>
+**In-person:** Deschutes Hall 220<br>
 **Zoom:** [https://uoregon.zoom.us/j/4052006678](https://uoregon.zoom.us/j/4052006678)
 
 ---
