@@ -10,7 +10,7 @@ permalink: /seminar/
 
 The AI Weekly Seminar@KIND is a weekly seminar held every Friday, open to everyone interested in cutting-edge AI and machine learning research. Presenters may cover trendy topics in AI/ML, including agentic AI, large language models, retrieval-augmented generation, reasoning, and more, as well as domain-specialized research such as social network analysis, personalization, and natural disaster informatics. We welcome participants not only from within the KIND Lab but from any group or background who share a passion for advancing AI research.
 
-> 🍕 Snacks and food will be provided from time to time — come hungry!
+> 🍕 Snacks and food will be provided from time to time!
 
 ---
 
