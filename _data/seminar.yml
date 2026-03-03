@@ -3,7 +3,13 @@
 
 - date: "2026-03-06"
   time: "3:30–5:30 PM PST"
-  presenter: "Zhisheng Qi, Utkarsh Sahu"
+  presenter: "Zhisheng Qi"
+  paper: "Shoot First, Ask Questions Later? Building Rational Agents that Explore and Act Like People"
+  link: "https://openreview.net/forum?id=EQhUvWH78U"
+
+- date: "2026-03-06"
+  time: "3:30–5:30 PM PST"
+  presenter: "Utkarsh Sahu"
   paper: "Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval"
   link: "https://openreview.net/forum?id=f7p0F2X6XN"
 
