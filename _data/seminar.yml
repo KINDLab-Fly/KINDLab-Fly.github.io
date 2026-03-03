@@ -14,10 +14,5 @@
 
 - date: "2026-02-20"
   time: "3:30–5:30 PM PST"
-  presenter: "Zhisheng Qi"
-  paper: "Security and Privacy-Preserving Retrieval-Augmented Generation"
-
-- date: "2026-02-20"
-  time: "3:30–5:30 PM PST"
-  presenter: "Utkarsh Sahu"
-  paper: "Agentic RAG for Social Networks and Personalization"
+  presenter: "Zhisheng Qi, Utkarsh Sahu"
+  paper: "Security and Privacy-Preserving RAG; Agentic RAG for Social Networks and Personalization"
