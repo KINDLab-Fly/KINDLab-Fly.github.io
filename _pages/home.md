@@ -17,6 +17,9 @@ permalink: /
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
     <div class="carousel-inner" markdown="0">
     <div class="item active">
@@ -36,6 +39,15 @@ permalink: /
     </div>
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo2.png" alt="Slide 6" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/Utkarsh-WSDM26-Poster.png" alt="Slide 7" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/Utkarsh-WSDM26-Tutorial.png" alt="Slide 8" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/Zhisheng-WSDM26-Tutorial.png" alt="Slide 9" />
     </div>
   </div>
     
