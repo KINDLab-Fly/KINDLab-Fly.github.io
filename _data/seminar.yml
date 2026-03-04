@@ -27,3 +27,13 @@
   time: "3:30–5:30 PM PST"
   presenter: "Utkarsh Sahu"
   paper: "Agentic RAG for Social Networks and Personalization"
+
+- date: "2026-02-13"
+  time: "3:30–5:30 PM PST"
+  presenter: "Zhisheng Qi"
+  paper: "Defending Against Knowledge Poisoning Attacks in RAG"
+
+- date: "2026-02-13"
+  time: "3:30–5:30 PM PST"
+  presenter: "Utkarsh Sahu"
+  paper: "General Introduction to OpenClaw and Moltbook"
