@@ -41,13 +41,13 @@ permalink: /
         <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo2.png" alt="Slide 6" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Utkarsh-WSDM26-Poster.png" alt="Slide 7" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Utkarsh_Poster.png" alt="Slide 7" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Utkarsh-WSDM26-Tutorial.png" alt="Slide 8" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Utkarsh_Tutorial.png" alt="Slide 8" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Zhisheng-WSDM26-Tutorial.png" alt="Slide 9" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Zhisheng_Tutorial.png" alt="Slide 9" />
     </div>
   </div>
     
