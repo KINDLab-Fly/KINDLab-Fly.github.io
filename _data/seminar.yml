@@ -1,6 +1,11 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-04-04"
+  time: "3:30–5:30 PM PST"
+  presenter: "Yu Wang"
+  paper: "Agentic Harness Engineering for Research"
+
 - date: "2026-03-28"
   time: "3:30–5:30 PM PST"
   presenter: "Utkarsh Sahu"
