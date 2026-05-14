@@ -1,6 +1,12 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-05-15"
+  time: "3:30–5:30 PM PST"
+  presenter: "Zhisheng Qi"
+  paper: "Reforming the Mechanism: Editing Reasoning Patterns in LLMs with Circuit Reshaping"
+  link: "https://arxiv.org/pdf/2603.06923"
+
 - date: "2026-04-04"
   time: "3:30–5:30 PM PST"
   presenter: "Yu Wang"
