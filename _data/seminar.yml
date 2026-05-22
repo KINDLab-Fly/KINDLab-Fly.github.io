@@ -1,6 +1,12 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-05-22"
+  time: "3:30–5:30 PM PST"
+  presenter: "Utkarsh Sahu"
+  paper: "Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents"
+  link: "https://arxiv.org/abs/2402.11208"
+
 - date: "2026-05-15"
   time: "3:30–5:30 PM PST"
   presenter: "Zhisheng Qi"
