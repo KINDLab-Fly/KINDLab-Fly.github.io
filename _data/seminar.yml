@@ -1,6 +1,12 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-06-12"
+  time: "3:30–5:30 PM PST"
+  presenter: "Jiaxi Li"
+  paper: "Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval"
+  link: "https://arxiv.org/abs/2606.04391"
+
 - date: "2026-06-05"
   time: "3:30–5:30 PM PST"
   presenter: "Li Zhu"
