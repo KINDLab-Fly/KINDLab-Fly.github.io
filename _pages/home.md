@@ -1,7 +1,7 @@
 ---
 title: "KIND Lab - Home"
 layout: homelay
-excerpt: "Knowledge Intelligence and Discovery Lab at University of Oregon."
+excerpt: "Knowledge Intelligence and Discovery Lab at University of Georgia."
 sitemap: false
 permalink: /
 ---
@@ -61,7 +61,7 @@ permalink: /
   </a>
 </div>
 
-We are the <strong>Knowledge Intelligence for Discovery and Decision-Making (KIND) Lab</strong> at the University of Oregon, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in exploring knowledge intelligence solutions in discovery and decision-making through data mining and machine learning techniques for advancing social-good applications.
+We are the <strong>Knowledge Intelligence for Discovery and Decision-Making (KIND) Lab</strong> at the University of Georgia, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in exploring knowledge intelligence solutions in discovery and decision-making through data mining and machine learning techniques for advancing social-good applications.
     
 
 We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests. Master, undergraduate students, and visiting scholars are also welcome. Please see <a href="https://yuwang0103.github.io/recruiting/">here</a> for position details.
@@ -75,7 +75,7 @@ We are recruiting PhD students to work with us in the KIND Lab on topics in our 
 
 <div class="center">
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/uo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/uga.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nairr.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/cra.png" style="width: 100px">

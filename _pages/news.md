@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Knowledge Intelligence and Discovery Lab at University of Oregon."
+excerpt: "Knowledge Intelligence and Discovery Lab at University of Georgia."
 sitemap: false
 permalink: /news.html
 ---
