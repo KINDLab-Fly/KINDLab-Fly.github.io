@@ -62,6 +62,8 @@ permalink: /
 </div>
 
 We are the <strong>Knowledge Intelligence for Discovery and Decision-Making (KIND) Lab</strong> at the University of Georgia, led by <a href="https://yuwang0103.github.io/">Yu Wang</a>. Our research lies in exploring knowledge intelligence solutions in discovery and decision-making through data mining and machine learning techniques for advancing social-good applications.
+
+UGA is a leading public research university, ranked [#19 among U.S. public universities](https://news.uga.edu/a-decade-in-the-top-20/) (U.S. News 2026), [#10](https://www.niche.com/colleges/university-of-georgia/rankings/) (Niche 2026), [#18](https://news.uga.edu/uga-earns-high-marks-in-latest-forbes-and-niche-rankings/) (Forbes 2026), and [#12 Best Value Public School](https://www.princetonreview.com/college/university-georgia-1023767) (The Princeton Review 2025).
     
 
 We are recruiting PhD students to work with us in the KIND Lab on topics in our general interests. Master, undergraduate students, and visiting scholars are also welcome. Please see <a href="https://yuwang0103.github.io/recruiting/">here</a> for position details.
