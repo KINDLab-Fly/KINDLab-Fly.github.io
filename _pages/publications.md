@@ -15,25 +15,9 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ## Preprints
 
-[Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319)\
-Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang.\
-arXiv, 2025.
-
 [Retrieval-augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309)\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang.\
 arXiv, 2025.
-
-RAG vs. GraphRAG: A Systematic Evaluation and Key Insights\
-Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang.\
-arXiv, 2025.
-
-[Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10153143/)\
-Yunchao Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, Tyler Derr, Jens Meiler.\
-bioRxiv, 2023.
-
-[A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures](https://arxiv.org/abs/2211.15590)\
-Yu Wang, Jin-Zhu Yu, Hiba Baroud.\
-arXiv, 2022.
 
 ---
 
@@ -81,6 +65,18 @@ In *Graph Neural Networks: Foundations, Frontiers, and Applications* (Lingfei Wu
 
 ### 2026
 
+[Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319)\
+Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang.\
+ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), Dataset and Benchmark Track, 2026. <span style="color:red">**Oral Presentation (4.5%)**</span> [[Code]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)
+
+[RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/abs/2502.11371)\
+Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang.\
+ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), Dataset and Benchmark Track, 2026. [[Code]](https://github.com/haoyuhan1/RAGvsGraphRAG)
+
+[A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures](https://journals.aps.org/pre/accepted/10.1103/vswp-h4hx)\
+Yu Wang, Jin-Zhu Yu, Hiba Baroud.\
+Physical Review E (PRE), 2026.
+
 [Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening](https://arxiv.org/abs/2510.16306)\
 Xin Wang, Yu Wang, Yunchao Liu, Jens Meiler, Tyler Derr.\
 SIAM International Conference on Data Mining (SDM), 2026.
@@ -108,6 +104,10 @@ ACM International Conference on Web Search and Data Mining (WSDM), 2026.
 [Knowledge Homophily in Large Language Models](https://dl.acm.org/doi/10.1145/3773966.3779394)\
 Utkarsh Sahu, Zhisheng Qi, Mahantesh M Halappanavar, Nedim Lipka, Ryan A Rossi, Franck Dernoncourt, Yu Zhang, Yao Ma, Yu Wang.\
 ACM International Conference on Web Search and Data Mining (WSDM), 2026.
+
+[Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)\
+Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr.\
+ACM Computing Surveys (CSUR), 2026. [[Code]](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
 
 ### 2025
 
