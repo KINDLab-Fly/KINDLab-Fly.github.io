@@ -15,9 +15,45 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ## Preprints
 
+[TRACE: Trajectory Reasoning through Adaptive Cross-Step Evidence Aggregation for LLM Agents](https://arxiv.org/abs/2606.07054)\
+Vijitha Mittapalli, Shreyaa Jayant Dani, Satya Srujana Pilli, Snigdha Ansu, Mohammadreza Teymoorianfard, Franck Dernoncourt, Hongjie Chen, Yu Wang, Ryan A. Rossi, Nesreen K. Ahmed.\
+arXiv, 2026.
+
+[RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316)\
+Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, Yu Wang.\
+arXiv, 2026.
+
+[Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction](https://arxiv.org/abs/2606.27539)\
+Utkarsh Sahu, Zhisheng Qi, Li Zhu, Yizhao Yang, Jun Li, Ryan Rossi, Yu Wang.\
+arXiv, 2026.
+
+[Sparse Personalized Text Generation with Multi-Trajectory Reasoning](https://arxiv.org/abs/2604.24996)\
+Bo Ni, Haowei Fu, Qinwen Ge, Franck Dernoncourt, Samyadeep Basu, Nedim Lipka, Seunghyun Yoon, Yu Wang, Nesreen K. Ahmed, Subhojyoti Mukherjee, Puneet Mathur, Ryan A. Rossi, Tyler Derr.\
+arXiv, 2026.
+
+[Physics-Informed Deep Reinforcement Learning for Resilient and Congestion-Aware Transportation Network Recovery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6561872)\
+Amir Shahlaee, Xudong Fan, Yu Wang, Bo Zou, Jinzhu Yu.\
+SSRN, 2026.
+
+[Iterative Critique-Refine Framework for Enhancing LLM Personalization](https://arxiv.org/abs/2510.24469)\
+Durga Prasad Maram, Dhruvin Gandhi, Zonghai Yao, Gayathri Akkinapalli, Franck Dernoncourt, Yu Wang, Ryan A. Rossi, Nesreen K. Ahmed.\
+arXiv, 2025.
+
+[A Personalized Conversational Benchmark: Towards Simulating Personalized Conversations](https://arxiv.org/abs/2505.14106)\
+Li Li, Peilin Cai, Ryan A. Rossi, Franck Dernoncourt, Branislav Kveton, Junda Wu, Tong Yu, Linxin Song, Tiankai Yang, Yuehan Qin, Nesreen K. Ahmed, Samyadeep Basu, Subhojyoti Mukherjee, Ruiyi Zhang, Zhengmian Hu, Bo Ni, Yuxiao Zhou, Zichao Wang, Yue Huang, Yu Wang, Xiangliang Zhang, Philip S. Yu, Xiyang Hu, Yue Zhao.\
+arXiv, 2025.
+
+[Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs](https://arxiv.org/abs/2505.01698)\
+Yuying Zhao, Yu Wang, Xueqi Cheng, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, Tyler Derr.\
+arXiv, 2025.
+
 [Retrieval-augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309)\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang.\
 arXiv, 2025.
+
+[GRS-QA: Graph Reasoning-Structured Question Answering Dataset](https://arxiv.org/abs/2411.00369)\
+Anish Pahilajani, Devasha Trivedi, Jincen Shuai, Khin S. Yone, Samyak Rajesh Jain, Namyong Park, Ryan A. Rossi, Nesreen K. Ahmed, Franck Dernoncourt, Yu Wang.\
+arXiv, 2024.
 
 ---
 
@@ -65,6 +101,10 @@ In *Graph Neural Networks: Foundations, Frontiers, and Applications* (Lingfei Wu
 
 ### 2026
 
+[ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents](https://aclanthology.org/2026.acl-long.1477/)\
+Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie, Yu Zhang.\
+Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
+
 [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319)\
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang.\
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), Dataset and Benchmark Track, 2026. <span style="color:red">**Oral Presentation (4.5%)**</span> [[Code]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)
@@ -101,7 +141,7 @@ Reasoning by Exploration: A Unified Approach to Retrieval and Generation over Gr
 Haoyu Han, Kai Guo, Harry Shomer, Yu Wang, Yucheng Chu, Hang Li, Li Ma, Jiliang Tang.\
 The ACM Web Conference (WWW), 2026.
 
-A Survey on LLM-based Conversational User Simulation\
+[Large Language Models for Conversational User Simulation: A Comprehensive Survey](http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf)\
 Bo Ni, Leyao Wang, Yu Wang, Yuying Zhao, Tyler Derr, Ryan A. Rossi.\
 Conference of European Chapter of Association for Computational Linguistics (EACL), 2026.
 
@@ -118,6 +158,18 @@ Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Z
 ACM Computing Surveys (CSUR), 2026. [[Code]](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
 
 ### 2025
+
+[GUI Agents: A Survey](https://aclanthology.org/2025.findings-acl.1158/)\
+Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Jihyung Kil, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt.\
+Annual Meeting of the Association for Computational Linguistics (ACL Findings), 2025.
+
+[A Survey on Small Language Models](https://aclanthology.org/2025.ranlp-1.93/)\
+Chien Van Nguyen, Xuan Shen, Ryan Aponte, Yu Xia, Samyadeep Basu, Zhengmian Hu, Jian Chen, Mihir Parmar, Sasidhar Kunapuli, Joe Barrow, Junda Wu, Ashish Singh, Yu Wang, Jiuxiang Gu, Nesreen K. Ahmed, Nedim Lipka, Ruiyi Zhang, Xiang Chen, Tong Yu, Sungchul Kim, Hanieh Deilamsalehy, Namyong Park, Michael Rimer, Zhehao Zhang, Huanrui Yang, Puneet Mathur, Gang Wu, Franck Dernoncourt, Ryan A. Rossi, Thien Huu Nguyen.\
+Recent Advances in Natural Language Processing (RANLP), 2025.
+
+[Personalized Graph-Based Retrieval for Large Language Models](https://arxiv.org/abs/2501.02157)\
+Steven Au, Cameron J. Dimacali, Ojasmitha Pedirappagari, Namyong Park, Franck Dernoncourt, Yu Wang, Nikos Kanakaris, Hanieh Deilamsalehy, Ryan A. Rossi, Nesreen K. Ahmed.\
+Pacific Asia Conference on Language, Information and Computation (PACLIC), 2025. [[Website]](https://pgraphrag-benchmark.github.io/)
 
 [Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/)\
 Yongjia Lei, Haoyu Han, Ryan A Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M Halappanavar, Jiliang Tang, Yu Wang.\
@@ -170,7 +222,7 @@ Journal of Chemical Information and Modeling (JCIM), 2025.
 
 ### 2024
 
-[Augmenting Textual Generation via Topology Aware Retrieval](https://arxiv.org/abs/2405.17602)\
+[Topology-Aware Retrieval Augmentation for Text Generation](https://arxiv.org/abs/2405.17602)\
 Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, Tyler Derr.\
 ACM International Conference on Information and Knowledge Management (CIKM), 2024.
 
@@ -245,9 +297,13 @@ ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2022.
 Benedek Rozemberczki, Charles Tapley Hoyt, Anna Gogleva, Piotr Grabowski, Klas Karis, Andrej Lamov, Andriy Nikolov, Sebastian Nilsson, Michael Ughetto, Yu Wang, Tyler Derr, Benjamin M Gyori.\
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2022.
 
-[Fair Graph Representation Learning with Imbalanced and Biased Data](https://dl.acm.org/doi/abs/10.1145/3488560.3502218)\
+[Fair Graph Learning with Imbalanced and Biased Data](https://dl.acm.org/doi/abs/10.1145/3488560.3502218)\
 Yu Wang.\
 ACM International Conference on Web Search and Data Mining (WSDM), 2022.
+
+Comparing Topology-Based and Flow-Based Resilience Assessment of Interdependent Infrastructure Networks\
+Jinzhu Yu, Yu Wang, Hiba Baroud.\
+13th International Conference on Structural Safety and Reliability (ICOSSAR), 2022.
 
 ### 2021
 
@@ -290,7 +346,7 @@ Mixture of Structural-and-Textual Retrieval over Text-rich Graph\
 Yongjia Lei, Yu Wang.\
 Nations of the Americas Chapter of the ACL, Student Research Workshop (NAACL-SRM), 2025.
 
-Network Management with Graph Machine Learning\
+Network Management with Graph Machine Learning: Challenges and Solutions\
 Yu Wang, Ram Durairajan.\
 Security Datasets for AI Workshop (SECDAI), 2024.
 
