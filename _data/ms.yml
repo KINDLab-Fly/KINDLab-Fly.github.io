@@ -1,7 +1,8 @@
 - name: Ruimin Zhang
   photo: Ruimin.png
   info: Computer Science MS
-  email: ruiminz_AT_uoregon_DOT_edu
+  email: ruiminz@uoregon.edu
+  next_position: Amazon Software Engineering
   number_educ: 0
   education1: 
   education2: 
@@ -16,7 +17,7 @@
 - name: Kushal Devgun
   photo: Kushal.png
   info: "Computer Science MS, Research Interest: Agentic Social Network Modeling"
-  email: devgun_AT_uoregon_DOT_edu
+  email: devgun@uoregon.edu
   number_educ: 0
   education1:
   education2:
@@ -27,4 +28,3 @@
   linkedin: 0
   twitter: 0
   github: 0
-

@@ -28,7 +28,7 @@
 - name: Utkarsh Sahu
   photo: Utkarsh.png
   info: Computer Science Ph.D. at UO
-  email: utkarsh_AT_uoregon_DOT_edu
+  email: utkarsh@uoregon.edu
   group_heading: Ph.D. at UO
   research_direction: Multi-Modal Social Network Learning, Agentic Privacy
   research_outcomes:
@@ -66,7 +66,7 @@
 - name: Riya Ponraj
   photo: Riya.png
   info: Computer Science Ph.D. at UO
-  email: ripo_AT_uoregon_DOT_edu
+  email: ripo@uoregon.edu
   research_direction: Graph Machine Learning for Networking Management
   research_outcomes:
     - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3770854.3783939\" target=\"_blank\" rel=\"noopener noreferrer\">KDD 2026</a>"
@@ -87,7 +87,7 @@
 - name: Yongjia Lei
   photo: Yongjia.png
   info: Computer Science Ph.D. at UO
-  email: yongjia_AT_uoregon_DOT_edu
+  email: yongjia@uoregon.edu
   research_direction: LLM Reasoning, Knowledge Retrieval
   research_outcomes:
     - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3785509\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>"
@@ -96,6 +96,8 @@
   honors:
     - SDM 2026 Doctoral Forum Honorable Mention
     - UO Student OpenHouse 2025 Poster Honorable Mention
+  achievements:
+    - Adobe Research Summer Internship 2025
   number_educ: 0
   education1:
   education2:

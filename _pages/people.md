@@ -19,7 +19,7 @@ permalink: /people/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
   <i>{{ member.info }} <br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
 
@@ -56,7 +56,7 @@ permalink: /people/
   </ul>
 
   <div class="social-links">
-  {% if member.website != 0 %} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %} {% if member.scholar != 0 %} <a href="{{ member.scholar }}"> <i class="fa fa-scholar"></i></a> {% endif %} {% if member.linkedin != 0 %} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %} {% if member.github != 0 %} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %} {% if member.twitter != 0 %} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %}
+  {% if member.scholar != 0 %} <a href="{{ member.scholar }}"> <i class="fa fa-scholar"></i></a> {% endif %} {% if member.linkedin != 0 %} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %} {% if member.github != 0 %} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %} {% if member.twitter != 0 %} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %}
 </div>
 
 
@@ -100,7 +100,7 @@ permalink: /people/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
 
   <i>{{ member.info }} <br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
@@ -114,6 +114,15 @@ permalink: /people/
     {% endfor %}
     </ul>
   </li>
+  {% if member.achievements %}
+  <li> Achievements:
+    <ul>
+    {% for achievement in member.achievements %}
+      <li>{{ achievement }}</li>
+    {% endfor %}
+    </ul>
+  </li>
+  {% endif %}
   <li> Honors:
     <ul>
     {% for honor in member.honors %}
@@ -157,12 +166,6 @@ permalink: /people/
   {% endif %}
 
   </ul>
-
-  <div class="social-links">
-  {% if member.website != 0 %} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %} {% if member.twitter != 0 %} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %}
-</div>
-
-
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -193,9 +196,25 @@ permalink: /people/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
   <i>{{ member.info }}  <br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
+  {% if member.research_direction %}
+  <li> Direction: {{ member.research_direction }} </li>
+  {% endif %}
+  {% if member.achievements %}
+  <li> Achievements:
+    <ul>
+    {% for achievement in member.achievements %}
+      <li>{{ achievement }}</li>
+    {% endfor %}
+    </ul>
+  </li>
+  {% endif %}
+  {% if member.next_position %}
+  <li> Next Position: {{ member.next_position }} </li>
+  {% endif %}
+  {% unless member.research_direction or member.achievements or member.next_position %}
   {% if member.number_educ == 0 %}
   {% endif %}
   {% if member.number_educ == 1 %}
@@ -216,12 +235,8 @@ permalink: /people/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
+  {% endunless %}
   </ul>
-
-  <div class="social-links">
-  {% if member.website != 0 %} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %}
-</div>
-
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
 {% if even_odd == 1 %}
@@ -250,10 +265,26 @@ permalink: /people/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
   <i>{{ member.info }}</i>  <!-- <br>email: {{ member.email }} -->
   <ul style="overflow: hidden">
 
+  {% if member.research_direction %}
+  <li> Direction: {{ member.research_direction }} </li>
+  {% endif %}
+  {% if member.achievements %}
+  <li> Achievements:
+    <ul>
+    {% for achievement in member.achievements %}
+      <li>{{ achievement }}</li>
+    {% endfor %}
+    </ul>
+  </li>
+  {% endif %}
+  {% if member.next_position %}
+  <li> Next Position: {{ member.next_position }} </li>
+  {% endif %}
+  {% unless member.research_direction or member.achievements or member.next_position %}
   {% if member.number_educ == 0 %}
   {% endif %}
 
@@ -286,6 +317,7 @@ permalink: /people/
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   {% endif %}
+  {% endunless %}
 
   </ul>
 
@@ -322,7 +354,7 @@ permalink: /people/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+  <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
   <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
 
@@ -331,12 +363,6 @@ permalink: /people/
   {% endif %}
 
   </ul>
-
-  <div class="social-links">
-  {% if member.website != 0 %} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %}
-</div>
-
-
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
