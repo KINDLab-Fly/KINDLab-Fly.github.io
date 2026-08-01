@@ -74,8 +74,16 @@ Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hu
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), Dataset and Benchmark Track, 2026. [[Code]](https://github.com/haoyuhan1/RAGvsGraphRAG)
 
 [A Bayesian Approach to Reconstructing Interdependent Infrastructure Networks from Cascading Failures](https://journals.aps.org/pre/accepted/10.1103/vswp-h4hx)\
-Yu Wang, Jin-Zhu Yu, Hiba Baroud.\
+MirSaleh Bahavarnia, Yu Wang, Jin-Zhu Yu, Hiba Baroud.\
 Physical Review E (PRE), 2026.
+
+Towards Explainable Benchmarking for Data-driven Post-Wildfire Debris Flow Prediction\
+Zhisheng Qi, Li Zhu, Utkarsh Sahu, Douglas Tommey, Josh Roering, Yu Wang.\
+ACM AI Leadership Summit, 2026.
+
+Personalized AutoResearch\
+Bo Ni, Franck Dernoncourt, Hongjie Chen, Yu Wang, Nesreen Ahmed, Zhengzhong Tu, Tyler Derr, Ryan Rossi.\
+ACM AI Leadership Summit, 2026.
 
 [Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening](https://arxiv.org/abs/2510.16306)\
 Xin Wang, Yu Wang, Yunchao Liu, Jens Meiler, Tyler Derr.\
