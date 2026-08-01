@@ -1,14 +1,18 @@
 - name: Amelie Wei
   photo: Amelie.png
-  info: "High School Student, Research Interest: Multi-Modal Social Popularity"
+  info: "High School Student, <a href=\"https://www.linkedin.com/in/ameliewei\" target=\"_blank\" rel=\"noopener noreferrer\">South Eugene High School</a>"
   email: 0
+  research_direction: Multi-Modal Social Popularity Learning
+  achievements:
+    - Meta Content Library Award
+    - "<a href=\"https://ssp.org/student-blog/lehigh-university-astrophysics-day-20-walking-fish/\" target=\"_blank\" rel=\"noopener noreferrer\">Summer Science Research Program at Lehigh University</a>"
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
   education5:
-  website: 0
+  website: https://www.linkedin.com/in/ameliewei
   linkedin: 0
   twitter: 0
   github: 0

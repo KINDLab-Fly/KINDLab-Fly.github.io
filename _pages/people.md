@@ -123,13 +123,6 @@ permalink: /people/
     </ul>
   </li>
   {% endif %}
-  <li> Honors:
-    <ul>
-    {% for honor in member.honors %}
-      <li>{{ honor }}</li>
-    {% endfor %}
-    </ul>
-  </li>
   {% else %}
   {% if member.number_educ == 0 %}
   {% endif %}
@@ -357,11 +350,23 @@ permalink: /people/
   <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
   <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
-
+  {% if member.research_direction %}
+  <li> Direction: {{ member.research_direction }} </li>
+  {% endif %}
+  {% if member.achievements %}
+  <li> Achievements:
+    <ul>
+    {% for achievement in member.achievements %}
+      <li>{{ achievement }}</li>
+    {% endfor %}
+    </ul>
+  </li>
+  {% endif %}
+  {% unless member.research_direction or member.achievements %}
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-
+  {% endunless %}
   </ul>
 </div>
 

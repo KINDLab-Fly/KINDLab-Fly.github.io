@@ -10,7 +10,7 @@
     - "<a href=\"https://arxiv.org/abs/2602.09319\" target=\"_blank\" rel=\"noopener noreferrer\">KDD 2026</a>"
     - AI Leadership Summit 2026
     - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3779394\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>"
-  honors:
+  achievements:
     - KDD 2026 Benchmark Oral Presentation (4.5%)
     - UO Student OpenHouse 2026 Poster Runner-up
     - WSDM 2026 Student Travel Award
@@ -34,7 +34,7 @@
   research_outcomes:
     - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3779394\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>"
     - "<a href=\"https://arxiv.org/abs/2606.27539\" target=\"_blank\" rel=\"noopener noreferrer\">arXiv 2026</a>"
-  honors:
+  achievements:
     - UO Student OpenHouse 2026 Poster Honorable Mention
     - WSDM 2026 Student Travel Award
   number_educ: 0
@@ -43,7 +43,7 @@
   education3:
   education4:
   education5:
-  website:
+  website: https://scholar.google.com/citations?user=gBVVDhMAAAAJ&hl=en
   linkedin: https://www.linkedin.com/in/utkarsh-sahu-457622159/
   twitter: 0
   github: 0
@@ -70,7 +70,7 @@
   research_direction: Graph Machine Learning for Networking Management
   research_outcomes:
     - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3770854.3783939\" target=\"_blank\" rel=\"noopener noreferrer\">KDD 2026</a>"
-  honors:
+  achievements:
     - KDD 2026 Student Travel Award
     - "<a href=\"https://pulse.internetsociety.org/en/blog/2025/02/announcing-2025-pulse-research-fellows-and-mentors/\" target=\"_blank\" rel=\"noopener noreferrer\">Pulse 2025 Student Fellowship</a>"
   number_educ: 0
@@ -79,7 +79,7 @@
   education3:
   education4: 
   education5:
-  website: 
+  website: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=mAwQ-MEAAAAJ
   linkedin: https://www.linkedin.com/in/riyaponraj/
   twitter: 0
   github: 
@@ -93,10 +93,9 @@
     - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3785509\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>"
     - "<a href=\"https://aclanthology.org/2025.findings-acl.941/\" target=\"_blank\" rel=\"noopener noreferrer\">ACL 2025</a>"
     - "<a href=\"https://arxiv.org/abs/2606.16316\" target=\"_blank\" rel=\"noopener noreferrer\">arXiv 2026</a>"
-  honors:
+  achievements:
     - SDM 2026 Doctoral Forum Honorable Mention
     - UO Student OpenHouse 2025 Poster Honorable Mention
-  achievements:
     - Adobe Research Summer Internship 2025
   number_educ: 0
   education1:
