@@ -83,6 +83,15 @@ permalink: /people/
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
+{% if member.group_heading %}
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+{% assign number_printed = 0 %}
+<h3>{{ member.group_heading }}</h3>
+{% endif %}
+
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}

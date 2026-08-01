@@ -1,24 +1,10 @@
 #education can be bullets such as prev positions or links
 
-- name: Yongjia Lei
-  photo: Yongjia.png
-  info: Computer Science PhD
-  email: yongjia_AT_uoregon_DOT_edu
-  number_educ: 3
-  education1: Reasoning and Planning, Retrieval-augmented Generation, Document Intelligence
-  education2: 2025 SDM Doctorum Forum Poster Session Honorable Mention
-  education3: 2025 Best TA Award at UO-CS
-  education4: 
-  education5:
-  website: https://github.com/Yoega
-  linkedin: https://www.linkedin.com/in/yongjia-lei-2057ba342/
-  twitter: 0
-  github: https://github.com/Yoega
-
 - name: Zhisheng Qi
   photo: Zhisheng.png
-  info: Computer Science PhD
+  info: Computer Science Ph.D. at UGA
   email: charlieqi02_AT_gmail_DOT_com
+  group_heading: Ph.D. at UGA
   number_educ: 1
   education1: Agentic AI, Security, Privacy Preserving
   education2: 
@@ -32,8 +18,9 @@
   
 - name: Utkarsh Sahu
   photo: Utkarsh.png
-  info: Computer Science PhD
+  info: Computer Science Ph.D. at UO
   email: utkarsh_AT_uoregon_DOT_edu
+  group_heading: Ph.D. at UO
   number_educ: 1
   education1: Multi-Modal Learning, Personalization, Social Networks
   education2:
@@ -62,7 +49,7 @@
 
 - name: Riya Ponraj
   photo: Riya.png
-  info: Computer Science PhD
+  info: Computer Science Ph.D. at UO
   email: ripo_AT_uoregon_DOT_edu
   number_educ: 3
   education1: Graph Machine Learning for Trustworthy Networking Management
@@ -75,4 +62,17 @@
   twitter: 0
   github: 
 
-
+- name: Yongjia Lei
+  photo: Yongjia.png
+  info: Computer Science Ph.D. at UO
+  email: yongjia_AT_uoregon_DOT_edu
+  number_educ: 3
+  education1: Reasoning and Planning, Retrieval-augmented Generation, Document Intelligence
+  education2: 2025 SDM Doctorum Forum Poster Session Honorable Mention
+  education3: 2025 Best TA Award at UO-CS
+  education4: 
+  education5:
+  website: https://github.com/Yoega
+  linkedin: https://www.linkedin.com/in/yongjia-lei-2057ba342/
+  twitter: 0
+  github: https://github.com/Yoega
