@@ -2,7 +2,7 @@
 
 - name: Yu Wang
   photo: Yu.png
-  info: Assistant Professor of Computer Science
+  info: "Assistant Professor at School of Computing<br>Assistant Professor at Institute of AI"
   email: Yu.Wang6@uga.edu
   number_educ: 
   education1: 
@@ -15,4 +15,4 @@
   scholar2: https://scholar.google.com/citations?user=XPCmiz4AAAAJ&hl=en
   linkedin: 0
   twitter: 0
-  github: https://github.com/yuwvandy
+  github: 0
