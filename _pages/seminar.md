@@ -26,7 +26,7 @@ The AI Weekly Seminar@KIND is a weekly seminar held every Friday, open to everyo
 <table class="table table-striped">
   <thead>
     <tr>
-      <th>Date (Friday)</th>
+      <th>Date</th>
       <th>Time</th>
       <th>Presenter</th>
       <th>Paper</th>
