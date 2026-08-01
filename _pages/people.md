@@ -105,6 +105,23 @@ permalink: /people/
   <i>{{ member.info }} <br>email: {{ member.email }}</i>
   <ul style="overflow: hidden">
 
+  {% if member.research_direction %}
+  <li> Direction: {{ member.research_direction }} </li>
+  <li> 1st Author Research Outcomes:
+    <ul>
+    {% for outcome in member.research_outcomes %}
+      <li>{{ outcome }}</li>
+    {% endfor %}
+    </ul>
+  </li>
+  <li> Honors:
+    <ul>
+    {% for honor in member.honors %}
+      <li>{{ honor }}</li>
+    {% endfor %}
+    </ul>
+  </li>
+  {% else %}
   {% if member.number_educ == 0 %}
   {% endif %}
 
@@ -136,6 +153,7 @@ permalink: /people/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
+  {% endif %}
   {% endif %}
 
   </ul>

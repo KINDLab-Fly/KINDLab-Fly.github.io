@@ -5,10 +5,19 @@
   info: Computer Science Ph.D. at UGA
   email: Zhisheng.Qi@uga.edu
   group_heading: Ph.D. at UGA
-  number_educ: 3
-  education1: "Direction: Agentic Reasoning on Structured Knowledge, Agentic Privacy and Security"
-  education2: "1st-author research outcomes: <a href=\"https://arxiv.org/abs/2602.09319\" target=\"_blank\" rel=\"noopener noreferrer\">KDD 2026</a>, AI Leadership Summit, <a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3779394\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>"
-  education3: "Honors: 2026 KDD Benchmark Oral Presentation (4.5%), 2026 UO Student OpenHouse Poster Runner-up, 2026 WSDM Student Travel Award"
+  research_direction: Agentic Reasoning on Structured Knowledge, Agentic Privacy and Security
+  research_outcomes:
+    - "<a href=\"https://arxiv.org/abs/2602.09319\" target=\"_blank\" rel=\"noopener noreferrer\">KDD 2026</a>"
+    - AI Leadership Summit
+    - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3779394\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>"
+  honors:
+    - 2026 KDD Benchmark Oral Presentation (4.5%)
+    - 2026 UO Student OpenHouse Poster Runner-up
+    - 2026 WSDM Student Travel Award
+  number_educ: 0
+  education1:
+  education2:
+  education3:
   education4: 
   education5:
   website: https://charlieqi02.github.io/
@@ -21,10 +30,17 @@
   info: Computer Science Ph.D. at UO
   email: utkarsh_AT_uoregon_DOT_edu
   group_heading: Ph.D. at UO
-  number_educ: 3
-  education1: "Direction: Multi-Modal Social Network Learning, Agentic Privacy"
-  education2: "1st-author research outcomes: <a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3779394\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>, <a href=\"https://arxiv.org/abs/2606.27539\" target=\"_blank\" rel=\"noopener noreferrer\">arXiv 2026</a>"
-  education3: "Honors: 2026 UO Student OpenHouse Poster Honorable Mention, 2026 WSDM Student Travel Award"
+  research_direction: Multi-Modal Social Network Learning, Agentic Privacy
+  research_outcomes:
+    - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3779394\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>"
+    - "<a href=\"https://arxiv.org/abs/2606.27539\" target=\"_blank\" rel=\"noopener noreferrer\">arXiv 2026</a>"
+  honors:
+    - 2026 UO Student OpenHouse Poster Honorable Mention
+    - 2026 WSDM Student Travel Award
+  number_educ: 0
+  education1:
+  education2:
+  education3:
   education4:
   education5:
   website:
@@ -51,10 +67,16 @@
   photo: Riya.png
   info: Computer Science Ph.D. at UO
   email: ripo_AT_uoregon_DOT_edu
-  number_educ: 3
-  education1: "Direction: Graph Machine Learning for Networking Management"
-  education2: "1st-author research outcomes: <a href=\"https://dl.acm.org/doi/abs/10.1145/3770854.3783939\" target=\"_blank\" rel=\"noopener noreferrer\">KDD 2026</a>"
-  education3: "Honors: KDD 2026 Student Travel Award, 2025 Pulse Student Fellowship"
+  research_direction: Graph Machine Learning for Networking Management
+  research_outcomes:
+    - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3770854.3783939\" target=\"_blank\" rel=\"noopener noreferrer\">KDD 2026</a>"
+  honors:
+    - KDD 2026 Student Travel Award
+    - 2025 Pulse Student Fellowship
+  number_educ: 0
+  education1:
+  education2:
+  education3:
   education4: 
   education5:
   website: 
@@ -66,10 +88,18 @@
   photo: Yongjia.png
   info: Computer Science Ph.D. at UO
   email: yongjia_AT_uoregon_DOT_edu
-  number_educ: 3
-  education1: "Direction: LLM Reasoning, Knowledge Retrieval"
-  education2: "1st-author research outcomes: <a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3785509\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>, <a href=\"https://aclanthology.org/2025.findings-acl.941/\" target=\"_blank\" rel=\"noopener noreferrer\">ACL 2025</a>, <a href=\"https://arxiv.org/abs/2606.16316\" target=\"_blank\" rel=\"noopener noreferrer\">arXiv 2026</a>"
-  education3: "Honors: SDM 2026 Doctoral Forum Honorable Mention, 2025 UO Student OpenHouse Poster Honorable Mention"
+  research_direction: LLM Reasoning, Knowledge Retrieval
+  research_outcomes:
+    - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3785509\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>"
+    - "<a href=\"https://aclanthology.org/2025.findings-acl.941/\" target=\"_blank\" rel=\"noopener noreferrer\">ACL 2025</a>"
+    - "<a href=\"https://arxiv.org/abs/2606.16316\" target=\"_blank\" rel=\"noopener noreferrer\">arXiv 2026</a>"
+  honors:
+    - SDM 2026 Doctoral Forum Honorable Mention
+    - 2025 UO Student OpenHouse Poster Honorable Mention
+  number_educ: 0
+  education1:
+  education2:
+  education3:
   education4: 
   education5:
   website: https://github.com/Yoega
