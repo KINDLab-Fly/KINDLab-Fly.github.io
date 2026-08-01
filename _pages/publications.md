@@ -81,6 +81,10 @@ In *Graph Neural Networks: Foundations, Frontiers, and Applications* (Lingfei Wu
 
 ### 2026
 
+[Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening](https://arxiv.org/abs/2510.16306)\
+Xin Wang, Yu Wang, Yunchao Liu, Jens Meiler, Tyler Derr.\
+SIAM International Conference on Data Mining (SDM), 2026.
+
 [Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework](https://arxiv.org/abs/2509.18007)\
 Riya Ponraj, Ram Durairajan, Yu Wang.\
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2026.
