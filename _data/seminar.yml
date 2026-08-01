@@ -1,6 +1,42 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-07-24"
+  time: "3:30–5:30 PM PST"
+  presenter: "TBD"
+  paper: "Who&When Pro: Can LLMs Really Attribute Failures in AI Agents?"
+  link: "https://arxiv.org/abs/2607.09996"
+
+- date: "2026-07-17"
+  time: "3:30–5:30 PM PST"
+  presenter: "TBD"
+  paper: "When Evidence is Sparse: Weakly Supervised Early Failure Alerting in Dialogs and LLM-Agent Trajectories"
+  link: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8Nuj8NwAAAAJ&sortby=pubdate&citation_for_view=8Nuj8NwAAAAJ:QD3KBmkZPeQC"
+
+- date: "2026-07-10"
+  time: "3:30–5:30 PM PST"
+  presenter: "TBD"
+  paper: "CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery"
+  link: "https://arxiv.org/abs/2604.01658"
+
+- date: "2026-07-03"
+  time: "3:30–5:30 PM PST"
+  presenter: "TBD"
+  paper: "Scaling Long-Horizon LLM Agent via Context-Folding"
+  link: "https://arxiv.org/pdf/2510.11967"
+
+- date: "2026-06-26"
+  time: "3:30–5:30 PM PST"
+  presenter: "TBD"
+  paper: "GRADE: Graph Representation of LLM Agent Dependency and Execution"
+  link: "https://arxiv.org/pdf/2606.22741"
+
+- date: "2026-06-19"
+  time: "3:30–5:30 PM PST"
+  presenter: "Zhisheng Qi"
+  paper: "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction"
+  link: "https://arxiv.org/abs/2605.05242"
+
 - date: "2026-06-12"
   time: "3:30–5:30 PM PST"
   presenter: "Jiaxi Li"
