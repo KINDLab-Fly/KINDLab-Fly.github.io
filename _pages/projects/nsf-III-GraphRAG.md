@@ -26,46 +26,44 @@ Together, these innovations advance graph algorithms, retrieval modeling, and gr
 
 ## Publications
 
+- [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319)\
+Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang.\
+ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Dataset and Benchmark Track (KDD), 2026. [[Code]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)
+<span style="color:red">**Oral Presentation (4.5%)**</span>
+
 - [RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/abs/2502.11371)\
-Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.\
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Dataset and Benchmark Track (KDD), 2026.
+Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang.\
+ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Dataset and Benchmark Track (KDD), 2026. [[Code]](https://github.com/haoyuhan1/RAGvsGraphRAG)
 
 - [Empowering GraphRAG with Knowledge Filtering and Integration](https://aclanthology.org/2025.emnlp-main.1293/)\
 Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang.\
 Findings of the Association for Computational Linguistics: EMNLP, 2025.
 
-- [Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/) [[Code]](https://github.com/Yoega/MoR)\
+- [Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework](https://arxiv.org/abs/2509.18007)\
+Riya Ponraj, Ram Durairajan, Yu Wang.\
+ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD), 2026. [[Code]](https://github.com/yuwvandy/NetExplainer)
+
+- **Rule Mining and Learning for Structured Knowledge Retrieval**\
+Yongjia Lei, Mahantesh M Halappanavar, Yu Wang.\
+ACM International Conference on Web Search and Data Mining (WSDM), 2026.
+
+- [Knowledge Homophily in Large Language Models](https://dl.acm.org/doi/10.1145/3773966.3779394)\
+Utkarsh Sahu, Zhisheng Qi, Mahantesh M Halappanavar, Nedim Lipka, Ryan A Rossi, Franck Dernoncourt, Yu Zhang, Yao Ma, Yu Wang.\
+ACM International Conference on Web Search and Data Mining (WSDM), 2026. [[Code]](https://github.com/utkarshxsahu/kgc)
+
+- [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)\
+Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr.\
+ACM Computing Surveys (CSUR), 2026. [[Code]](https://github.com/Arstanley/Awesome-Trustworthy-RAG)
+
+- [Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/)\
 Yongjia Lei, Haoyu Han, Ryan A. Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M. Halappanavar, Jiliang Tang, Yu Wang.\
-Findings of the Association for Computational Linguistics: ACL, 2025.
-
-- [A Graph Perspective to Probe Structural Patterns of Knowledge in Large Language Models](https://arxiv.org/abs/2505.19286) [[Code]](https://github.com/utkarshxsahu/kgc)\
-Utkarsh Sahu, Zhisheng Qi, Yongjia Lei, Ryan A. Rossi, Franck Dernoncourt, Nesreen K. Ahmed, Mahantesh M. Halappanavar, Yao Ma, Yu Wang.\
-arXiv, 2025.
-
-- [Topology-aware Retrieval Augmentation for Text Generation](https://dl.acm.org/doi/abs/10.1145/3627673.3679746)\
-Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, Tyler Derr.\
-ACM International Conference on Information and Knowledge Management (CIKM), 2024.
-
-- [Knowledge Graph Prompting for Multi-Document Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/29889)\
-Yu Wang, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr.\
-AAAI Conference on Artificial Intelligence (AAAI), 2024.
-
-- [Knowledge Graph-based Session Recommendation with Session-Adaptive Propagation](https://dl.acm.org/doi/abs/10.1145/3589335.3648324)\
-Yu Wang, Amin Javari, Janani Balaji, Walid Shalaby, Tyler Derr, Xiquan Cui.\
-ACM Web Conference (WWW), 2024.
-
-- [Collaboration-Aware Graph Convolutional Network for Recommender Systems](https://arxiv.org/abs/2207.06221)\
-Yu Wang, Yuying Zhao, Yi Zhang, Tyler Derr.\
-ACM Web Conference (WWW), 2023.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2025. [[Code]](https://github.com/Yoega/MoR)
+<span style="color:red">**Best Poster Honorable Mention at SDM'25 Doctoral Forum**</span>
 
 ## Resources
 
 - [Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1) [[Paper List]](https://github.com/Graph-RAG/GraphRAG/)\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang.\
-arXiv, 2025.
-
-- [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872) [[Paper List]](https://github.com/Arstanley/Awesome-Trustworthy-RAG)\
-Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr.\
 arXiv, 2025.
 
 ## Tutorials and Workshops
@@ -78,24 +76,18 @@ SIAM International Conference on Data Mining (SDM), 2025.
 Yu Wang, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang.\
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
 
-## News and Awards
+## Awards and Honors
 
 - Our NSF IIS-III Core Program project on developing foundational GraphRAG has been selected.
-- Our paper, [Empowering GraphRAG with Knowledge Filtering and Integration](https://aclanthology.org/2025.emnlp-main.1293/), has been accepted at EMNLP 2025.
-- Our survey on [Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1) is online.
-- The GraphRAG tutorial was presented at SDM 2025.
+- [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319) was selected as a KDD 2026 Dataset and Benchmark Track oral presentation (4.5%).
+- [Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/) received Best Poster Honorable Mention at the SDM 2025 Doctoral Forum.
 
-## Project Members
+## Core Project Members
 
 - [Yu Wang](https://yuwang0103.github.io/) (PI)
 - [Yongjia Lei](https://github.com/Yoega) (Ph.D. student)
 - [Zhisheng Qi](https://charlieqi02.github.io/) (Ph.D. student)
 - [Utkarsh Sahu](https://scholar.google.com/citations?user=gBVVDhMAAAAJ&hl=en) (Ph.D. student)
-
-## Collaborators
-
-- **Academia:** Jiliang Tang, Hui Liu, Yao Ma, Tyler Derr, Harry Shomer, Haoyu Han, Kai Guo, Jiayuan Ding, Xianfeng Tang, Qi He, Tong Zhao, Neil Shah.
-- **Industry and National Labs:** Ryan A. Rossi, Franck Dernoncourt, Nedim Lipka, Nesreen K. Ahmed, Mahantesh M. Halappanavar, Zhigang Hua, Bo Long.
 
 ## Acknowledgements
 
