@@ -32,8 +32,8 @@ Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hu
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Dataset and Benchmark Track (KDD), 2026. [[Paper]](https://arxiv.org/abs/2502.11371) [[Code]](https://github.com/haoyuhan1/RAGvsGraphRAG)
 
 - **Empowering GraphRAG with Knowledge Filtering and Integration**\
-Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang.\
-Findings of the Association for Computational Linguistics: EMNLP, 2025. [[Paper]](https://aclanthology.org/2025.emnlp-main.1293/)
+Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.\
+Empirical Methods in Natural Language Processing (EMNLP), 2025. [[Paper]](https://aclanthology.org/2025.emnlp-main.1293/)
 
 - **Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework**\
 Riya Ponraj, Ram Durairajan, Yu Wang.\
@@ -76,19 +76,37 @@ arXiv, 2026. [[Paper]](https://arxiv.org/abs/2604.24996)
 
 ## Tutorials and Workshops
 
-- [Retrieval-augmented Generation on Graph-structured Data](https://kindlab-fly.github.io/tutorials/sdm25/)\
-Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang.\
-SIAM International Conference on Data Mining (SDM), 2025.
+### Workshops
+
+- **SURGeLLM: Structured Understanding, Retrieval, and Generation in LLMs era**\
+Vivek Gupta, Kaize Ding, Harsha Kokel, Yue Zhao, Amit Agarwal, Yu Wang, Michael Glass, Yu Zhang, Kavitha Srinivas, Xiusi Chen, Oktie Hassanzadeh, Qi Zhu, Shuaichen Chang, Yuan Luo.\
+Annual Meeting of the Association for Computational Linguistics (ACL), 2026. [[Website]](https://surgellm.github.io/acl2026/)
 
 - [Machine Learning on Graphs in the Era of Generative Artificial Intelligence](https://mlgraphworkshop.github.io/)\
 Yu Wang, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang.\
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
 
+### Tutorials
+
+- **Rigorizing Retrieval-augmented Generation with Structural Intelligence**\
+Zhisheng Qi, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, Yu Zhang, Ryan Rossi, Hui Liu, Yu Wang.\
+ACM International Conference on Web Search and Data Mining (WSDM), 2026. [[Website]](https://kindlab-fly.github.io/tutorials/wsdm26/)
+
+- **Empowering Retrieval-augmented Generation with Graph-structured Knowledge**\
+Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang.\
+SIAM International Conference on Data Mining (SDM), 2025. [[Website]](https://kindlab-fly.github.io/tutorials/sdm25/)
+
 ## Awards and Honors
 
 - Our NSF IIS-III Core Program project on developing foundational GraphRAG has been selected.
+- Yu Wang received the SIGKDD 2025 Dissertation Award Honorable Mention.
 - [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319) was selected as a KDD 2026 Dataset and Benchmark Track oral presentation (4.5%).
 - [Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/) received Best Poster Honorable Mention at the SDM 2025 Doctoral Forum.
+- Zhisheng Qi received the UO Student OpenHouse 2026 Poster Runner-up award.
+- Yongjia Lei received the UO Student OpenHouse 2025 Poster Honorable Mention.
+- Zhisheng Qi received the WSDM 2026 Student Travel Award.
+- Utkarsh Sahu received the WSDM 2026 Student Travel Award.
+- Yongjia Lei obtained the Adobe Research Summer Internship 2025.
 
 ## Core Project Members
 
