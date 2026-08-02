@@ -17,37 +17,25 @@ permalink: /
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-        <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
     <div class="carousel-inner" markdown="0">
     <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/KIND_logo.png" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/UGA/Logo.png" alt="KIND Lab logo" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Zhisheng_Tutorial.png" alt="Slide 2" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/UGA/Athens.jpg" alt="Athens" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Utkarsh_Tutorial.png" alt="Slide 3" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/UGA/UGA.jpg" alt="University of Georgia" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Utkarsh_Poster.png" alt="Slide 4" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/UGA/Utkarsh_Poster.png" alt="Utkarsh poster presentation" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo2.png" alt="Slide 5" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/UGA/sdm-2025-1.png" alt="SDM 2025" />
     </div>
     <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sdm-2025-2.png" alt="Slide 6" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/uo1.png" alt="Slide 7" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/sdm-2025-1.png" alt="Slide 8" />
-    </div>
-    <div class="item">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/eugene.png" alt="Slide 9" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/UGA/sdm-2025-2.png" alt="SDM 2025 group photo" />
     </div>
   </div>
     
