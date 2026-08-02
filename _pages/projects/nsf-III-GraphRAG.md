@@ -1,100 +1,108 @@
 ---
-title: "nsf-III-GraphRAG"
+title: "Towards Well-rounded Graph Retrieval for Retrieval-augmented Generation"
 layout: textlay
-excerpt: "nsf-III-GraphRAG"
+excerpt: "Towards Well-rounded Graph Retrieval for Retrieval-augmented Generation"
 sitemap: false
 permalink: /projects/nsf-III-GraphRAG/
 ---
 
+# Towards Well-rounded Graph Retrieval for Retrieval-augmented Generation
 
-## Towards Well-Rounded Graph Retrieval for RAG
 ![]({{ site.url }}{{ site.baseurl }}/images/research/NSF-III-GraphRAG.png){: style="width: 700px; height: auto; display: block; margin: 20px auto;" }
 
-Solutions to real-world problems, such as scientific document question-answering, cybersecurity diagnosis, and e-commerce personalization, can often be improved by augmenting the underlying generative artificial intelligence-based (Gen-AI) systems with retrieved external knowledge. Much of this external knowledge is organized in graph-structured formats that encode unique relational signals. For example, citation links among scientific papers reveal their deep intellectual dependencies across different fields. Recurring co-occurrences among software components and vulnerability reports can reveal latent causal chains triggering security flaws. Online human interactions, such as liking, commenting, or reposting, reflect individual traits and preferences. This project pioneers retrieval techniques that locate the appropriate graph-structured knowledge and infuse it to assist Gen-AI systems with solving downstream problems, closing critical knowledge gaps, and enabling more useful, trustworthy, and diverse predictions, discovery, and decision-making. In personalization, the proposed retrieval techniques could give a social e-commerce platform a holistic view of each customer and support highly personalized recommendations. In cybersecurity, hidden dependencies among vulnerabilities and defenses could be exploited, allowing security operators to trace multi-step attack chains and harden critical systems against emerging threats. In scientific discovery and innovation, the relational knowledge in our proposed graph-level retrieval could facilitate exploration of multifaceted content and provide diverse insights that push existing knowledge boundaries.
+## Project Description
 
-To meet these goals, this project pioneers a transformative roadmap to build well-rounded graph retrieval techniques for retrieval-augmented generation (RAG) systems that advance three dimensions: (1) Improving utility by harmonizing knowledge between structured knowledge in graphs and neural knowledge in large language models via structured knowledge checking, aligning retrieval emphasis with user interests by estimating continuously evolving trends, and incorporating agentic planning and reasoning capabilities for intelligent multi-round graph-structured traversal; (2) Safeguarding trustworthiness by reliably retrieving error-controlled graph-structured knowledge, disclosing vulnerability by designing structure-informed threat models and improving safety with data-centric textual subgraph anomaly detection and model-centric neighborhood trend filtering; (3) Promoting knowledge diversity through multi-agent collaborative exploration at both the conceptual subgraph and individual entity level. Together, these innovations will yield theoretical advances in graph algorithms, retrieval modeling, and graph-structured knowledge representations, ultimately transforming how graph-structured knowledge is discovered, integrated, and applied in RAG and Gen-AI systems across impactful domains, such as healthcare, scientific innovation, personalization, cyber defense, and targeting.
+Solutions to real-world problems, such as scientific document question-answering, cybersecurity diagnosis, and e-commerce personalization, can often be improved by augmenting the underlying generative artificial intelligence-based (Gen-AI) systems with retrieved external knowledge. Much of this external knowledge is organized in graph-structured formats that encode unique relational signals. For example, citation links among scientific papers reveal their deep intellectual dependencies across different fields. Recurring co-occurrences among software components and vulnerability reports can reveal latent causal chains triggering security flaws. Online human interactions, such as liking, commenting, or reposting, reflect individual traits and preferences.
 
-### Publications
-[Knowledge Graph Prompting for Multi-Document Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/29889)\
-Yu Wang, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr. \
-In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada, February 20-27, 2024.
+This project pioneers retrieval techniques that locate appropriate graph-structured knowledge and infuse it into Gen-AI systems to solve downstream problems, close knowledge gaps, and enable more useful, trustworthy, and diverse predictions, discovery, and decision-making. In personalization, the proposed retrieval techniques could give a social e-commerce platform a holistic view of each customer and support highly personalized recommendations. In cybersecurity, hidden dependencies among vulnerabilities and defenses could be exploited, allowing security operators to trace multi-step attack chains and harden critical systems against emerging threats. In scientific discovery and innovation, relational knowledge in graph-level retrieval can support exploration of multifaceted content and provide diverse insights that push existing knowledge boundaries.
 
-[Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/)[code](https://github.com/Yoega/MoR) \
-Yongjia Lei, Haoyu Han, Ryan A Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M Halappanavar, Jiliang Tang, Yu Wang. \
-The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), Vienna, Austria, 2025.
+To meet these goals, this project builds well-rounded graph retrieval techniques for retrieval-augmented generation (RAG) systems along three dimensions:
 
-[A Graph Perspective to Probe Structural Patterns of Knowledge in Large Language Models](https://arxiv.org/abs/2505.19286)[code](https://github.com/utkarshxsahu/kgc) \
-Utkarsh Sahu, Zhisheng Qi, Yongjia Lei, Ryan A. Rossi, Franck Dernoncourt, Nesreen K. Ahmed, Mahantesh M Halappanavar, Yao Ma, Yu Wang. \
-https://arxiv.org/abs/2505.19286, 2025.
+- **Utility:** Harmonize structured knowledge in graphs with neural knowledge in large language models through structured knowledge checking, evolving retrieval emphasis, and agentic multi-round graph traversal.
+- **Trustworthiness:** Retrieve error-controlled graph-structured knowledge, disclose vulnerabilities through structure-informed threat models, and improve safety with data-centric and model-centric filtering.
+- **Diversity:** Promote multi-agent collaborative exploration at both conceptual subgraph and individual entity levels.
 
-[Topology-aware Retrieval Augmentation for Text Generation](https://dl.acm.org/doi/abs/10.1145/3627673.3679746)\
-Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, Tyler Derr. \
-In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM), Boise, ID, October 21-25, 2024.
+Together, these innovations advance graph algorithms, retrieval modeling, and graph-structured knowledge representations for impactful domains such as healthcare, scientific innovation, personalization, cyber defense, and targeting.
 
-[Knowledge Graph-based Session Recommendation with Session-Adaptive Propagation](https://dl.acm.org/doi/abs/10.1145/3589335.3648324)\
-Yu Wang, Amin Javari, Janani Balaji, Walid Shalaby, Tyler Derr, Xiquan Cui. \
-Proceedings of the ACM Web Conference (WWW), Singapore, May 13-17, 2024.
+## Publications
 
-[Collaboration-Aware Graph Convolutional Network for Recommender Systems](https://arxiv.org/abs/2207.06221)\
+- [RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/abs/2502.11371)\
+Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.\
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Dataset and Benchmark Track (KDD), 2026.
+
+- [Empowering GraphRAG with Knowledge Filtering and Integration](https://aclanthology.org/2025.emnlp-main.1293/)\
+Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang.\
+Findings of the Association for Computational Linguistics: EMNLP, 2025.
+
+- [Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases](https://aclanthology.org/2025.findings-acl.941/) [[Code]](https://github.com/Yoega/MoR)\
+Yongjia Lei, Haoyu Han, Ryan A. Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M. Halappanavar, Jiliang Tang, Yu Wang.\
+Findings of the Association for Computational Linguistics: ACL, 2025.
+
+- [A Graph Perspective to Probe Structural Patterns of Knowledge in Large Language Models](https://arxiv.org/abs/2505.19286) [[Code]](https://github.com/utkarshxsahu/kgc)\
+Utkarsh Sahu, Zhisheng Qi, Yongjia Lei, Ryan A. Rossi, Franck Dernoncourt, Nesreen K. Ahmed, Mahantesh M. Halappanavar, Yao Ma, Yu Wang.\
+arXiv, 2025.
+
+- [Topology-aware Retrieval Augmentation for Text Generation](https://dl.acm.org/doi/abs/10.1145/3627673.3679746)\
+Yu Wang, Nedim Lipka, Ruiyi Zhang, Alexa Siu, Yuying Zhao, Bo Ni, Xin Wang, Ryan Rossi, Tyler Derr.\
+ACM International Conference on Information and Knowledge Management (CIKM), 2024.
+
+- [Knowledge Graph Prompting for Multi-Document Question Answering](https://ojs.aaai.org/index.php/AAAI/article/view/29889)\
+Yu Wang, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr.\
+AAAI Conference on Artificial Intelligence (AAAI), 2024.
+
+- [Knowledge Graph-based Session Recommendation with Session-Adaptive Propagation](https://dl.acm.org/doi/abs/10.1145/3589335.3648324)\
+Yu Wang, Amin Javari, Janani Balaji, Walid Shalaby, Tyler Derr, Xiquan Cui.\
+ACM Web Conference (WWW), 2024.
+
+- [Collaboration-Aware Graph Convolutional Network for Recommender Systems](https://arxiv.org/abs/2207.06221)\
 Yu Wang, Yuying Zhao, Yi Zhang, Tyler Derr.\
-Proceedings of the ACM Web Conference (WWW), Austin, TX, 2023.
+ACM Web Conference (WWW), 2023.
 
-[Empowering GraphRAG with Knowledge Filtering and Integration](https://arxiv.org/abs/2503.13804) \
-Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hui Liu, Jiliang Tang. \
-https://arxiv.org/abs/2502.11371, 2025.
+## Resources
 
-[Rag vs. graphrag: A systematic evaluation and key insights](https://arxiv.org/abs/2502.11371) \
-Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang. \
-https://arxiv.org/abs/2503.13804, 2025.
+- [Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1) [[Paper List]](https://github.com/Graph-RAG/GraphRAG/)\
+Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang.\
+arXiv, 2025.
 
-[Empowering GraphRAG with Knowledge Filtering and Integration](https://arxiv.org/abs/2503.13804) \
-Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang. \
-https://arxiv.org/abs/2503.13804, 2025.
+- [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872) [[Paper List]](https://github.com/Arstanley/Awesome-Trustworthy-RAG)\
+Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr.\
+arXiv, 2025.
 
-[Personalized Graph-Based Retrieval for Large Language Models](https://arxiv.org/abs/2501.02157) \
-Steven Au, Cameron J. Dimacali, Ojasmitha Pedirappagari, Namyong Park, Franck Dernoncourt, Yu Wang, Nikos Kanakaris, Hanieh Deilamsalehy, Ryan A. Rossi, Nesreen K. Ahmed. \
-https://arxiv.org/abs/2501.02157, 2025.
+## Tutorials and Workshops
 
-[DynaSaur: Large language agents beyond predefined actions](https://arxiv.org/abs/2411.01747)[code](https://github.com/adobe-research/dynasaur) \
-Dang Nguyen, Viet Dac Lai, Seunghyun Yoon, Ryan A. Rossi, Handong Zhao, Ruiyi Zhang, Puneet Mathur, Nedim Lipka, Yu Wang, Trung Bui, Franck Dernoncourt, Tianyi Zhou. \
-Second Conference on Language Modeling, Montreal, Canada, October 7-9, 2025.
-
-[Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective](https://arxiv.org/abs/2410.08985) \
-Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, Tyler Derr. \
-In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI), Philadelphia, PA, February 25-March 4, 2025.
-
-[GUI Agents: A Survey](https://arxiv.org/abs/2412.13501) \
-Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt. \
-https://arxiv.org/abs/2412.13501, 2024.
-
-[Can One Embedding Fit All? A Multi-Interest Learning Paradigm Towards Improving User Interest Diversity Fairness](https://dl.acm.org/doi/abs/10.1145/3589334.3645662)\
-Yuying Zhao, Minghua Xu, Huiyuan Chen, Yuzhong Chen, Yiwei Cai, Rashidul Islam, Yu Wang, Tyler Derr. \
-Proceedings of the ACM Web Conference (WWW), Singapore, May 13-17, 2024.
-
-
-### Resources
-[Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1)\
-[(Paper List)](https://github.com/Graph-RAG/GraphRAG/)\
-Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang. \
-https://arxiv.org/abs/2501.00309v1, 2025.
-
-[Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)\
-[(Paper List)](https://github.com/Arstanley/Awesome-Trustworthy-RAG)\
-Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, Tyler Derr. \
-https://arxiv.org/abs/2502.06872, 2025.
-
-### Tutorials
-[Retrieval-augmented Generation on Graph-structured Data](https://kindlab-fly.github.io/tutorials/sdm25/)\
+- [Retrieval-augmented Generation on Graph-structured Data](https://kindlab-fly.github.io/tutorials/sdm25/)\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang.\
-SIAM International Conference on Data Mining, SDM25
+SIAM International Conference on Data Mining (SDM), 2025.
 
-### Workshops
-[Machine Learning on Graphs in the Era of Generative Artificial Intelligence](https://mlgraphworkshop.github.io/)\
+- [Machine Learning on Graphs in the Era of Generative Artificial Intelligence](https://mlgraphworkshop.github.io/)\
 Yu Wang, Yu Zhang, Zhichun Guo, Harry Shomer, Haoyu Han, Tyler Derr, Nesreen Ahmed, Mahantesh Halappanavar, Jiliang Tang.\
-Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
+
+## News and Awards
+
+- Our NSF IIS-III Core Program project on developing foundational GraphRAG has been selected.
+- Our paper, [Empowering GraphRAG with Knowledge Filtering and Integration](https://aclanthology.org/2025.emnlp-main.1293/), has been accepted at EMNLP 2025.
+- Our survey on [Retrieval-Augmented Generation with Graphs (GraphRAG)](https://arxiv.org/abs/2501.00309v1) is online.
+- The GraphRAG tutorial was presented at SDM 2025.
+
+## Project Members
+
+- [Yu Wang](https://yuwang0103.github.io/) (PI)
+- [Yongjia Lei](https://github.com/Yoega) (Ph.D. student)
+- [Zhisheng Qi](https://charlieqi02.github.io/) (Ph.D. student)
+- [Utkarsh Sahu](https://scholar.google.com/citations?user=gBVVDhMAAAAJ&hl=en) (Ph.D. student)
+
+## Collaborators
+
+- **Academia:** Jiliang Tang, Hui Liu, Yao Ma, Tyler Derr, Harry Shomer, Haoyu Han, Kai Guo, Jiayuan Ding, Xianfeng Tang, Qi He, Tong Zhao, Neil Shah.
+- **Industry and National Labs:** Ryan A. Rossi, Franck Dernoncourt, Nedim Lipka, Nesreen K. Ahmed, Mahantesh M. Halappanavar, Zhigang Hua, Bo Long.
 
 ## Acknowledgements
-We thank all our academic and industrial collaborators for their support. This work is supported by the National Science Foundation through III 2524379. The views and conclusions contained herein are those of the authors and should not be interpreted as necessarily representing the official policies or endorsements, either expressed or implied, of NSF, academia, and industrial supporters.
+
+We thank all our academic and industrial collaborators for their support. This work is supported by the National Science Foundation through III 2524379. Any opinions, findings, conclusions, or recommendations expressed here are those of the authors and do not necessarily reflect the views of the National Science Foundation.
 
 ![]({{ site.baseurl }}/images/funding/NSF_logo_animation.gif)
 
+## Contact
+
+Yu Wang: Yu.Wang6@uga.edu
