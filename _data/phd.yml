@@ -28,7 +28,7 @@
   
 - name: Utkarsh Sahu
   photo: Utkarsh.png
-  info: 2026 Computer Science PhD at UO
+  info: 2026 Computer Science PhD at UO<br>co-advised with Professor Daniel Lowd
   email: utkarsh@uoregon.edu
   group_heading: Ph.D. at UO
   research_direction: Multi-Modal Social Network Learning, Agentic Privacy
@@ -66,7 +66,7 @@
 
 - name: Riya Ponraj
   photo: Riya.png
-  info: 2024 Computer Science PhD at UO
+  info: 2024 Computer Science PhD at UO<br>co-advised with Professor Ram Durairajan
   email: ripo@uoregon.edu
   research_direction: Graph Machine Learning for Networking Management
   research_outcomes:
