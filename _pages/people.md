@@ -99,13 +99,11 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <div style="display: flex; gap: 18px; align-items: flex-start;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="flex: 0 0 25%; max-width: 25%; height: auto;" />
-  <div style="flex: 1; min-width: 0;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
 
-  <i>{{ member.info }} <br>email: {{ member.email }}{% if member.co_advised_by %}<br>{{ member.co_advised_by }}{% endif %}</i>
-  <ul>
+  <i>{{ member.info }} <br>email: {{ member.email }}</i>
+  <ul style="overflow: hidden">
 
   {% if member.research_direction %}
   <li> Direction: {{ member.research_direction }} </li>
@@ -161,8 +159,6 @@ permalink: /people/
   {% endif %}
 
   </ul>
-  </div>
-  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
