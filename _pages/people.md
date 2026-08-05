@@ -102,7 +102,7 @@ permalink: /people/
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
 
-  <i>{{ member.info }} <br>email: {{ member.email }}</i>
+  <i>{{ member.info }} <br>email: {{ member.email }}{% if member.co_advised_by %}<br>{{ member.co_advised_by }}{% endif %}</i>
   <ul style="overflow: hidden">
 
   {% if member.research_direction %}
