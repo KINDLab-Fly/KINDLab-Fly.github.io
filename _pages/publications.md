@@ -26,9 +26,9 @@ Annual Meeting of the Association for Computational Linguistics (ACL), 2026. [[W
 ---
 ## Tutorials
 
-**Rigorizing Retrieval-augmented Generation with Structural Intelligence**\
-Zhisheng Qi, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, Yu Zhang, Ryan Rossi, Hui Liu, Yu Wang.\
-ACM International Conference on Web Search and Data Mining (WSDM), 2026. [[Website]](https://kindlab-fly.github.io/tutorials/WSDM26/)
+**Rigorizing Retrieval-augmented Generation with Structured Knowledge Intelligence (6 Hrs)**\
+Zhisheng Qi, Utkarsh Sahu, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, Yu Zhang, Ryan Rossi, Hui Liu, Yu Wang.\
+ACM International Conference on Web Search and Data Mining (WSDM), 2026 Tutorial. [[Website]](https://kindlab-fly.github.io/tutorials/WSDM26/)
 
 **Empowering Retrieval-augmented Generation with Graph-structured Knowledge**\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Yongjia Lei, Jiayuan Ding, Xianfeng Tang, Qi He, Jiliang Tang.\
