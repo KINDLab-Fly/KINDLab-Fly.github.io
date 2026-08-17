@@ -14,12 +14,15 @@ permalink: /projects/nsf-III-GraphRAG/
 
 Explore the interactive Graph-Agent-Demo below, or open it in a new tab: [Graph-Agent-Demo](https://graph-agent.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
 
-<div class="project-demo-embed">
+<div class="project-demo-embed" style="width: 100%; height: 820px; margin: 20px 0 30px; border: 1px solid #ddd; border-radius: 6px; overflow: hidden; background: #f8f8f8;">
   <iframe
     src="https://graph-agent.graphagentintelligence.com/"
     title="Graph-Agent-Demo"
+    width="100%"
+    height="820"
     loading="lazy"
-    allowfullscreen>
+    allowfullscreen
+    style="width: 100%; height: 100%; border: 0; display: block;">
   </iframe>
 </div>
 
