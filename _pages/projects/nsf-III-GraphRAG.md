@@ -1,12 +1,12 @@
 ---
-title: "Towards Well-rounded Graph Retrieval for Retrieval-augmented Generation"
+title: "Agentic Intelligence for Structured Reasoning and Decision-making"
 layout: textlay
-excerpt: "Towards Well-rounded Graph Retrieval for Retrieval-augmented Generation"
+excerpt: "Agentic Intelligence for Structured Reasoning and Decision-making"
 sitemap: false
 permalink: /projects/nsf-III-GraphRAG/
 ---
 
-# Towards Well-rounded Graph Retrieval for Retrieval-augmented Generation
+# Agentic Intelligence for Structured Reasoning and Decision-making
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/NSF-III-GraphRAG.png){: style="width: 700px; height: auto; display: block; margin: 20px auto;" }
 
@@ -137,9 +137,9 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 ## Core Project Members
 
+- [Zhisheng Qi](https://charlieqi02.github.io/) (Ph.D. student)
 - [Yu Wang](https://yuwang0103.github.io/) (PI)
 - [Yongjia Lei](https://github.com/Yoega) (Ph.D. student)
-- [Zhisheng Qi](https://charlieqi02.github.io/) (Ph.D. student)
 - [Utkarsh Sahu](https://scholar.google.com/citations?user=gBVVDhMAAAAJ&hl=en) (Ph.D. student)
 
 ## Acknowledgements
