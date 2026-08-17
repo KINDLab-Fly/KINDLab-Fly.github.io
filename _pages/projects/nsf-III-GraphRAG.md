@@ -10,6 +10,19 @@ permalink: /projects/nsf-III-GraphRAG/
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/NSF-III-GraphRAG.png){: style="width: 700px; height: auto; display: block; margin: 20px auto;" }
 
+## Live Demo
+
+Explore the interactive Graph-Agent-Demo below, or open it in a new tab: [Graph-Agent-Demo](https://graph-agent.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
+
+<div class="project-demo-embed">
+  <iframe
+    src="https://graph-agent.graphagentintelligence.com/"
+    title="Graph-Agent-Demo"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
+
 ## Project Description
 
 Solutions to real-world problems, such as scientific document question-answering, cybersecurity diagnosis, and e-commerce personalization, can often be improved by augmenting the underlying generative artificial intelligence-based (Gen-AI) systems with retrieved external knowledge. Much of this external knowledge is organized in graph-structured formats that encode unique relational signals. For example, citation links among scientific papers reveal their deep intellectual dependencies across different fields. Recurring co-occurrences among software components and vulnerability reports can reveal latent causal chains triggering security flaws. Online human interactions, such as liking, commenting, or reposting, reflect individual traits and preferences. This project pioneers retrieval techniques that locate appropriate graph-structured knowledge and infuse it into Gen-AI systems to solve downstream problems, close knowledge gaps, and enable more useful, trustworthy, and diverse predictions, discovery, and decision-making. In personalization, the proposed retrieval techniques could give a social e-commerce platform a holistic view of each customer and support highly personalized recommendations. In cybersecurity, hidden dependencies among vulnerabilities and defenses could be exploited, allowing security operators to trace multi-step attack chains and harden critical systems against emerging threats. In scientific discovery and innovation, relational knowledge in graph-level retrieval can support exploration of multifaceted content and provide diverse insights that push existing knowledge boundaries. To meet these goals, this project builds well-rounded graph retrieval techniques for retrieval-augmented generation (RAG) systems along three dimensions:
