@@ -135,12 +135,11 @@ SIAM International Conference on Data Mining (SDM), 2025.
 - Zhisheng Qi received the WSDM 2026 Student Travel Award.
 - Utkarsh Sahu received the WSDM 2026 Student Travel Award.
 
-## Core Project Members
+## Core Project Team
 
-- [Zhisheng Qi](https://charlieqi02.github.io/) (Ph.D. student)
-- [Yu Wang](https://yuwang0103.github.io/) (PI)
-- [Yongjia Lei](https://github.com/Yoega) (Ph.D. student)
-- [Utkarsh Sahu](https://scholar.google.com/citations?user=gBVVDhMAAAAJ&hl=en) (Ph.D. student)
+**Team PI**: [Yu Wang](https://yuwang0103.github.io/)
+
+**Team Members**: [Zhisheng Qi](https://charlieqi02.github.io/), [Yongjia Lei](https://github.com/Yoega), [Utkarsh Sahu](https://scholar.google.com/citations?user=gBVVDhMAAAAJ&hl=en)
 
 ## Acknowledgements
 
