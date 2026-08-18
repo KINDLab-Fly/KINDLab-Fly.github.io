@@ -1,16 +1,16 @@
 ---
-title: "Agentic Reasoning and Decision-making for Structured Drug Design"
+title: "Agentic Intelligence for Structured Drug Design"
 layout: textlay
-excerpt: "Agentic Reasoning and Decision-making for Structured Drug Design"
+excerpt: "Agentic Intelligence for Structured Drug Design"
 sitemap: false
 permalink: /projects/agentic-structured-drug-design/
 ---
 
-# Agentic Reasoning and Decision-making for Structured Drug Design
+# Agentic Intelligence for Structured Drug Design
 
 ## Project Description
 
-Drug discovery depends on reasoning over multiple structured signals: molecular graphs, scaffold constraints, binding-site geometry, assay evidence, biological context, calculated molecular properties, and candidate trade-offs. This project designs agentic reasoning and decision-making systems that use those structures as first-class reasoning objects to support controllable and evidence-grounded drug design.
+Drug discovery depends on reasoning over multiple structured signals: molecular graphs, scaffold constraints, binding-site geometry, assay evidence, biological context, calculated molecular properties, and candidate trade-offs. This project designs agentic intelligence systems that use those structures as first-class reasoning objects to support controllable and evidence-grounded drug design.
 
 The demo illustrates a structured reasoning workflow for molecular design. It currently supports specifying a scaffold, sketching a scaffold, and setting multi-constrained property targets. Given these conditions, the system conditionally generates candidate molecules and returns calculated property feedback so users can inspect whether candidates satisfy the intended design constraints. We train LLM agents over more than 10 million molecules so they can reason conditionally over scaffolds and multi-constrained molecular properties. This enables the agent to inspect molecular candidates, connect graph-level and structural evidence, evaluate property trade-offs, compare alternatives, and refine candidate molecules through feedback. The project aims to make drug-design reasoning more transparent, controllable, and scientifically grounded by combining graph-based molecular representations with neural reasoning and domain-guided evaluation.
 

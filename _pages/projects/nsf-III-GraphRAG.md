@@ -1,12 +1,12 @@
 ---
-title: "Agentic Reasoning and Decision-making for Structured Knowledge Retrieval"
+title: "Agentic Intelligence for Structured Knowledge Retrieval"
 layout: textlay
-excerpt: "Agentic Reasoning and Decision-making for Structured Knowledge Retrieval"
+excerpt: "Agentic Intelligence for Structured Knowledge Retrieval"
 sitemap: false
 permalink: /projects/nsf-III-GraphRAG/
 ---
 
-# Agentic Reasoning and Decision-making for Structured Knowledge Retrieval
+# Agentic Intelligence for Structured Knowledge Retrieval
 
 ## Project Description
 

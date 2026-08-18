@@ -9,16 +9,16 @@ permalink: /project/
 
 # Projects
 
-### [**Agentic Reasoning and Decision-making for Structured Drug Design**](https://kindlab-fly.github.io/projects/agentic-structured-drug-design/)
+### [**Agentic Intelligence for Structured Drug Design**](https://kindlab-fly.github.io/projects/agentic-structured-drug-design/)
 **Faculty**: Yu Wang, Eugene Douglass<br>
 **Student**: Zhisheng Qi<br>
 **Live Demo**: [Drug-Design-Agent-Demo](https://drug-design.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/agentic-drug-design.png){: style="width: 400px; height: auto; float: left; margin: 10px 15px 10px 0px;" }
-This project develops agentic reasoning and decision-making systems for structured drug design. The current demo supports three interactive design modes: specifying a scaffold, sketching a scaffold, and setting multi-constrained molecular property targets. Conditioned on these user inputs, the system generates candidate molecules, calculates property feedback, and lets the agent compare, critique, and refine candidates through multi-step reasoning. We train LLM agents over more than 10 million molecules so they can learn scaffold-conditioned generation, molecular graph constraints, structural biology signals, screening evidence, and property trade-offs. The goal is to move drug-discovery agents beyond one-shot molecule generation toward transparent, controllable, and structure-aware design workflows.
+This project develops agentic intelligence systems for structured drug design. The current demo supports three interactive design modes: specifying a scaffold, sketching a scaffold, and setting multi-constrained molecular property targets. Conditioned on these user inputs, the system generates candidate molecules, calculates property feedback, and lets the agent compare, critique, and refine candidates through multi-step reasoning. We train LLM agents over more than 10 million molecules so they can learn scaffold-conditioned generation, molecular graph constraints, structural biology signals, screening evidence, and property trade-offs. The goal is to move drug-discovery agents beyond one-shot molecule generation toward transparent, controllable, and structure-aware design workflows.
 
 <div style="clear: both; margin-bottom: 30px;"></div>
 
-### [**Agentic Reasoning and Decision-making for Structured Knowledge Retrieval**](https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/)
+### [**Agentic Intelligence for Structured Knowledge Retrieval**](https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/)
 **Team PI**: Yu Wang<br>
 **Team Members**: Zhisheng Qi, Yongjia Lei, Utkarsh Sahu<br>
 **Live Demo**: [Graph-Agent-Demo](https://graph-agent.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }<br>
