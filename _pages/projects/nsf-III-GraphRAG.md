@@ -8,24 +8,6 @@ permalink: /projects/nsf-III-GraphRAG/
 
 # Agentic Reasoning and Decision-making for Structured Knowledge Retrieval
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/NSF-III-GraphRAG.png){: style="width: 700px; height: auto; display: block; margin: 20px auto;" }
-
-## Live Demo
-
-Explore the interactive Graph-Agent-Demo below, or open it in a new tab: [Graph-Agent-Demo](https://graph-agent.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
-
-<div class="project-demo-embed" style="width: min(1500px, calc(100vw - 32px)); max-width: calc(100vw - 32px); height: 900px; min-height: 780px; margin: 24px 0 34px 50%; transform: translateX(-50%); border: 1px solid #d8dee7; border-radius: 6px; overflow: hidden; background: #f8f8f8; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);">
-  <iframe
-    src="https://graph-agent.graphagentintelligence.com/"
-    title="Graph-Agent-Demo"
-    width="100%"
-    height="900"
-    loading="lazy"
-    allowfullscreen
-    style="width: 100%; height: 100%; border: 0; display: block;">
-  </iframe>
-</div>
-
 ## Project Description
 
 Solutions to real-world problems, such as scientific document question-answering, cybersecurity diagnosis, and e-commerce personalization, can often be improved by augmenting the underlying generative artificial intelligence-based (Gen-AI) systems with retrieved external knowledge. Much of this external knowledge is organized in graph-structured formats that encode unique relational signals. For example, citation links among scientific papers reveal their deep intellectual dependencies across different fields. Recurring co-occurrences among software components and vulnerability reports can reveal latent causal chains triggering security flaws. Online human interactions, such as liking, commenting, or reposting, reflect individual traits and preferences. This project pioneers retrieval techniques that locate appropriate graph-structured knowledge and infuse it into Gen-AI systems to solve downstream problems, close knowledge gaps, and enable more useful, trustworthy, and diverse predictions, discovery, and decision-making. In personalization, the proposed retrieval techniques could give a social e-commerce platform a holistic view of each customer and support highly personalized recommendations. In cybersecurity, hidden dependencies among vulnerabilities and defenses could be exploited, allowing security operators to trace multi-step attack chains and harden critical systems against emerging threats. In scientific discovery and innovation, relational knowledge in graph-level retrieval can support exploration of multifaceted content and provide diverse insights that push existing knowledge boundaries. To meet these goals, this project builds well-rounded graph retrieval techniques for retrieval-augmented generation (RAG) systems along three dimensions:
@@ -35,6 +17,23 @@ Solutions to real-world problems, such as scientific document question-answering
 - **Diversity:** Promote multi-agent collaborative exploration at both conceptual subgraph and individual entity levels.
 
 Together, these innovations advance graph algorithms, retrieval modeling, and graph-structured knowledge representations for impactful domains such as healthcare, scientific innovation, personalization, cyber defense, and targeting.
+
+## Live Demo
+
+Explore the interactive Graph-Agent-Demo below, or open it in a new tab: [Graph-Agent-Demo](https://graph-agent.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
+
+<div class="project-demo-embed" style="width: min(1500px, calc(100vw - 32px)); max-width: calc(100vw - 32px); height: 900px; min-height: 780px; margin: 24px 0 34px 50%; transform: translateX(-50%); border: 1px solid #d8dee7; border-radius: 6px; overflow: auto; background: #f8f8f8; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);">
+  <iframe
+    src="https://graph-agent.graphagentintelligence.com/"
+    title="Graph-Agent-Demo"
+    width="100%"
+    height="900"
+    scrolling="yes"
+    loading="lazy"
+    allowfullscreen
+    style="width: 100%; height: 100%; border: 0; display: block;">
+  </iframe>
+</div>
 
 ## Publications
 

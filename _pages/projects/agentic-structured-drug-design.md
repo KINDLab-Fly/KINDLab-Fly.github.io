@@ -8,23 +8,6 @@ permalink: /projects/agentic-structured-drug-design/
 
 # Agentic Reasoning and Decision-making for Structured Drug Design
 
-## Live Demo
-
-Explore the interactive drug-design demo below, or open it in a new tab: [Drug-Design-Agent-Demo](https://drug-design.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
-
-<div class="project-demo-embed" style="width: min(1500px, calc(100vw - 32px)); max-width: calc(100vw - 32px); height: 2050px; min-height: 2050px; margin: 24px 0 34px 50%; transform: translateX(-50%); border: 1px solid #d8dee7; border-radius: 6px; overflow: hidden; background: #f8f8f8; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);">
-  <iframe
-    src="https://drug-design.graphagentintelligence.com/"
-    title="Drug-Design-Agent-Demo"
-    width="100%"
-    height="2050"
-    scrolling="no"
-    loading="lazy"
-    allowfullscreen
-    style="width: 100%; height: 100%; border: 0; display: block;">
-  </iframe>
-</div>
-
 ## Project Description
 
 Drug discovery depends on reasoning over multiple structured signals: molecular graphs, scaffold constraints, binding-site geometry, assay evidence, biological context, calculated molecular properties, and candidate trade-offs. This project designs agentic reasoning and decision-making systems that use those structures as first-class reasoning objects rather than treating drug design as only text generation or black-box molecule sampling.
@@ -40,6 +23,23 @@ Key directions include:
 - **Trustworthy discovery support:** Surface intermediate evidence and decision paths so users can inspect why a candidate is promising or risky.
 
 Together, these directions aim to move drug-discovery agents beyond one-shot molecule generation toward interactive design systems that can condition on user-provided chemical structure, reason over multiple property constraints, and expose intermediate evidence for human inspection.
+
+## Live Demo
+
+Explore the interactive drug-design demo below, or open it in a new tab: [Drug-Design-Agent-Demo](https://drug-design.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
+
+<div class="project-demo-embed" style="width: min(1500px, calc(100vw - 32px)); max-width: calc(100vw - 32px); height: 900px; min-height: 780px; margin: 24px 0 34px 50%; transform: translateX(-50%); border: 1px solid #d8dee7; border-radius: 6px; overflow: auto; background: #f8f8f8; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);">
+  <iframe
+    src="https://drug-design.graphagentintelligence.com/"
+    title="Drug-Design-Agent-Demo"
+    width="100%"
+    height="900"
+    scrolling="yes"
+    loading="lazy"
+    allowfullscreen
+    style="width: 100%; height: 100%; border: 0; display: block;">
+  </iframe>
+</div>
 
 ## Publications
 
