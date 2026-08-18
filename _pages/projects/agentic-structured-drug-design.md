@@ -1,12 +1,12 @@
 ---
-title: "Agentic Reasoning for Structured Drug Design"
+title: "Agentic Reasoning and Decision-making for Structured Drug Design"
 layout: textlay
-excerpt: "Agentic Reasoning for Structured Drug Design"
+excerpt: "Agentic Reasoning and Decision-making for Structured Drug Design"
 sitemap: false
 permalink: /projects/agentic-structured-drug-design/
 ---
 
-# Agentic Reasoning for Structured Drug Design
+# Agentic Reasoning and Decision-making for Structured Drug Design
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/agentic-drug-design.png){: style="width: 700px; height: auto; display: block; margin: 20px auto;" }
 
