@@ -8,16 +8,6 @@ permalink: /projects/agentic-structured-drug-design/
 
 # Agentic Reasoning and Decision-making for Structured Drug Design
 
-![]({{ site.url }}{{ site.baseurl }}/images/projects/agentic-drug-design.png){: style="width: 700px; height: auto; display: block; margin: 20px auto;" }
-
-The concept figure illustrates the project workflow: an LLM agent reasons across molecular graph structure, scaffold constraints, protein-binding context, learned property predictors, calculated property feedback, and iterative design loops. Rather than producing a molecule in one step, the agent can plan around a desired scaffold, generate candidates under multiple property constraints, inspect evidence, and revise designs through structured reasoning.
-
-## Project Team
-
-**Faculty**: Yu Wang, Eugene Douglass
-
-**Student**: Zhisheng Qi
-
 ## Live Demo
 
 Explore the interactive drug-design demo below, or open it in a new tab: [Drug-Design-Agent-Demo](https://drug-design.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
@@ -36,7 +26,7 @@ Explore the interactive drug-design demo below, or open it in a new tab: [Drug-D
 
 ## Project Description
 
-Drug discovery depends on reasoning over multiple structured signals: molecular graphs, scaffold constraints, binding-site geometry, assay evidence, biological context, calculated molecular properties, and candidate trade-offs. This project designs agentic reasoning systems that use those structures as first-class reasoning objects rather than treating drug design as only text generation or black-box molecule sampling.
+Drug discovery depends on reasoning over multiple structured signals: molecular graphs, scaffold constraints, binding-site geometry, assay evidence, biological context, calculated molecular properties, and candidate trade-offs. This project designs agentic reasoning and decision-making systems that use those structures as first-class reasoning objects rather than treating drug design as only text generation or black-box molecule sampling.
 
 The demo illustrates a structured reasoning workflow for molecular design. It currently supports specifying a scaffold, sketching a scaffold, and setting multi-constrained property targets. Given these conditions, the system conditionally generates candidate molecules and returns calculated property feedback so users can inspect whether candidates satisfy the intended design constraints. We train LLM agents over more than 10 million molecules so they can reason conditionally over scaffolds and multi-constrained molecular properties. This enables the agent to inspect molecular candidates, connect graph-level and structural evidence, evaluate property trade-offs, compare alternatives, and refine candidate molecules through feedback. The project aims to make drug-design reasoning more transparent, controllable, and scientifically grounded by combining graph-based molecular representations with neural reasoning and domain-guided evaluation.
 
@@ -47,6 +37,62 @@ Key directions include:
 - **Large-scale agent training:** Train and evaluate LLM agents over more than 10 million molecules to learn reusable reasoning patterns for design, screening, and refinement.
 - **Iterative design loops:** Support candidate generation, evaluation, critique, and refinement through multi-step agent workflows.
 - **Trustworthy discovery support:** Surface intermediate evidence and decision paths so users can inspect why a candidate is promising or risky.
+
+Together, these directions aim to move drug-discovery agents beyond one-shot molecule generation toward interactive design systems that can condition on user-provided chemical structure, reason over multiple property constraints, and expose intermediate evidence for human inspection.
+
+## Publications
+
+- **Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening**\
+Xin Wang, Yu Wang, Yunchao Liu, Jens Meiler, Tyler Derr.\
+SIAM International Conference on Data Mining (SDM), 2026.\
+[[Paper]](https://arxiv.org/abs/2510.16306)
+
+- **Advancements in Ligand-Based Virtual Screening through the Synergistic Integration of Graph Neural Networks and Expert-Crafted Descriptors**\
+Yunchao Liu, Rocco Moretti, Yu Wang, Ha Dong, Bobby Bodenheimer, Tyler Derr, Jens Meiler.\
+Journal of Chemical Information and Modeling (JCIM), 2025.
+
+- **WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking**\
+Yunchao Liu, Ha Dong, Xin Wang, Rocco Moretti, Yu Wang, Zhaoqian Su, Jiawei Gu, Bobby Bodenheimer, Charles Weaver, Jens Meiler, Tyler Derr.\
+Conference on Neural Information Processing Systems (NeurIPS), 2024.\
+[[Paper]](https://arxiv.org/abs/2411.09820) [[Code]](http://www.welqrate.org/)
+
+- **Interpretable Chirality-Aware Graph Neural Network for Quantitative Structure-Activity Relationship Modeling in Drug Discovery**\
+Yunchao Liu, Yu Wang, Oanh Vu, Rocco Moretti, Bobby Bodenheimer, Jens Meiler, Tyler Derr.\
+AAAI Conference on Artificial Intelligence (AAAI), 2023.\
+[[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.24.505155v1.abstract) [[Code]](https://github.com/meilerlab/MolKGNN)
+
+- **ChemicalX: A Deep Learning Library for Drug Pair Scoring**\
+Benedek Rozemberczki, Charles Tapley Hoyt, Anna Gogleva, Piotr Grabowski, Klas Karis, Andrej Lamov, Andriy Nikolov, Sebastian Nilsson, Michael Ughetto, Yu Wang, Tyler Derr, Benjamin M Gyori.\
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.\
+[[Paper]](https://arxiv.org/abs/2202.05240) [[Code]](https://github.com/AstraZeneca/chemicalx)
+
+## Preprints
+
+Project manuscripts and technical reports will be added as they are released.
+
+## Tutorials and Workshops
+
+### Workshops
+
+Related workshops will be added as they are released.
+
+### Tutorials
+
+Related tutorials will be added as they are released.
+
+## Awards and Honors
+
+Project awards and honors will be added as they are released.
+
+## Core Project Team
+
+**Faculty**: [Yu Wang](https://yuwang0103.github.io/), Eugene Douglass
+
+**Student**: [Zhisheng Qi](https://zhishengqi.github.io/)
+
+## Acknowledgements
+
+We thank our academic and domain collaborators for discussions and support on structure-aware drug-design research.
 
 ## Contact
 
