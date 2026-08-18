@@ -12,12 +12,13 @@ permalink: /projects/agentic-structured-drug-design/
 
 Explore the interactive drug-design demo below, or open it in a new tab: [Drug-Design-Agent-Demo](https://drug-design.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
 
-<div class="project-demo-embed" style="width: min(1500px, calc(100vw - 32px)); max-width: calc(100vw - 32px); height: 900px; min-height: 780px; margin: 24px 0 34px 50%; transform: translateX(-50%); border: 1px solid #d8dee7; border-radius: 6px; overflow: hidden; background: #f8f8f8; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);">
+<div class="project-demo-embed" style="width: min(1500px, calc(100vw - 32px)); max-width: calc(100vw - 32px); height: 2050px; min-height: 2050px; margin: 24px 0 34px 50%; transform: translateX(-50%); border: 1px solid #d8dee7; border-radius: 6px; overflow: hidden; background: #f8f8f8; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);">
   <iframe
     src="https://drug-design.graphagentintelligence.com/"
     title="Drug-Design-Agent-Demo"
     width="100%"
-    height="900"
+    height="2050"
+    scrolling="no"
     loading="lazy"
     allowfullscreen
     style="width: 100%; height: 100%; border: 0; display: block;">
