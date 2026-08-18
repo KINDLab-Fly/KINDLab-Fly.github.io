@@ -14,9 +14,7 @@ The concept figure illustrates the project workflow: an LLM agent reasons across
 
 ## Project Team
 
-**Team**: Yu Wang, Zhisheng Qi
-
-**Collaborator**: Eugene Douglass
+**Team**: Yu Wang, Eugene Douglass, Zhisheng Qi
 
 ## Live Demo
 

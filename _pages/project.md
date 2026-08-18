@@ -10,8 +10,7 @@ permalink: /project/
 # Projects
 
 ### [**Agentic Reasoning and Decision-making for Structured Drug Design**](https://kindlab-fly.github.io/projects/agentic-structured-drug-design/)
-**Team**: Yu Wang, Zhisheng Qi<br>
-**Collaborator**: Eugene Douglass<br>
+**Team**: Yu Wang, Eugene Douglass, Zhisheng Qi<br>
 **Live Demo**: [Drug-Design-Agent-Demo](https://drug-design.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/agentic-drug-design.png){: style="width: 400px; height: auto; float: left; margin: 10px 15px 10px 0px;" }
 This project develops agentic reasoning systems for structured drug design. The current demo supports scaffold specification, scaffold sketching, and multi-constrained property targets, then conditionally generates candidate molecules with calculated property feedback. We train LLM agents over more than 10 million molecules so they can reason over molecular graphs, scaffold-conditioned generation, structural biology signals, screening evidence, and property trade-offs, aiming to make drug-discovery workflows more transparent, controllable, and structure-aware.
