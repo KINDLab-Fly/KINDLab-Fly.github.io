@@ -14,7 +14,7 @@ permalink: /project/
 **Collaborator**: Eugene Douglass<br>
 **Live Demo**: [Drug-Design-Agent-Demo](https://drug-design.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/agentic-drug-design.png){: style="width: 400px; height: auto; float: left; margin: 10px 15px 10px 0px;" }
-This project explores agentic reasoning systems for structured drug design. The demo connects molecular graphs, scaffold-conditioned generation, structural biology signals, screening evidence, and multi-property constraints so an AI agent can propose candidates, inspect intermediate evidence, compare alternatives, and refine molecules through multi-step feedback. We train LLM agents over more than 10 million molecules to reason conditionally over scaffolds and multi-constrained molecular properties, aiming to make drug-discovery workflows more transparent, controllable, and structure-aware.
+This project develops agentic reasoning systems for structured drug design. The current demo supports scaffold specification, scaffold sketching, and multi-constrained property targets, then conditionally generates candidate molecules with calculated property feedback. We train LLM agents over more than 10 million molecules so they can reason over molecular graphs, scaffold-conditioned generation, structural biology signals, screening evidence, and property trade-offs, aiming to make drug-discovery workflows more transparent, controllable, and structure-aware.
 
 <div style="clear: both; margin-bottom: 30px;"></div>
 

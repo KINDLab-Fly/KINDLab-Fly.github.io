@@ -10,7 +10,7 @@ permalink: /projects/agentic-structured-drug-design/
 
 ![]({{ site.url }}{{ site.baseurl }}/images/projects/agentic-drug-design.png){: style="width: 700px; height: auto; display: block; margin: 20px auto;" }
 
-The concept figure illustrates the project workflow: an LLM agent reasons across molecular graph structure, scaffold constraints, protein-binding context, learned property predictors, and iterative feedback loops. Rather than producing a molecule in one step, the agent can plan around a desired scaffold, generate candidates under multiple property constraints, inspect evidence, and revise designs through structured reasoning.
+The concept figure illustrates the project workflow: an LLM agent reasons across molecular graph structure, scaffold constraints, protein-binding context, learned property predictors, calculated property feedback, and iterative design loops. Rather than producing a molecule in one step, the agent can plan around a desired scaffold, generate candidates under multiple property constraints, inspect evidence, and revise designs through structured reasoning.
 
 ## Project Team
 
@@ -36,9 +36,9 @@ Explore the interactive drug-design demo below, or open it in a new tab: [Drug-D
 
 ## Project Description
 
-Drug discovery depends on reasoning over multiple structured signals: molecular graphs, scaffold constraints, binding-site geometry, assay evidence, biological context, and candidate trade-offs. This project studies how agentic AI systems can use those structures as first-class reasoning objects rather than treating drug design as only text generation or black-box molecule sampling.
+Drug discovery depends on reasoning over multiple structured signals: molecular graphs, scaffold constraints, binding-site geometry, assay evidence, biological context, calculated molecular properties, and candidate trade-offs. This project designs agentic reasoning systems that use those structures as first-class reasoning objects rather than treating drug design as only text generation or black-box molecule sampling.
 
-The demo illustrates a structured reasoning workflow for molecular design. We train LLM agents over more than 10 million molecules so they can reason conditionally over scaffolds and multi-constrained molecular properties. This enables the agent to inspect molecular candidates, connect graph-level and structural evidence, evaluate property trade-offs, compare alternatives, and refine candidate molecules through feedback. The project aims to make drug-design reasoning more transparent, controllable, and scientifically grounded by combining graph-based molecular representations with neural reasoning and domain-guided evaluation.
+The demo illustrates a structured reasoning workflow for molecular design. It currently supports specifying a scaffold, sketching a scaffold, and setting multi-constrained property targets. Given these conditions, the system conditionally generates candidate molecules and returns calculated property feedback so users can inspect whether candidates satisfy the intended design constraints. We train LLM agents over more than 10 million molecules so they can reason conditionally over scaffolds and multi-constrained molecular properties. This enables the agent to inspect molecular candidates, connect graph-level and structural evidence, evaluate property trade-offs, compare alternatives, and refine candidate molecules through feedback. The project aims to make drug-design reasoning more transparent, controllable, and scientifically grounded by combining graph-based molecular representations with neural reasoning and domain-guided evaluation.
 
 Key directions include:
 
