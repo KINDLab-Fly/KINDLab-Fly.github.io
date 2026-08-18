@@ -9,7 +9,7 @@ permalink: /project/
 
 # Projects
 
-### [**Agentic Intelligence for Structured Reasoning and Decision-making**](https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/)
+### [**Agentic Reasoning and Decision-Making for Structured Knowledge Intelligence**](https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/)
 **Team PI**: Yu Wang<br>
 **Team Members**: Zhisheng Qi, Yongjia Lei, Utkarsh Sahu<br>
 **Live Demo**: [Graph-Agent-Demo](https://graph-agent.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }<br>

@@ -1,12 +1,12 @@
 ---
-title: "Agentic Intelligence for Structured Reasoning and Decision-making"
+title: "Agentic Reasoning and Decision-Making for Structured Knowledge Intelligence"
 layout: textlay
-excerpt: "Agentic Intelligence for Structured Reasoning and Decision-making"
+excerpt: "Agentic Reasoning and Decision-Making for Structured Knowledge Intelligence"
 sitemap: false
 permalink: /projects/nsf-III-GraphRAG/
 ---
 
-# Agentic Intelligence for Structured Reasoning and Decision-making
+# Agentic Reasoning and Decision-Making for Structured Knowledge Intelligence
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/NSF-III-GraphRAG.png){: style="width: 700px; height: auto; display: block; margin: 20px auto;" }
 
@@ -143,7 +143,7 @@ SIAM International Conference on Data Mining (SDM), 2025.
 
 ## Acknowledgements
 
-We thank all our academic and industrial collaborators for their support. This work is supported by the National Science Foundation through III 2524379. Any opinions, findings, conclusions, or recommendations expressed here are those of the authors and do not necessarily reflect the views of the National Science Foundation.
+We thank all our academic and industrial collaborators for their support. This work is supported by the National Science Foundation through III 2524379 and NAIRR250188. Any opinions, findings, conclusions, or recommendations expressed here are those of the authors and do not necessarily reflect the views of the National Science Foundation.
 
 ![]({{ site.baseurl }}/images/funding/NSF_logo_animation.gif)
 
