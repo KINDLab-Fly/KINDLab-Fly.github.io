@@ -9,6 +9,14 @@ permalink: /project/
 
 # Projects
 
+### [**Agentic Reasoning for Structured Drug Design**](https://kindlab-fly.github.io/projects/agentic-structured-drug-design/)
+**Team PI**: Yu Wang<br>
+**Live Demo**: [Drug-Design-Agent-Demo](https://drug-design.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }<br>
+![]({{ site.url }}{{ site.baseurl }}/images/projects/agentic-drug-design.png){: style="width: 400px; height: auto; float: left; margin: 10px 15px 10px 0px;" }
+This project explores agentic reasoning systems for structured drug design. The demo connects molecular graphs, structural biology signals, screening evidence, and design constraints so an AI agent can propose candidates, inspect intermediate evidence, compare alternatives, and refine molecules through multi-step feedback. The broader goal is to make drug-discovery workflows more transparent, controllable, and structure-aware by combining graph-based molecular representations with neural reasoning and domain-guided evaluation.
+
+<div style="clear: both; margin-bottom: 30px;"></div>
+
 ### [**Agentic Reasoning and Decision-Making for Structured Knowledge Intelligence**](https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/)
 **Team PI**: Yu Wang<br>
 **Team Members**: Zhisheng Qi, Yongjia Lei, Utkarsh Sahu<br>
