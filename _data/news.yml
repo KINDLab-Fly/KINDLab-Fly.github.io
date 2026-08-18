@@ -11,6 +11,9 @@
   headline: "📚 Our paper on Personalized AutoResearch has been accepted at ACM AI Leadership Summit 2026!"
 
 - date: 07/2026
+  headline: "📚 Our paper, <a href=\"https://arxiv.org/abs/2502.06872\" target=\"_blank\" rel=\"noopener noreferrer\">Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey</a>, has been accepted in ACM Computing Surveys (CSUR)!"
+
+- date: 07/2026
   headline: "📚 Our paper, <a href=\"https://arxiv.org/abs/2510.16306\" target=\"_blank\" rel=\"noopener noreferrer\">Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening</a>, has been accepted at SDM 2026!"
 
 - date: 07/2026
