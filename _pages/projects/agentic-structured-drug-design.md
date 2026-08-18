@@ -10,19 +10,18 @@ permalink: /projects/agentic-structured-drug-design/
 
 ## Project Description
 
-Drug discovery depends on reasoning over multiple structured signals: molecular graphs, scaffold constraints, binding-site geometry, assay evidence, biological context, calculated molecular properties, and candidate trade-offs. This project designs agentic reasoning and decision-making systems that use those structures as first-class reasoning objects rather than treating drug design as only text generation or black-box molecule sampling.
+Drug discovery depends on reasoning over multiple structured signals: molecular graphs, scaffold constraints, binding-site geometry, assay evidence, biological context, calculated molecular properties, and candidate trade-offs. This project designs agentic reasoning and decision-making systems that use those structures as first-class reasoning objects to support controllable and evidence-grounded drug design.
 
 The demo illustrates a structured reasoning workflow for molecular design. It currently supports specifying a scaffold, sketching a scaffold, and setting multi-constrained property targets. Given these conditions, the system conditionally generates candidate molecules and returns calculated property feedback so users can inspect whether candidates satisfy the intended design constraints. We train LLM agents over more than 10 million molecules so they can reason conditionally over scaffolds and multi-constrained molecular properties. This enables the agent to inspect molecular candidates, connect graph-level and structural evidence, evaluate property trade-offs, compare alternatives, and refine candidate molecules through feedback. The project aims to make drug-design reasoning more transparent, controllable, and scientifically grounded by combining graph-based molecular representations with neural reasoning and domain-guided evaluation.
 
 Key directions include:
 
-- **Scaffold-conditioned generation:** Guide molecular design around desired scaffold structures while preserving chemically meaningful graph patterns.
-- **Multi-property constrained reasoning:** Optimize candidates across multiple molecular objectives and constraints rather than a single score.
+- **Scaffold-conditioned generation:** Guide molecular design around desired scaffold structures to preserve chemical properties.
+- **Multi-Property Constraints:** Optimize candidates across multiple molecular objectives and constraints rather than a single score.
 - **Large-scale agent training:** Train and evaluate LLM agents over more than 10 million molecules to learn reusable reasoning patterns for design, screening, and refinement.
 - **Iterative design loops:** Support candidate generation, evaluation, critique, and refinement through multi-step agent workflows.
-- **Trustworthy discovery support:** Surface intermediate evidence and decision paths so users can inspect why a candidate is promising or risky.
 
-Together, these directions aim to move drug-discovery agents beyond one-shot molecule generation toward interactive design systems that can condition on user-provided chemical structure, reason over multiple property constraints, and expose intermediate evidence for human inspection.
+Together, these directions aim to move drug-discovery agents beyond one-shot molecule generation toward interactive design systems that can condition on user-provided chemical structure, reason over multiple properties, and expose intermediate evidence for human inspection.
 
 ## Live Demo
 
