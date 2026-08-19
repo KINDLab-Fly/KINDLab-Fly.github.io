@@ -17,7 +17,7 @@ The AI Weekly Seminar@KIND is a weekly seminar held every Friday, open to everyo
 ## Location
 
 **In-person:** Boyd 815<br>
-**Microsoft Teams:** [https://teams.microsoft.com/meet/288486958454634?p=LOeGFqeOEcNL4257in](https://teams.microsoft.com/meet/288486958454634?p=LOeGFqeOEcNL4257in)
+**Online:** [Online Meeting Link](https://teams.microsoft.com/meet/288486958454634?p=LOeGFqeOEcNL4257in)
 
 ---
 
