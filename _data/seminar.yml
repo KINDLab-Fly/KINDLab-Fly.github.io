@@ -1,6 +1,21 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-08-14"
+  time: "3:30–5:30 PM PST"
+  presenter: "Zhisheng Qi"
+  paper: "Novelty-aware Generation"
+
+- date: "2026-08-07"
+  time: "3:30–5:30 PM PST"
+  presenter: "—"
+  paper: "Skipped due to transition to UGA"
+
+- date: "2026-07-31"
+  time: "3:30–5:30 PM PST"
+  presenter: "—"
+  paper: "Skipped due to transition to UGA"
+
 - date: "2026-07-24"
   time: "3:30–5:30 PM PST"
   presenter: "Jiaxi Li"
