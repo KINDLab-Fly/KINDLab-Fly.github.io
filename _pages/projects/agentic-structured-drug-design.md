@@ -84,12 +84,6 @@ Related tutorials will be added as they are released.
 
 Project awards and honors will be added as they are released.
 
-## Core Project Team
-
-**Faculty**: [Yu Wang](https://yuwang0103.github.io/), Eugene Douglass
-
-**Student**: [Zhisheng Qi](https://zhishengqi.github.io/)
-
 ## Acknowledgements
 
 We thank our academic and domain collaborators for discussions and support on structure-aware drug-design research.
