@@ -162,7 +162,8 @@ firstp {
 }
 
 #footer .footer-visitor-map {
-	width: 180px;
+	width: 280px;
+	max-width: 100%;
 	margin-left: 0;
 	text-align: center;
 }
@@ -178,8 +179,9 @@ firstp {
 
 #footer .footer-visitor-map__widget {
 	display: block;
-	width: 180px;
-	min-height: 120px;
+	width: 280px;
+	max-width: 100%;
+	min-height: 165px;
 	overflow: hidden;
 }
 
@@ -187,7 +189,7 @@ firstp {
 #footer .footer-visitor-map__widget canvas,
 #footer .footer-visitor-map__widget iframe {
 	display: block;
-	max-width: 180px;
+	max-width: 280px;
 	height: auto;
 	margin: 0 auto;
 }
