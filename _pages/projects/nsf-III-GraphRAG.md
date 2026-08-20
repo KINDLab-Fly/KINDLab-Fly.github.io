@@ -10,13 +10,15 @@ permalink: /projects/nsf-III-GraphRAG/
 
 ## Project Description
 
-Solutions to real-world problems, such as scientific document question-answering, cybersecurity diagnosis, and e-commerce personalization, can often be improved by augmenting the underlying generative artificial intelligence-based (Gen-AI) systems with retrieved external knowledge. Much of this external knowledge is organized in graph-structured formats that encode unique relational signals. For example, citation links among scientific papers reveal their deep intellectual dependencies across different fields. Recurring co-occurrences among software components and vulnerability reports can reveal latent causal chains triggering security flaws. Online human interactions, such as liking, commenting, or reposting, reflect individual traits and preferences. This project pioneers retrieval techniques that locate appropriate graph-structured knowledge and infuse it into Gen-AI systems to solve downstream problems, close knowledge gaps, and enable more useful, trustworthy, and diverse predictions, discovery, and decision-making. In personalization, the proposed retrieval techniques could give a social e-commerce platform a holistic view of each customer and support highly personalized recommendations. In cybersecurity, hidden dependencies among vulnerabilities and defenses could be exploited, allowing security operators to trace multi-step attack chains and harden critical systems against emerging threats. In scientific discovery and innovation, relational knowledge in graph-level retrieval can support exploration of multifaceted content and provide diverse insights that push existing knowledge boundaries. To meet these goals, this project builds well-rounded graph retrieval techniques for retrieval-augmented generation (RAG) systems along three dimensions:
+Many real-world AI systems need to use structured knowledge rather than relying on generated text alone. This project explores agentic intelligence for structured knowledge retrieval, with an emphasis on helping users ask questions, review relevant evidence, and obtain more grounded responses.
 
-- **Utility:** Harmonize structured knowledge in graphs with neural knowledge in large language models through structured knowledge checking, evolving retrieval emphasis, and agentic multi-round graph traversal.
-- **Trustworthiness:** Retrieve error-controlled graph-structured knowledge, disclose vulnerabilities through structure-informed threat models, and improve safety with data-centric and model-centric filtering.
-- **Diversity:** Promote multi-agent collaborative exploration at both conceptual subgraph and individual entity levels.
+The demo provides a public-facing interface for exploring evidence-guided reasoning with structured knowledge. Users can interact with the system, review retrieved context, and see how structured knowledge can support more transparent AI-assisted discovery and decision-making.
 
-Together, these innovations advance graph algorithms, retrieval modeling, and graph-structured knowledge representations for impactful domains such as healthcare, scientific innovation, personalization, cyber defense, and targeting.
+- **Utility:** Use structured knowledge to support more grounded AI responses.
+- **Trustworthiness:** Make retrieved evidence easier to inspect and verify.
+- **Diversity:** Support broader exploration across related concepts and evidence.
+
+Together, these directions aim to make structured knowledge retrieval more transparent, useful, and easier to apply across scientific and decision-making workflows.
 
 ## Live Demo
 
