@@ -2,10 +2,10 @@
   headline: "📚 Our paper, <a href=\"https://arxiv.org/abs/2509.25530\" target=\"_blank\" rel=\"noopener noreferrer\">Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG</a>, has been accepted at EMNLP'26!"
 
 - date: 08/2026
-  headline: "🧪 <span style=\"color:red\"><b>Released demo: <a href=\"https://drug-design.graphagentintelligence.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:red\">Agentic Intelligence for Structured Drug Design</a>!</b></span>"
+  headline: "🧪 <span style=\"color:black\"><b>Released demo: <a href=\"https://drug-design.graphagentintelligence.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:black\">Agentic Intelligence for Structured Drug Design</a>!</b></span>"
 
 - date: 08/2026
-  headline: "🧠 <span style=\"color:red\"><b>Released demo: <a href=\"https://graph-agent.graphagentintelligence.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:red\">Agentic Intelligence for Structured Knowledge Retrieval</a>!</b></span>"
+  headline: "🧠 <span style=\"color:black\"><b>Released demo: <a href=\"https://graph-agent.graphagentintelligence.com/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color:black\">Agentic Intelligence for Structured Knowledge Retrieval</a>!</b></span>"
 
 - date: 08/2026
   headline: "🎉 KIND Lab is moving to UGA!"
