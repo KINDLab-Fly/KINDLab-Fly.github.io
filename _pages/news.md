@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "Knowledge Intelligence and Discovery Lab at University of Georgia."
 sitemap: false
-permalink: /news.html
+permalink: /news/
 ---
 
 # News
