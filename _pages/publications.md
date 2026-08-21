@@ -56,6 +56,10 @@ In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, 
 Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie, Yu Zhang.\
 Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
 
+[Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG](https://arxiv.org/abs/2509.25530)\
+Kai Guo, Xinnan Dai, Shenglai Zeng, Harry Shomer, Haoyu Han, Yu Wang, Jiliang Tang.\
+Empirical Methods in Natural Language Processing (EMNLP), 2026.
+
 [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/abs/2602.09319)\
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang.\
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Dataset and Benchmark Track (KDD), 2026. [[Code]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)

@@ -50,6 +50,11 @@ Haoyu Han, Harry Shomer, Yu Wang, Yongjia Lei, Kai Guo, Zhigang Hua, Bo Long, Hu
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Dataset and Benchmark Track (KDD), 2026.\
 [[Paper]](https://arxiv.org/abs/2502.11371) [[Code]](https://github.com/haoyuhan1/RAGvsGraphRAG)
 
+- **Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG**\
+Kai Guo, Xinnan Dai, Shenglai Zeng, Harry Shomer, Haoyu Han, Yu Wang, Jiliang Tang.\
+Empirical Methods in Natural Language Processing (EMNLP), 2026.\
+[[Paper]](https://arxiv.org/abs/2509.25530)
+
 - **Empowering GraphRAG with Knowledge Filtering and Integration**\
 Kai Guo, Harry Shomer, Shenglai Zeng, Haoyu Han, Yu Wang, Jiliang Tang.\
 Empirical Methods in Natural Language Processing (EMNLP), 2025.\
