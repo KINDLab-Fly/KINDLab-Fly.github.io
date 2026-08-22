@@ -22,6 +22,5 @@ This project develops agentic intelligence systems for structured drug design. T
 **Team PI**: Yu Wang<br>
 **Team Members**: Zhisheng Qi, Yongjia Lei, Utkarsh Sahu<br>
 **Live Demo**: [Graph-Agent-Demo](https://graph-agent.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }<br>
-**Recent Paper**: [Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG](https://arxiv.org/abs/2509.25530){: target="_blank" rel="noopener noreferrer" }<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/research/NSF-III-GraphRAG.png){: style="width: 400px; height: auto; float: left; margin: 10px 15px 10px 0px;" }
 This project develops agentic intelligence systems for structured knowledge retrieval. The demo provides an interactive workflow for asking questions, retrieving relevant evidence, and inspecting how structured knowledge can support more grounded AI-assisted reasoning. The goal is to make structured retrieval more transparent, useful, and accessible for scientific and decision-making workflows while keeping the public project description focused on high-level capabilities.
