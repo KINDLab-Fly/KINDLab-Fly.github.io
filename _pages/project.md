@@ -53,8 +53,7 @@ permalink: /project/
 </a>
 <div>
 <h3><a href="https://kindlab-fly.github.io/projects/agentic-structured-drug-design/"><strong>Agentic Intelligence for Structured Drug Design</strong></a></h3>
-<p><strong>Live Demo</strong>: <a href="https://drug-design.graphagentintelligence.com/" target="_blank" rel="noopener noreferrer">Drug-Design-Agent-Demo</a></p>
-This project develops agentic intelligence systems for structured drug design. The demo provides an interactive workflow for specifying design goals, generating candidate molecules, reviewing feedback, and refining alternatives. The goal is to make AI-assisted drug-design workflows more transparent, controllable, and useful for scientific exploration while keeping the public project description focused on high-level capabilities.
+This project develops agentic intelligence systems for structured drug design. The work studies interactive workflows for specifying design goals, generating candidate molecules, reviewing feedback, and refining alternatives. The goal is to make AI-assisted drug-design workflows more transparent, controllable, and useful for scientific exploration while keeping the public project description focused on high-level capabilities.
 </div>
 </div>
 
@@ -65,9 +64,8 @@ This project develops agentic intelligence systems for structured drug design. T
 <div>
 <h3><a href="https://kindlab-fly.github.io/projects/nsf-III-GraphRAG/"><strong>Agentic Intelligence for Structured Knowledge Retrieval</strong></a></h3>
 <p><strong>Team PI</strong>: Yu Wang<br>
-<strong>Team Members</strong>: Zhisheng Qi, Yongjia Lei, Utkarsh Sahu<br>
-<strong>Live Demo</strong>: <a href="https://graph-agent.graphagentintelligence.com/" target="_blank" rel="noopener noreferrer">Graph-Agent-Demo</a></p>
-This project develops agentic intelligence systems for structured knowledge retrieval. The demo provides an interactive workflow for asking questions, retrieving relevant evidence, and inspecting how structured knowledge can support more grounded AI-assisted reasoning. The goal is to make structured retrieval more transparent, useful, and accessible for scientific and decision-making workflows while keeping the public project description focused on high-level capabilities.
+<strong>Team Members</strong>: Zhisheng Qi, Yongjia Lei, Utkarsh Sahu</p>
+This project develops agentic intelligence systems for structured knowledge retrieval. The work studies interactive workflows for asking questions, retrieving relevant evidence, and inspecting how structured knowledge can support more grounded AI-assisted reasoning. The goal is to make structured retrieval more transparent, useful, and accessible for scientific and decision-making workflows while keeping the public project description focused on high-level capabilities.
 </div>
 </div>
 

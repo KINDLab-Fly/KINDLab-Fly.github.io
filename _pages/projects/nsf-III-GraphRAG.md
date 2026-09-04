@@ -12,30 +12,13 @@ permalink: /projects/nsf-III-GraphRAG/
 
 Many real-world AI systems need to use structured knowledge rather than relying on generated text alone. This project explores agentic intelligence for structured knowledge retrieval, with an emphasis on helping users ask questions, review relevant evidence, and obtain more grounded responses.
 
-The demo provides a public-facing interface for exploring evidence-guided reasoning with structured knowledge. Users can interact with the system, review retrieved context, and see how structured knowledge can support more transparent AI-assisted discovery and decision-making.
+The project studies evidence-guided reasoning with structured knowledge, including workflows for asking questions, reviewing retrieved context, and inspecting how structured knowledge can support more transparent AI-assisted discovery and decision-making. Public notes are intentionally kept at a high level while implementation details remain shared through collaboration channels.
 
 - **Utility:** Use structured knowledge to support more grounded AI responses.
 - **Trustworthiness:** Make retrieved evidence easier to inspect and verify.
 - **Diversity:** Support broader exploration across related concepts and evidence.
 
 Together, these directions aim to make structured knowledge retrieval more transparent, useful, and easier to apply across scientific and decision-making workflows.
-
-## Live Demo
-
-Explore the interactive Graph-Agent-Demo below, or open it in a new tab: [Graph-Agent-Demo](https://graph-agent.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
-
-<div class="project-demo-embed" style="width: min(1500px, calc(100vw - 32px)); max-width: calc(100vw - 32px); height: 900px; min-height: 780px; margin: 24px 0 34px 50%; transform: translateX(-50%); border: 1px solid #d8dee7; border-radius: 6px; overflow: auto; background: #f8f8f8; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);">
-  <iframe
-    src="https://graph-agent.graphagentintelligence.com/"
-    title="Graph-Agent-Demo"
-    width="100%"
-    height="900"
-    scrolling="yes"
-    loading="lazy"
-    allowfullscreen
-    style="width: 100%; height: 100%; border: 0; display: block;">
-  </iframe>
-</div>
 
 ## Publications
 

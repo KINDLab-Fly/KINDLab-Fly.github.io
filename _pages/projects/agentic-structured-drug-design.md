@@ -12,7 +12,7 @@ permalink: /projects/agentic-structured-drug-design/
 
 Drug discovery benefits from systems that can connect user intent with chemically meaningful candidate design. This project explores agentic intelligence for structured drug design, with an emphasis on interactive workflows that help users specify design goals, inspect candidate molecules, and refine results through feedback.
 
-The demo provides a public-facing interface for exploring structured molecular design. Users can provide design preferences, review candidate molecules, and compare alternatives in an iterative workflow. The project aims to make AI-assisted drug-design workflows more transparent, controllable, and useful for scientific exploration.
+The project studies structured molecular design workflows where users can provide design preferences, review candidate molecules, and compare alternatives iteratively. Public notes are intentionally kept at a high level while implementation details remain shared through collaboration channels.
 
 Key directions include:
 
@@ -21,23 +21,6 @@ Key directions include:
 - **Interactive refinement:** Help users compare, critique, and refine generated candidates through an iterative workflow.
 
 Together, these directions aim to support interactive design systems that can reflect user-provided goals, reason over multiple properties, and present results in a way that is easier for humans to inspect.
-
-## Live Demo
-
-Explore the interactive drug-design demo below, or open it in a new tab: [Drug-Design-Agent-Demo](https://drug-design.graphagentintelligence.com/){: target="_blank" rel="noopener noreferrer" }.
-
-<div class="project-demo-embed" style="width: min(1500px, calc(100vw - 32px)); max-width: calc(100vw - 32px); height: 900px; min-height: 780px; margin: 24px 0 34px 50%; transform: translateX(-50%); border: 1px solid #d8dee7; border-radius: 6px; overflow: auto; background: #f8f8f8; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);">
-  <iframe
-    src="https://drug-design.graphagentintelligence.com/"
-    title="Drug-Design-Agent-Demo"
-    width="100%"
-    height="900"
-    scrolling="yes"
-    loading="lazy"
-    allowfullscreen
-    style="width: 100%; height: 100%; border: 0; display: block;">
-  </iframe>
-</div>
 
 ## Publications
 
