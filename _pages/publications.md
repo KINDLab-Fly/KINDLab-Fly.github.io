@@ -52,6 +52,10 @@ In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, 
 ---
 ## Conference and Journal Papers
 
+**Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing**\
+Amelie Wei, Yu Wang.\
+The Asian Conference on Media, Communication & Film (MediAsia), 2026.
+
 [ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents](https://aclanthology.org/2026.acl-long.1477/)\
 Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie, Yu Zhang.\
 Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
