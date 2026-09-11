@@ -47,7 +47,7 @@
   headline: "📚 Our preprint <a href=\"https://arxiv.org/abs/2602.09319\" target=\"_blank\" rel=\"noopener noreferrer\">Benchmarking Knowledge-Extraction Attack and Defense on RAG</a> is online!"
 
 - date: 01/2026
-  headline: "📚 Our paper <a href=\"http://ryanrossi.com/pubs/LLM-based_User_Simulated_Data_Generation_Survey.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Large Language Models for Conversational User Simulation</a> has been accepted at EACL 2026!"
+  headline: "📚 Our paper <a href=\"https://aclanthology.org/2026.eacl-long.200/\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey on LLM-based Conversational User Simulation</a> has been accepted at EACL 2026!"
 
 - date: 01/2026
   headline: "📚 Our paper on RL Exploration on Graphs has been accepted at WWW'26!"

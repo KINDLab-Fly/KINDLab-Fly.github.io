@@ -64,7 +64,7 @@ ACM Computing Surveys (CSUR), 2026.\
 
 - **Mixture of Structural-and-Textual Retrieval over Text-rich Graph Knowledge Bases**\
 Yongjia Lei, Haoyu Han, Ryan A. Rossi, Franck Dernoncourt, Nedim Lipka, Mahantesh M. Halappanavar, Jiliang Tang, Yu Wang.\
-Annual Meeting of the Association for Computational Linguistics (ACL), 2025.\
+Findings of the Association for Computational Linguistics: ACL 2025.\
 [[Paper]](https://aclanthology.org/2025.findings-acl.941/) [[Code]](https://github.com/Yoega/MoR)\
 <span style="color:red">**Best Poster Honorable Mention at SDM'25 Doctoral Forum**</span>
 
@@ -73,10 +73,10 @@ Annual Meeting of the Association for Computational Linguistics (ACL), 2025.\
 - **Retrieval-Augmented Generation with Graphs (GraphRAG)**\
 Yu Wang, Haoyu Han, Harry Shomer, Kai Guo, Jiayuan Ding, Yongjia Lei, Mahantesh Halappanavar, Ryan A. Rossi, Subhabrata Mukherjee, Xianfeng Tang, Qi He, Zhigang Hua, Bo Long, Tong Zhao, Neil Shah, Amin Javari, Yinglong Xia, Jiliang Tang.\
 arXiv, 2025.\
-[[Paper]](https://arxiv.org/abs/2501.00309v1) [[Paper List]](https://github.com/Graph-RAG/GraphRAG/)
+[[Paper]](https://arxiv.org/abs/2501.00309) [[Paper List]](https://github.com/Graph-RAG/GraphRAG/)
 
 - **RL-Index: Reinforcement Learning for Retrieval Index Reasoning**\
-Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, Yu Wang.\
+Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Yuchen Zhuang, Wenqi Shi, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, Yu Wang.\
 arXiv, 2026.\
 [[Paper]](https://arxiv.org/abs/2606.16316)
 
@@ -104,8 +104,8 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
 
 ### Tutorials
 
-- [**Rigorizing Retrieval-augmented Generation with Structural Intelligence**](https://kindlab-fly.github.io/tutorials/wsdm26/)\
-Zhisheng Qi, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, Yu Zhang, Ryan Rossi, Hui Liu, Yu Wang.\
+- [**Rigorizing Retrieval-augmented Generation with Structured Knowledge**](https://kindlab-fly.github.io/tutorials/wsdm26/)\
+Zhisheng Qi, Utkarsh Sahu, Yongjia Lei, Haoyu Han, Harry Shomer, Kaize Ding, Yu Zhang, Ryan Rossi, Hui Liu, Yu Wang.\
 ACM International Conference on Web Search and Data Mining (WSDM), 2026.
 
 - [**Empowering Retrieval-augmented Generation with Graph-structured Knowledge**](https://kindlab-fly.github.io/tutorials/sdm25/)\
