@@ -8,6 +8,8 @@ permalink: /projects/nsf-III-GraphRAG/
 
 # Agentic Intelligence for Structured Knowledge Retrieval
 
+![GraphRAG overview showing graph retrieval from a knowledge base to support downstream tasks]({{ site.url }}{{ site.baseurl }}/images/research/NSF-III-GraphRAG.png){: style="width: 700px; max-width: 100%; height: auto; display: block; margin: 20px auto;" }
+
 ## Project Description
 
 Many real-world AI systems need to use structured knowledge rather than relying on generated text alone. This project explores agentic intelligence for structured knowledge retrieval, with an emphasis on helping users ask questions, review relevant evidence, and obtain more grounded responses.
