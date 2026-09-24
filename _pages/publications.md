@@ -52,6 +52,10 @@ In Graph Neural Networks: Foundations, Frontiers, and Applications, Lingfei Wu, 
 ---
 ## Conference and Journal Papers
 
+[Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction](https://arxiv.org/abs/2606.27539)\
+Utkarsh Sahu, Zhisheng Qi, Li Zhu, Yizhao Yang, Jun Li, Ryan Rossi, Yu Wang.\
+Conference on Neural Information Processing Systems (NeurIPS), Evaluations & Datasets Track, 2026.
+
 [ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents](https://aclanthology.org/2026.acl-long.1477/)\
 Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie, Yu Zhang.\
 Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
@@ -332,10 +336,6 @@ arXiv, 2026.
 
 [RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316)\
 Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Yuchen Zhuang, Wenqi Shi, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, Yu Wang.\
-arXiv, 2026.
-
-[Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction](https://arxiv.org/abs/2606.27539)\
-Utkarsh Sahu, Zhisheng Qi, Li Zhu, Yizhao Yang, Jun Li, Ryan Rossi, Yu Wang.\
 arXiv, 2026.
 
 [Sparse Personalized Text Generation with Multi-Trajectory Reasoning](https://arxiv.org/abs/2604.24996)\

@@ -24,6 +24,11 @@ Together, these directions aim to make structured knowledge retrieval more trans
 
 ## Publications
 
+- **Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction**\
+Utkarsh Sahu, Zhisheng Qi, Li Zhu, Yizhao Yang, Jun Li, Ryan Rossi, Yu Wang.\
+Conference on Neural Information Processing Systems (NeurIPS), Evaluations & Datasets Track, 2026.\
+[[Paper]](https://arxiv.org/abs/2606.27539)
+
 - **Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation**\
 Zhisheng Qi, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan Rossi, Franck Dernoncourt, Mahantesh Halappanavar, Nesreen Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang.\
 ACM SIGKDD Conference on Knowledge Discovery & Data Mining, Dataset and Benchmark Track (KDD), 2026.\
@@ -81,11 +86,6 @@ arXiv, 2025.\
 Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Yuchen Zhuang, Wenqi Shi, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, Yu Wang.\
 arXiv, 2026.\
 [[Paper]](https://arxiv.org/abs/2606.16316)
-
-- **Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction**\
-Utkarsh Sahu, Zhisheng Qi, Li Zhu, Yizhao Yang, Jun Li, Ryan Rossi, Yu Wang.\
-arXiv, 2026.\
-[[Paper]](https://arxiv.org/abs/2606.27539)
 
 - **Sparse Personalized Text Generation with Multi-Trajectory Reasoning**\
 Bo Ni, Haowei Fu, Qinwen Ge, Franck Dernoncourt, Samyadeep Basu, Nedim Lipka, Seunghyun Yoon, Yu Wang, Nesreen K. Ahmed, Subhojyoti Mukherjee, Puneet Mathur, Ryan A. Rossi, Tyler Derr.\
