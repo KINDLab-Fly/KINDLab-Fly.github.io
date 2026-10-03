@@ -104,7 +104,7 @@ permalink: /people/
   {% endif %}
   <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
 
-  <i>{{ member.info }} <br>email: {{ member.email }}</i>
+  <i>{{ member.info }}{% if member.email %} <br>email: {{ member.email }}{% endif %}</i>
   <ul style="overflow: hidden">
 
   {% if member.research_direction %}
