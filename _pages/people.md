@@ -99,7 +99,9 @@ permalink: /people/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  {% if member.photo %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% endif %}
   <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
 
   <i>{{ member.info }} <br>email: {{ member.email }}</i>
