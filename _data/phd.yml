@@ -35,12 +35,8 @@
   email:
   research_direction: LLM Agents, Self-Distillation, Reinforcement Learning
   research_outcomes:
-    - "<a href=\"https://doi.org/10.1007/978-981-92-1465-5_37\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>First author:</strong> Conditional Contrastive Confidence-Based Uncertainty Quantification for LLMs (PAKDD 2026)</a>"
-    - "<a href=\"https://openreview.net/forum?id=BaW14onJX2\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Co-first author:</strong> Small Updates, Big Doubts: Does Parameter-Efficient Fine-tuning Enhance Uncertainty Awareness for Large Language Models? (under review at TMLR)</a>"
-  achievements:
-    - PAKDD 2026 Paper Acceptance
-    - Led the C<sup>3</sup> uncertainty-quantification project end-to-end
-    - Co-first-author TMLR manuscript under review
+    - "<a href=\"https://doi.org/10.1007/978-981-92-1465-5_37\" target=\"_blank\" rel=\"noopener noreferrer\">PAKDD 2026</a>"
+    - "<a href=\"https://openreview.net/forum?id=BaW14onJX2\" target=\"_blank\" rel=\"noopener noreferrer\">TMLR (Under Review)</a>"
   number_educ: 0
   education1:
   education2:
