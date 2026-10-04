@@ -109,7 +109,7 @@ permalink: /people/
 
   {% if member.research_direction %}
   <li> Direction: {{ member.research_direction }} </li>
-  <li> 1st Author Research Outcomes:
+  <li> {% if member.research_outcomes_label %}{{ member.research_outcomes_label }}{% else %}1st Author Research Outcomes{% endif %}:
     <ul>
     {% for outcome in member.research_outcomes %}
       <li>{{ outcome }}</li>

@@ -31,12 +31,13 @@
 
 - name: Yifan Zhang
   photo: Yifan.png
-  info: Incoming Computer Science Ph.D. student at UO
+  info: Computer Science Ph.D. student at UGA
   email:
   research_direction: LLM Agents, Self-Distillation, Reinforcement Learning
+  research_outcomes_label: 1st Author Papers
   research_outcomes:
     - "<a href=\"https://doi.org/10.1007/978-981-92-1465-5_37\" target=\"_blank\" rel=\"noopener noreferrer\">PAKDD 2026</a>"
-    - "<a href=\"https://openreview.net/forum?id=BaW14onJX2\" target=\"_blank\" rel=\"noopener noreferrer\">TMLR (Under Review)</a>"
+    - "<a href=\"https://openreview.net/forum?id=BaW14onJX2\" target=\"_blank\" rel=\"noopener noreferrer\">TMLR 2026</a>"
   number_educ: 0
   education1:
   education2:
