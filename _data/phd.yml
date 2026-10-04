@@ -4,7 +4,7 @@
   photo: Zhisheng.png
   info: 2026 Computer Science Ph.D. at UGA
   email: Zhisheng.Qi@uga.edu
-  group_heading: Ph.D. Students
+  group_heading: Ph.D. Students at UGA
   research_direction: Agentic Reasoning on Structured Knowledge, Agentic Privacy and Security
   research_outcomes:
     - "<a href=\"https://arxiv.org/abs/2602.09319\" target=\"_blank\" rel=\"noopener noreferrer\">KDD 2026</a>"
@@ -52,6 +52,7 @@
   photo: Utkarsh.png
   info: 2026 Computer Science PhD at UO<br>co-advised with Professor Daniel Lowd
   email: utkarsh@uoregon.edu
+  group_heading: Previous Ph.D. Students at UO
   research_direction: Multi-Modal Social Network Learning, Agentic Privacy
   research_outcomes:
     - "<a href=\"https://dl.acm.org/doi/abs/10.1145/3773966.3779394\" target=\"_blank\" rel=\"noopener noreferrer\">WSDM 2026</a>"
