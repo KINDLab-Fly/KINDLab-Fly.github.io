@@ -1,6 +1,12 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-10-09"
+  time: "3–5 PM EDT"
+  presenter: "Haowen Xu"
+  paper: "Security Risks in Multi-Agent Collaboration: Latent Communication and Collective Backdoors. I’ll discuss three recent papers on how communication and collaboration introduce security risks in LLM-based multi-agent systems."
+  link: "https://arxiv.org/pdf/2609.39788"
+
 - date: "2026-10-02"
   time: "3–5 PM EDT"
   presenter: "Zhisheng Qi"
