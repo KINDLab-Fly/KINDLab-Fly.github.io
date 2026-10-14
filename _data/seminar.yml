@@ -1,6 +1,12 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-10-16"
+  time: "3–5 PM EDT"
+  presenter: "Jiaxi Li"
+  paper: "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning"
+  link: "https://arxiv.org/pdf/2606.26790"
+
 - date: "2026-10-09"
   time: "3–5 PM EDT"
   presenter: "Haowen Xu"
