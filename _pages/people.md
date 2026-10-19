@@ -104,17 +104,11 @@ permalink: /people/
   {% endif %}
   <h4>{% if member.website and member.website != 0 and member.website != "" %}<a href="{{ member.website }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</h4>
 
-  {% if member.outcomes_before_info and member.research_outcomes %}
-  <div><strong>{% if member.research_outcomes_label %}{{ member.research_outcomes_label }}{% else %}1st Author Research Outcomes{% endif %}:</strong>
-    {% for outcome in member.research_outcomes %}{{ outcome }}{% unless forloop.last %}, {% endunless %}{% endfor %}
-  </div>
-  {% endif %}
   <i>{{ member.info }}{% if member.email %} <br>email: {{ member.email }}{% endif %}</i>
   <ul style="overflow: hidden">
 
   {% if member.research_direction %}
   <li> Direction: {{ member.research_direction }} </li>
-  {% unless member.outcomes_before_info %}
   <li> {% if member.research_outcomes_label %}{{ member.research_outcomes_label }}{% else %}1st Author Research Outcomes{% endif %}:
     <ul>
     {% for outcome in member.research_outcomes %}
@@ -122,7 +116,6 @@ permalink: /people/
     {% endfor %}
     </ul>
   </li>
-  {% endunless %}
   {% if member.achievements %}
   <li> Achievements:
     <ul>
