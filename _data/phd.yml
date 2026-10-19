@@ -32,6 +32,7 @@
   photo: Yifan.png
   info: Computer Science Ph.D. student at UGA
   email:
+  outcomes_before_info: true
   research_direction: LLM Agents, Self-Distillation, Reinforcement Learning
   research_outcomes_label: 1st Author Papers
   research_outcomes:
