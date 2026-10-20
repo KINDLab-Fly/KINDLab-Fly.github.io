@@ -1,6 +1,11 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-10-23"
+  time: "3–5 PM EDT meeting; Paper presentation (90 min)"
+  presenter: "Yifan Zhang"
+  paper: "Introduction of JEV — JEV and JEV implementations by the community"
+
 - date: "2026-10-16"
   time: "3–5 PM EDT"
   presenter: "Jiaxi Li"
