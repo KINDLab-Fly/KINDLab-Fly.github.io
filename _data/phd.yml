@@ -49,7 +49,7 @@
   github: 0
 
 - name: Jiaxi Li
-  photo:
+  photo: Jiaxi.png
   info: Computer Science Ph.D. student at UGA<br>co-advised with Professors Jin Lu and Ninghao Liu
   email:
   research_direction: LLMs, Agentic Reasoning, Recursive Self-Improvement (RSI)
