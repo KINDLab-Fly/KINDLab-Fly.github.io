@@ -47,6 +47,22 @@
   linkedin: 0
   twitter: 0
   github: 0
+
+- name: Jiaxi Li
+  photo:
+  info: Computer Science Ph.D. student at UGA<br>co-advised with Professors Jin Lu and Ninghao Liu
+  email:
+  research_direction: LLMs, Agentic Reasoning, Recursive Self-Improvement (RSI)
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+  education5:
+  website: 0
+  linkedin: 0
+  twitter: 0
+  github: 0
   
 - name: Utkarsh Sahu
   photo: Utkarsh.png

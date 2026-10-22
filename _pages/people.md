@@ -109,6 +109,7 @@ permalink: /people/
 
   {% if member.research_direction %}
   <li> Direction: {{ member.research_direction }} </li>
+  {% if member.research_outcomes %}
   <li> {% if member.research_outcomes_label %}{{ member.research_outcomes_label }}{% else %}1st Author Research Outcomes{% endif %}:
     <ul>
     {% for outcome in member.research_outcomes %}
@@ -116,6 +117,7 @@ permalink: /people/
     {% endfor %}
     </ul>
   </li>
+  {% endif %}
   {% if member.achievements %}
   <li> Achievements:
     <ul>
