@@ -276,7 +276,7 @@ Advances in Civil Engineering 2020.
 **Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing**\
 Amelie Wei (high-school student), Yu Wang.\
 The Asian Conference on Media, Communication & Film (MediAsia), 2026.\
-Accepted for presentation following abstract peer review. [[Conference]](https://mediasia.iafor.org/)
+Accepted for presentation following abstract peer review. [[Presentation & Video]](https://mediasia.iafor.org/presentation/submission112733/)
 
 **Towards Explainable Benchmarking for Data-driven Post-Wildfire Debris Flow Prediction**\
 Zhisheng Qi, Li Zhu, Utkarsh Sahu, Douglas Tommey, Josh Roering, Yu Wang.\

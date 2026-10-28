@@ -2,6 +2,9 @@
   headline: "📚 One paper has been accepted at IEEE Big Data 2026."
 
 - date: 10/2026
+  headline: "🎤 Delighted to co-present our research on <a href=\"https://mediasia.iafor.org/presentation/submission112733/\" target=\"_blank\" rel=\"noopener noreferrer\">multi-modal aesthetic content engagement analysis</a> with high-school student <a href=\"https://www.linkedin.com/in/ameliewei\" target=\"_blank\" rel=\"noopener noreferrer\">Amelie Wei</a> at MediAsia 2026!"
+
+- date: 10/2026
   headline: "💰 Yu Wang's NSF NAIRR Pilot proposal, <b>Agentic Mechanism Discovery for Post-Wildfire Debris-Flow Prediction</b>, has been awarded!"
 
 - date: 09/2026
@@ -12,9 +15,6 @@
 
 - date: 09/2026
   headline: "📚 Our paper, <a href=\"https://arxiv.org/abs/2606.27539\" target=\"_blank\" rel=\"noopener noreferrer\">Benchmarking Multi-Modal Graph-Based Social Media Popularity Prediction</a>, has been accepted at the NeurIPS 2026 Evaluations &amp; Datasets Track. Congratulations, Utkarsh and Zhisheng!"
-
-- date: 09/2026
-  headline: "📚 Our work with high-school student <a href=\"https://www.linkedin.com/in/ameliewei\" target=\"_blank\" rel=\"noopener noreferrer\">Amelie Wei</a>, <a href=\"https://mediasia.iafor.org/\" target=\"_blank\" rel=\"noopener noreferrer\">Engagement Effects of User-Generated vs Corporate Aesthetics in Fast-Food Instagram Marketing</a>, has been accepted for presentation at MediAsia2026!"
 
 - date: 08/2026
   headline: "📚 Our paper, <a href=\"https://arxiv.org/abs/2509.25530\" target=\"_blank\" rel=\"noopener noreferrer\">Beyond Static Retrieval: Opportunities and Pitfalls of Iterative Retrieval in GraphRAG</a>, has been accepted at EMNLP'26!"
