@@ -1,6 +1,16 @@
 # Friday Seminar Schedule
 # Fields: date, time, presenter, paper, link (optional)
 
+- date: "2026-11-13"
+  time: "3–5 PM EST meeting; Paper presentation (90 min)"
+  presenter: "Haosheng Wang"
+  paper: "Recovery from Failure for Multi-Agent Systems: Graph loop engineering — How graph loop engineering helps MAS recover from failed executions"
+
+- date: "2026-11-13"
+  time: "3–5 PM EST meeting; AI-usage update (30 min)"
+  presenter: "Yifan Zhang"
+  paper: "Who's getting your next $200? — Comparing which model is better at research"
+
 - date: "2026-10-30"
   time: "3–5 PM EDT meeting; AI-usage update (30 min)"
   presenter: "Jiaxi Li"
