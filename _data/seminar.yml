@@ -2,9 +2,14 @@
 # Fields: date, time, presenter, paper, link (optional)
 
 - date: "2026-11-20"
-  time: "TBA; Paper presentation (90 min)"
+  time: "3–5 PM EST meeting; Paper presentation (90 min)"
   presenter: "Haowen Xu"
   paper: "Error Propagation in LLM Multi-Agent Systems: How We Measure It, Model It, and Contain It — Reviewing how errors and injected instructions spread through agent communication, how epidemic-style models describe this propagation, and how current work measures and contains it"
+
+- date: "2026-11-20"
+  time: "3–5 PM EST meeting; AI-usage update (30 min)"
+  presenter: "Haosheng Wang"
+  paper: "How AI helps Teaching"
 
 - date: "2026-11-13"
   time: "3–5 PM EST meeting; Paper presentation (90 min)"
