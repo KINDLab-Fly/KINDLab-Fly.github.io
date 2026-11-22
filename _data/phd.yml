@@ -13,7 +13,7 @@
     - "<a href=\"https://arxiv.org/abs/2606.27539\" target=\"_blank\" rel=\"noopener noreferrer\">NeurIPS 2026 E&amp;D</a>"
   achievements:
     - KDD 2026 Benchmark Oral Presentation (4.5%)
-    - SDM 2026 Doctoral Forum
+    - SDM 2026 Doctoral Forum Honorable Mention
     - UO Student OpenHouse 2026 Poster Runner-up
     - WSDM 2026 GraphRAG Tutorial Presented
     - WSDM 2026 Student Travel Award
@@ -64,6 +64,16 @@
   twitter: 0
   github: 0
   
+- name: Haowen Xu
+  info: Incoming Computer Science Ph.D. student at UGA (2027)
+  email: Haowen.Xu1@uga.edu
+  research_direction: Multi-Agent Systems, Security and Reliability
+
+- name: Haosheng Wang
+  info: Incoming Computer Science Ph.D. student at UGA (2027)
+  email: Haosheng.Wang1@uga.edu
+  research_direction: Conversational Agentic Systems, Structured Knowledge, Personalization, Education
+
 - name: Utkarsh Sahu
   photo: Utkarsh.png
   info: 2026 Computer Science PhD at UO<br>co-advised with Professor Daniel Lowd
