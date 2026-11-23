@@ -64,11 +64,11 @@
   twitter: 0
   github: 0
   
-- name: Haowen Xu
-  photo: Haowen.png
-  info: Incoming Computer Science Ph.D. student at UGA (2027)
-  email: Haowen.Xu1@uga.edu
-  research_direction: Multi-Agent Systems, Security and Reliability
+# - name: Haowen Xu
+#   photo: Haowen.png
+#   info: Incoming Computer Science Ph.D. student at UGA (2027)
+#   email: Haowen.Xu1@uga.edu
+#   research_direction: Multi-Agent Systems, Security and Reliability
 
 - name: Haosheng Wang
   photo: Haosheng.png
